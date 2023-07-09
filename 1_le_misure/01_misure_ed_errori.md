@@ -59,3 +59,14 @@ $\varepsilon_{r2} = \dfrac{0.5}{14} = 0.0357$
 
 La misura piu' precisa e' allora quella con l'errore relativo minore.  
 
+## Sistema internazionale di unita' di misura  
+
+Il sistema internazionale di unita' di misura **SI** nasce per facilitare la comunicazione ed il commercio, e definisce appunto le unita' di misura delle grandezze fondamentali, con le quali e' possibile derivare tutte le altre, si mettono in evidenza di seguito alcune di queste.  
+
+| grandezza | unita' di misura   | simbolo |
+| --------- | ------------------ | ------- |
+| massa     | **k**ilo**g**rammo | kg      |
+| lunghezza | **m**etro          | m       |
+| tempo     | **s**econdo        | s       |
+
+Si noti che le definizioni di queste unita' di misura si evolvono nel tempo, ad esempio il kilogrammo era inizialmente definito come $1\ dm^3$ di acqua distillata alla temperatura di $4^\circ C$, mentre piu' avanti e' stato sostituito con un campione cilindrico equilatero di platino-iridio.
