@@ -42,6 +42,8 @@ E' importante rendersi conto che l'incertezza di una misura puo' essere causata 
 
 Quando la grandezza da misurare viene confrontata direttamente con il campione scelto come unita' di misura si parla di **misura diretta**. Se invece la misura viene eseguita attraverso calcoli ottenuti conoscendo misure di altre grandezze si parla allora di **misura indiretta**. Le grandezze misurate indirettamente si dicono **grandezze derivate**. Nel termometro per esempio si osserva la posizione del mercurio, quindi una lunghezza, a cui e' stata associata una temperatura.  
 
+Quando due grandezze possono essere confrontante tramite una relazione d'ordine, allora si parla di **grandezze omogenee** e.g. per misurare una lunghezza si utilizzera' un'altra lunghezza come campione e non un intervallo di tempo.  
+
 ## Errore relativo  
 
 Consideriamo le seguenti misure:  
