@@ -69,4 +69,22 @@ Il sistema internazionale di unita' di misura **SI** nasce per facilitare la com
 | lunghezza | **m**etro          | m       |
 | tempo     | **s**econdo        | s       |
 
-Si noti che le definizioni di queste unita' di misura si evolvono nel tempo, ad esempio il kilogrammo era inizialmente definito come $1\ dm^3$ di acqua distillata alla temperatura di $4^\circ C$, mentre piu' avanti e' stato sostituito con un campione cilindrico equilatero di platino-iridio.
+Si noti che le definizioni di queste unita' di misura si evolvono nel tempo, ad esempio il kilogrammo era inizialmente definito come $1\ dm^3$ di acqua distillata alla temperatura di $4^\circ C$, mentre piu' avanti e' stato sostituito con un campione cilindrico equilatero di platino-iridio.  
+
+Ogni unita' di misura ha dei **multipli** e **sottomultipli**  basati sulle potenze di 10.  
+
+$1\ mm = 1 \cdot 10^{-3}\ m$  
+
+Ovvero $1$ millimetro equivale a $0.001$ metri.  
+
+ | Potenza di 10 | prefisso | Simbolo |
+ | ------------- | -------- | ------- |
+ | $10^6$        | mega     | M       |
+ | $10^3$        | kilo     | k       |
+ | $10^2$        | hecto    | h       |
+ | $10^1$        | deca     | da      |
+ | $1$           | _        | _       |
+ | $10^{-1}$     | deci     | d       |
+ | $10^{-2}$     | centi    | c       |
+ | $10^{-3}$     | milli    | m       |
+ | $10^{-6}$     | micro    | μ       |
