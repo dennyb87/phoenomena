@@ -77,6 +77,8 @@ $\varepsilon_r(A) = \dfrac{5}{100} = 0.05$
 
 $\varepsilon_r(D) = \dfrac{0.5}{0.8} = 0.625$  
 
+![misure_ed_errori_04](https://github.com/dennyb87/phoenomena/assets/7195133/46acf804-c3f7-4098-b9cb-9fdac47fe7f4)
+
 ## Esercizio 20  
 
 La meno precisa tra le misure sara' quella con l'errore relativo maggiore, quindi in ordine di imprecisione:  
@@ -158,6 +160,8 @@ Restando costante l'incertezza se aumenta il valore della grandezza allora l'err
 | valore       | $160\ g$      | $12\ cm$        | $36.2^\circ C$      |
 | misura       | $160\pm 2\ g$ | $12\pm 0.1\ cm$ | $36.2\pm 1^\circ C$ |
 | errore rel.  | $0.0125$      | $0.0083$        | $0.0276$            |
+
+![misure_ed_errori_05](https://github.com/dennyb87/phoenomena/assets/7195133/ffcd2ed1-9f49-4bc6-8ddc-92e76a7a8cf7)  
 
 ## Esercizio 30  
 
