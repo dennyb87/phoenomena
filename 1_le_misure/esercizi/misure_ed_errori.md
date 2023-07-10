@@ -147,3 +147,23 @@ Restando costante il valore della grandezza se diminuisce l'incertezza allora an
 | $\varepsilon_r$ | 0.00537 | 0.00386 | 0.0014 |
 
 Restando costante l'incertezza se aumenta il valore della grandezza allora l'errore relativo diminuisce, ottenendo anche in questo caso una misura piu' precisa.  
+
+## Esercizio 29  
+
+|              |               |                 |                     |
+| ------------ | ------------- | --------------- | ------------------- |
+| strumento    | bilancia      | metro           | termometro          |
+| grandezza    | massa         | lunghezza       | temperatura         |
+| errore sens. | $2\ g$        | $0.1\ cm$       | $1^\circ C$         |
+| valore       | $160\ g$      | $12\ cm$        | $36.2^\circ C$      |
+| misura       | $160\pm 2\ g$ | $12\pm 0.1\ cm$ | $36.2\pm 1^\circ C$ |
+| errore rel.  | $0.0125$      | $0.0083$        | $0.0276$            |
+
+## Esercizio 30  
+
+Dati i rispettivi errori di sensibilita' $\varepsilon_{s}(t) = \dfrac{10}{10} = 1$ e $\varepsilon_{s}(s) = \dfrac{2}{10} = 0.2$ si ottengono le misure:  
+
+$t_P = 17\pm 1\ s$  
+$s_P = 5.8\pm 0.2\ m$
+
+L'errore di sensibilita' della carta millimetrata fa si che gli intervalli di indeterminazione individuino l'area del rettangolo che contiene il punto P.  
