@@ -174,3 +174,26 @@ L'errore di sensibilita' della carta millimetrata fa si che gli intervalli di in
 
 Non sono riuscito a riprodurre in desmos le divisioni in modo corretto, ma il punto e l'intervallo di indeterminazione dovrebbero essere corretti.  
 
+## Problema 1  
+
+Sapendo che l'intervallo di indeterminazione va da $28.8\ m$ a $29.00\ m$ possiamo dire che si ha un'incertezza uguale a $\dfrac{29 - 28.8}{2} = 0.1\ m$ quindi un valore di $\dfrac{29 + 28.8}{2} = 28.9\ m$ ovvero una misura:  
+
+$28.9\pm 0.1\ m$  
+
+## Problema 2  
+
+Troviamo il valore di una divisione $\dfrac{400 - 200}{5} = 40\ g$ che coincide con l'incertezza. Ora non ci resta che trovare il valore della grandezza che sara' necessariamente e meta' dell'intervallo di indeterminazione ovvero $200 + 40 \cdot 2 = 280\ g$ ottenendo cosi' la misura $280\pm 40\ g$  
+
+## Problema 3  
+
+|                 |       |       |       |         |        |      |
+| --------------- | ----- | ----- | ----- | ------- | ------ | ---- |
+| $\Delta x(kg)$  | 0.002 | 0.1   | 1     | 5       | 0.2    | 250  |
+| $x_m(kg)$       | 0.4   | 50    | 40    | 160     | 3.2    | 2500 |
+| $\varepsilon_r$ | 0.005 | 0.002 | 0.025 | 0.03125 | 0.0625 | 0.1  |
+
+## Problema 4  
+
+La bilancia analogica puo' rilevare una variazione massima di $\dfrac{200}{10} = 20\ g$ percio' quella analogica risulta piu' sensibile in quanto puo' rilevare variazioni di $5\ g$.  
+
+La misura della bilancia analogica e' $740\pm 20\ g$ mentre quella della bilancia digitale e' $235\pm 5\ g$
