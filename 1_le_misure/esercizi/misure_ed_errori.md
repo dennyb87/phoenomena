@@ -164,6 +164,13 @@ Restando costante l'incertezza se aumenta il valore della grandezza allora l'err
 Dati i rispettivi errori di sensibilita' $\varepsilon_{s}(t) = \dfrac{10}{10} = 1$ e $\varepsilon_{s}(s) = \dfrac{2}{10} = 0.2$ si ottengono le misure:  
 
 $t_P = 17\pm 1\ s$  
-$s_P = 5.8\pm 0.2\ m$
+$s_P = 5.8\pm 0.2\ m$  
 
 L'errore di sensibilita' della carta millimetrata fa si che gli intervalli di indeterminazione individuino l'area del rettangolo che contiene il punto P.  
+
+## Esercizio 31  
+
+![misure_ed_errori_esercizio_31](https://github.com/dennyb87/phoenomena/assets/7195133/a29bdbbf-ba08-4c59-8cde-d466905a1ad9)  
+
+Non sono riuscito a riprodurre in desmos le divisioni in modo corretto, ma il punto e l'intervallo di indeterminazione dovrebbero essere corretti.  
+
