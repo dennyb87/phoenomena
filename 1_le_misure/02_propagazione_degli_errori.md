@@ -27,3 +27,24 @@ Adesso non ci resta che trovare un'incertezza ragionevole. In realta' esistono m
 
 $\Delta x = \dfrac{x_{max}-x_{min}}{2}$  
 
+# Le misure indirette  
+
+La **misura indiretta** e' ottenuta effettuando calcoli utilizzando misure di cui siamo gia' a conoscenza, ad esempio calcolare la superficie di un pavimento a partire dai suoi lati $A = b \cdot h$  
+
+In questo caso si parla di **grandezza derivata** in quanto l'area e' stata misurata indirettamente.  
+
+Se volessimo davvero fare questa misura, dovremmo prima misurare i lati del pavimento $b$ ed $h$, ma se la loro lunghezza e' maggiore del nostro metro a nastro da $200\ cm$ di sensibilita' $0.5\ cm$ si pone allora il problema di determinare l'incertezza della nostra misura.  
+
+Misuriamo allora $h = h_1 + h_2$ e scopriamo che...  
+
+$h_1 = 200\pm 0.5\ cm$  
+$h_2 = 152\pm 0.5\ cm$  
+
+E' evidente allora che l'incertezza totale e' data dalla somma delle incertezze di ogni misura in quanto contengono lo stesso tipo di errore. Si ha allora che...  
+
+$\Delta x(h) = \Delta x(h_1) + \Delta x(h_2) = 0.5 + 0.5 = 1\ cm$  
+
+$h = 352\pm 1\ cm$  
+
+Piu' in generale possiamo dire che l'incertezza di una grandezza ottenuta come somma (o differenza) di altre grandezze e' data dalla somma delle incertezze di tali grandezze.  
+
