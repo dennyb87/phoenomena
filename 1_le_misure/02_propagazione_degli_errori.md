@@ -66,8 +66,6 @@ Poi si moltiplica l'errore per il valore della grandezza dell'area trovando la s
 
 $\Delta x(A) = \varepsilon_r (A) \cdot A_m = 0.0054 \cdot 137\,280\ = 741.312\ cm^2$  
 
-$A = 137\,280\pm 741.312\ cm^2$  
-
 Si noti che e' possibile dimostrare che:  
 
 $\Delta x(A) = \varepsilon_r (A) \cdot A_m = \dfrac{A_{max}-A_{min}}{2}$  
@@ -81,3 +79,19 @@ Possiamo allora dire che l'**errore relativo** di una grandezza derivata da un p
 | prodotto: $P = A \cdot B$ | $\varepsilon_r(P) = \varepsilon_r(A) + \varepsilon_r(B)$ |
 | quoziente: $Q = A/B$      | $\varepsilon_r(Q) = \varepsilon_r(A) + \varepsilon_r(B)$ |
 
+## Criteri di arrotondamento  
+
+Dei diversi criteri di arrotondamento scegliamo i seguenti:  
+
+* l'incertezza si arrotonda sempre per **eccesso** alla prima cifra significativa diversa da zero da sinistra verso destra
+*  il valore della grandezza si arrotonda per eccesso o per difetto in corrispondenza della posizione della cifra significativa dell'incertezza
+
+Nel nostro caso si ha che:  
+
+$\Delta x(A) = \bm{7}41.312\ cm^2 \implies \bm{8}00\ cm^2$  
+
+$A_m = 137\,\bm{2}80\ cm^2 \implies 137\,\bm{3}00\ cm^2$  
+
+Possiamo infine scrivere...  
+
+$A = 137\,300\pm 800\ cm^2 \implies 13.73\pm 0.08\ m^2$  
