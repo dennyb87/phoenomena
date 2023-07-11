@@ -48,3 +48,28 @@ $h = 352\pm 1\ cm$
 
 Piu' in generale possiamo dire che l'incertezza di una grandezza ottenuta come somma (o differenza) di altre grandezze e' data dalla somma delle incertezze di tali grandezze.  
 
+Supponendo di aver misurato $b = 390\pm 1\ cm$ possiamo trovare la superficie $A_m = b_m \cdot h_m = 390 \cdot 352 = 137\,280\ cm^2$ che pero' puo' variare tra un valore minimo e massimo ottenuto come segue:  
+
+$A_{min} = b_{min} \cdot h_{min} = (390 - 1) \cdot (352-1)= 136\,539\ cm^2$  
+
+$A_{max} = b_{max} \cdot h_{max} = (390 + 1) \cdot (352+1) = 138\,023\ cm^2$  
+
+Allora per trovare l'incertezza si procede prima sommando gli errori relativi, quindi trovando l'errore relativo dell'area.  
+
+$\varepsilon_r (b) = \dfrac{1}{390} = 0.00256$  
+
+$\varepsilon_r (h) = \dfrac{1}{352} = 0.00284$  
+
+$\varepsilon_r (A) = \varepsilon_r (b) + \varepsilon_r (h) = 0.00256 + 0.00284 = 0.0054$  
+
+Poi si moltiplica l'errore per il valore della grandezza dell'area trovando la sua incertezza.  
+
+$\Delta x(A) = \varepsilon_r (A) \cdot A_m = 0.0054 \cdot 137\,280\ = 741.312\ cm^2$  
+
+$A = 137\,280\pm 741.312\ cm^2$  
+
+Si noti che e' possibile dimostrare che:  
+
+$\Delta x(A) = \varepsilon_r (A) \cdot A_m = \dfrac{A_{max}-A_{min}}{2}$  
+
+Possiamo allora dire che l'**errore relativo** di una grandezza derivata da un prodotto o da un quoziente e' dato dalla somma degli errori relativi di tali grandezze.  
