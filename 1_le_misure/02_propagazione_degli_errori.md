@@ -73,3 +73,11 @@ Si noti che e' possibile dimostrare che:
 $\Delta x(A) = \varepsilon_r (A) \cdot A_m = \dfrac{A_{max}-A_{min}}{2}$  
 
 Possiamo allora dire che l'**errore relativo** di una grandezza derivata da un prodotto o da un quoziente e' dato dalla somma degli errori relativi di tali grandezze.  
+
+| operazione                | legge di propagazione                                    |
+| ------------------------- | -------------------------------------------------------- |
+| somma: $S = A + B$        | $\Delta x(S) = \Delta x(A) + \Delta x(B)$                |
+| differenza: $D = A - B$   | $\Delta x(D) = \Delta x(A) + \Delta x(B)$                |
+| prodotto: $P = A \cdot B$ | $\varepsilon_r(P) = \varepsilon_r(A) + \varepsilon_r(B)$ |
+| quoziente: $Q = A/B$      | $\varepsilon_r(Q) = \varepsilon_r(A) + \varepsilon_r(B)$ |
+
