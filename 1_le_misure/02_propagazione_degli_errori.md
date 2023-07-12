@@ -95,3 +95,25 @@ $A_m = 137\,\bm{2}80\ cm^2 \implies 137\,\bm{3}00\ cm^2$
 Possiamo infine scrivere...  
 
 $A = 137\,300\pm 800\ cm^2 \implies 13.73\pm 0.08\ m^2$  
+
+E' importante notare di fronte ad una misura, il valore della grandezza e l'incertezza possono avere origini diverse, riassumiamo quindi le differenti situazioni che possono portare alla scrittura di una misura.  
+
+| misura           | =   | valore della grandezza | $\pm$ | incertezza             |
+| ---------------- | --- | ---------------------- | ----- | ---------------------- |
+| misura diretta   | =   | valore misurato        | $\pm$ | errore di sensibilita' |
+| serie di misure  | =   | valore medio           | $\pm$ | errore massimo         |
+| misura indiretta | =   | valore calcolato       | $\pm$ | errore di propagazione |
+
+## Gli strumenti  
+
+Gli strumenti sono principalmente caratterizzati da:  
+
+* sensibilita'
+* portata (o fondo scala)
+* precisione
+
+La **sensibilita**' ovvero la piu' piccola variazione apprezzabile determina anche l'errore di sensibilita' che coincide quindi con il valore di una divisione sulla scala dello strumento.  
+
+La **portata** (o valore di fondo scala) e' il valore massimo che lo strumento puo' misurare, in certi casi oltrepassarlo puo' comprometterne il funzionamento.  
+
+La **precisione** descrive l'affidabilita' dello strumento e non va confusa con la sensibilita' e.g. strumenti molto sensibili possono essere imprecisi. 
