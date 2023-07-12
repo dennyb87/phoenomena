@@ -116,4 +116,4 @@ La **sensibilita**' ovvero la piu' piccola variazione apprezzabile determina anc
 
 La **portata** (o valore di fondo scala) e' il valore massimo che lo strumento puo' misurare, in certi casi oltrepassarlo puo' comprometterne il funzionamento.  
 
-La **precisione** descrive l'affidabilita' dello strumento e non va confusa con la sensibilita' e.g. strumenti molto sensibili possono essere imprecisi. 
+La **precisione** (qui una definizione puramente qualitativa) descrive l'affidabilita' dello strumento e non va confusa con la sensibilita' e.g. strumenti molto sensibili possono essere imprecisi. In particolare misurando piu volte la stessa grandezza si deve ottenere sempre lo stesso risultato, ed i valori forniti devono essere in accordo con quelli di un altro strumento noto come affidabile.
