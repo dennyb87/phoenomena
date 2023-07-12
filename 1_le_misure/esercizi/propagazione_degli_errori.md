@@ -1,0 +1,1 @@
+![propagazione_errori_01](https://github.com/dennyb87/phoenomena/assets/7195133/6ab0ac27-18e5-450e-b131-1886edc1a876)
