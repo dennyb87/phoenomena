@@ -35,3 +35,52 @@ Realisticamente si avrebbero errori casuali, quindi maggiori e minori di $35\ mm
 
 $35.05\pm 0.05\ mm$  
 
+## Esercizio 6  
+
+In questo caso si che il righello agisce come uno scalare, percio' possiamo utilizzare il rapporto tra le due misure $\dfrac{15.2}{15.6} \simeq 0.975$ per trovare risultati corretti utlizzando il righello con la taratura sbagliata $11.7 \cdot 0.975 \simeq 11.4$ ottenendo una misura uguale a $11.4\pm 0.1\ cm$ dove l'incertezza e' data dalla sensibilita dello strumento.  
+
+## Esercizio 7  
+
+Utilizzando le formule:  
+
+$x_m = \dfrac{x_1+x_2+...+x_n}{x_n}$  
+
+$\Delta x = \dfrac{x_{max}-x_{min}}{2}$
+
+troviamo un valore medio uguale a $312.5\ kg$ ed un errore massimo uguale a $30\ kg$  
+
+## Esercizio 8  
+
+Sempre utilizzando le formule si ottiene un valore medio uguale a $20.2\ ^\circ C$  
+
+## Esercizio 9  
+
+Sempre utilizzando le formule si ottiene un errore massimo uguale a $0.004\ m$  
+
+## Esercizio 10  
+
+Sempre utilizzando le formule si ottiene un errore massimo uguale a $0.2\ s$ mentre e' possibile dedurre la sensibilita' grazie alle singole misure che suggeriscono che la variazione apprezabile minima dello strumento sia $0.05\ s$  
+
+## Esercizio 11  
+
+Data la serie troviamo un valore medio uguale a $4.18\ mm$ con un errore massimo uguale a $0.125\ mm$ che arrotondato alla prima cifra significativa diventa $0.2\ mm$ che ci permette infine di arrotondare la grandezza ottenendo infine la misura $4.2\pm 0.2\ mm$  
+
+## Esercizio 12  
+
+Si hanno in totale $75$ cioccolatini, e se le confezioni fossero uguali si avrebbero $25$ cioccolatini per scatola. In questo caso non esiste una confezione che contiene gia' il numero medio che e' appunto $25$. Moltiplicando il numero medio per il numero di scatole si ottiene di nuovo il numero totale di cioccolatini $75$.  
+
+## Esercizio 13  
+
+Il giocatore ha realizzato $110$ punti in totale con una media di $22$ punti a partita, quindi tra il valore minimo $12$ e quello massimo $32$. Il punteggio medio non corrisponde a nessuno dei punteggi della serie. Moltiplicando il punteggio medio per il numero di partite si ottiene il punteggio totale ovvero $22 \cdot 5 = 110$  
+
+$p_{max} - p_{min} = 32 - 12 = 20$  
+$p_{max} - p_{avg} = 32 - 22 = 10$  
+$p_{avg} - p_{min} = 22 -12 = 10$  
+
+Si noti la relazione $\dfrac{p_{max} - p_{min}}{2} = p_{max} - p_{avg} = p_{avg} - p_{min}$  
+
+Si scrive infine $22\pm 10$ punti  
+
+## Esercizio 14  
+
+Si trova un errore massimo uguale a $0.45$ che arrotondato alla prima cifra significativa diventa $0.5$ ed un valore medio $12.16\ s$ che arrotondiamo a $12.2\ s$ ovvero per eccesso in corrispondenza della posizione della cifra significativa dell'errore massimo (l'incertezza).  
