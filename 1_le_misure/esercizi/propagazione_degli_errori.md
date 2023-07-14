@@ -83,4 +83,43 @@ Si scrive infine $22\pm 10$ punti
 
 ## Esercizio 14  
 
-Si trova un errore massimo uguale a $0.45$ che arrotondato alla prima cifra significativa diventa $0.5$ ed un valore medio $12.16\ s$ che arrotondiamo a $12.2\ s$ ovvero per eccesso in corrispondenza della posizione della cifra significativa dell'errore massimo (l'incertezza).  
+Si trova un errore massimo uguale a $0.45\ s$ che arrotondato alla prima cifra significativa diventa $0.5\ s$ ed un valore medio $12.16\ s$ che arrotondiamo a $12.2\ s$ ovvero per eccesso in corrispondenza della posizione della cifra significativa dell'errore massimo (l'incertezza). Otteniamo infine la misura $12.2\pm 0.5\ s$  
+
+## Esercizio 15  
+
+Le incertezze si sommano per via della legge di propagazione:  
+
+$\Delta x (A + B) = \Delta x (A) + \Delta x (B) = 0.2 + 0.2 = 0.4\ kg$  
+
+Poi si sommano i valori delle grandezze $46 + 19.6 = 65.6\ kg$ ottenendo infine $65.6\pm 0.4\ kg$ senza bisogno di arrotondamenti in quanto la somma dei valori delle grandezze ha una sola cifra decimale gia' in accordo con la posizione della cifra significativa dell'incertezza.  
+
+
+## Esercizio 16  
+
+Come abbiamo gia' visto, si sommano le incertezze $0.0.1 + 0.01 = 0.02\ s$ e le grandezze $6.23 + 3.05 = 9.28\ s$ ottenendo infine la misura $9.28\pm 0.02\ s$ anche in questo caso non c'e' bisogno di arrotondamenti.  
+
+## Esercizio 17  
+
+Sempre per la legge di propagazione si sommano le incertezze $0.1 + 0.1 = 0.2\ hg$ anche nel caso di una differenza tra grandezze $24.7 - 8.5 = 16.2\ hg$ ottenendo la misura $16.2\pm 0.2\ hg$ anche questa volta senza bisgno di arrotondamenti.  
+
+## Esercizio 18  
+
+L'incertezza resta invariata, ovvero la somma delle incertezze $0.02 + 0.01 = 0.03\ s$ mentre la misura dipende dall'operazione sulle grandezze:  
+
+$1.28 + 0.43 = 1.71\pm 0.03\ s$  
+$1.28 - 0.43 = 0.85\pm 0.03\ s$  
+
+Di nuovo, nessun arrotondamento necessario.  
+
+## Esercizio 19  
+
+| $x_m$     | $\Delta x$ | $x_m \pm \Delta x$ |
+| --------- | ---------- | ------------------ |
+| $0.27147$ | $0.005408$ | $0.271\pm 0.006$   |
+| $13.4971$ | $0.08274$  | $13.50\pm 0.09$    |
+| $87.6542$ | $4.74474$  | $88\pm 5$          |
+| $290.925$ | $8.3329$   | $291\pm 9$         |
+| $525.083$ | $14.625$   | $530\pm 20$        |
+| $743.425$ | $47.386$   | $740\pm 50$        |
+| $3196.37$ | $242.61$   | $3200\pm 300$      |
+| $6732.00$ | $165.93$   | $6700\pm 200$      |
