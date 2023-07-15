@@ -79,7 +79,7 @@ $p_{avg} - p_{min} = 22 -12 = 10$
 
 Si noti la relazione $\dfrac{p_{max} - p_{min}}{2} = p_{max} - p_{avg} = p_{avg} - p_{min}$  
 
-Si scrive infine $22\pm 10$ punti  
+Si scrive infine $22\pm 10$ punti a partita.  
 
 ## Esercizio 14  
 
@@ -123,3 +123,43 @@ Di nuovo, nessun arrotondamento necessario.
 | $743.425$ | $47.386$   | $740\pm 50$        |
 | $3196.37$ | $242.61$   | $3200\pm 300$      |
 | $6732.00$ | $165.93$   | $6700\pm 200$      |
+
+## Esercizio 20  
+
+La legge di propagazione ci dice che l'errore relativo di una grandezza derivata da un prodotto e' la somma degli errori relativi delle grandezze fattori del prodotto.  
+
+$\varepsilon_r (A \cdot B \cdot C) = \varepsilon_r (A) + \varepsilon_r (B) + \varepsilon_r (C) = \dfrac{0.5}{12.5}+\dfrac{0.5}{35.5}+\dfrac{0.5}{18} = 0.08186$  
+
+## Esercizio 21  
+
+Si applica la legge di propagazizone come sopra...  
+
+$\varepsilon_r (B \cdot L \cdot H) = \varepsilon_r (B) + \varepsilon_r (L) + \varepsilon_r (H) = \dfrac{0.01}{3.79}+\dfrac{0.02}{5.2}+\dfrac{0.05}{9.45} = 0.01178$  
+
+## Esercizio 22  
+
+Sempre per la legge di propagazione gli errori relativi si sommano sia con il prodotto che con il quoziente.  
+
+$\varepsilon_r \bigg(\dfrac{S}{b}\bigg) = \varepsilon_r (S) + \varepsilon_r (b) = \dfrac{10}{400} + \dfrac{1}{25} = 0.065$  
+
+## Esercizio 23  
+
+La legge di propagazione dice che l'incertezza di una grandezza derivata e' data dal prodotto tra la somma degli errori relativi e tale grandezza derivata.  
+
+$\varepsilon_r (ABC) =  \varepsilon_r (A) + \varepsilon_r (B) + \varepsilon_r (C) = \dfrac{0.1}{85} + \dfrac{0.1}{42.6} + \dfrac{0.1}{22} \simeq 0.00807$  
+
+$\Delta x (ABC) = \varepsilon_r (ABC) \cdot ABC = 0.00807 \cdot 85 \cdot 42.6 \cdot 22 \simeq 700$  
+
+$x_m = 85 \cdot 42.6 \cdot 22 = 79\,662 \simeq 79\,700\ cm^3$  
+
+Si ottiene infine la misura $79\,700\pm 700\ cm^3$  
+
+## Esercizio 24  
+
+Si ha che la grandezza derivata diventa $4.85^2 \simeq 23.52\ mm^2$  mentre l'incertezza sara'...  
+
+$\varepsilon_ r (S) = 2\ \varepsilon_r (l) = 2 \cdot \dfrac{0.05}{4.85} \simeq 0.021$  
+
+$\Delta x (S) = \varepsilon_r (S) \cdot S =0.021 \cdot 23.52 = 0.49392 \simeq 0.5$  
+
+Si ottiene infine la misura $23.52\pm 0.5\ mm^2$  
