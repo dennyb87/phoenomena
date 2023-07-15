@@ -29,6 +29,8 @@ $\Delta x(A - B) = \Delta(A) + \Delta(B) = 1 + 1 = 2\ g$
 
 $212 - 8 = 204\pm 2\ g$  
 
+![propagazione_errori_03](https://github.com/dennyb87/phoenomena/assets/7195133/c49ecc07-7bcf-4234-bdbf-b7e0cdd32903)  
+
 ## Esercizio 5  
 
 Realisticamente si avrebbero errori casuali, quindi maggiori e minori di $35\ mm$ come nella seguente serie immaginaria $s = \{35.05, 34.95,\ 35.05,\ 35,\ 35.95,\ 35\}\ mm$ che per loro natura non possono essere eliminati. Utilizzando un righello gli errori casuali non sarebbero apprezzabili proprio a causa della sensibilita' dello strumento, che solitamente di aggira intorno a $1\ mm$  
@@ -80,6 +82,8 @@ $p_{avg} - p_{min} = 22 -12 = 10$
 Si noti la relazione $\dfrac{p_{max} - p_{min}}{2} = p_{max} - p_{avg} = p_{avg} - p_{min}$  
 
 Si scrive infine $22\pm 10$ punti a partita.  
+
+![propagazione_errori_04](https://github.com/dennyb87/phoenomena/assets/7195133/3f260836-0c56-4ba9-bc9d-0b56e67983bd)  
 
 ## Esercizio 14  
 
@@ -142,6 +146,8 @@ Sempre per la legge di propagazione gli errori relativi si sommano sia con il pr
 
 $\varepsilon_r \bigg(\dfrac{S}{b}\bigg) = \varepsilon_r (S) + \varepsilon_r (b) = \dfrac{10}{400} + \dfrac{1}{25} = 0.065$  
 
+![propagazione_errori_05](https://github.com/dennyb87/phoenomena/assets/7195133/c1637b76-8e5b-4730-b745-75831638621e)  
+
 ## Esercizio 23  
 
 La legge di propagazione dice che l'incertezza di una grandezza derivata e' data dal prodotto tra la somma degli errori relativi e tale grandezza derivata.  
@@ -160,6 +166,178 @@ Si ha che la grandezza derivata diventa $4.85^2 \simeq 23.52\ mm^2$  mentre l'in
 
 $\varepsilon_ r (S) = 2\ \varepsilon_r (l) = 2 \cdot \dfrac{0.05}{4.85} \simeq 0.021$  
 
-$\Delta x (S) = \varepsilon_r (S) \cdot S =0.021 \cdot 23.52 = 0.49392 \simeq 0.5$  
+$\Delta x (S) = \varepsilon_r (S) \cdot S = 0.021 \cdot 23.52 = 0.49392 \simeq 0.5$  
 
 Si ottiene infine la misura $23.52\pm 0.5\ mm^2$  
+
+## Esercizio 25  
+
+Sempre applicando la medesima formula troviamo la grandezza derivata $1.15^2 \simeq 1.3225$ e la sua incertezza:  
+
+$\varepsilon_ r (I^2) = 2\ \varepsilon_r (I) = 2 \cdot \dfrac{0.05}{1.15} \simeq 0.087$  
+
+$\Delta x (I^2) = \varepsilon_r (I^2) \cdot I^2 = 0.087 \cdot 1.3225 = 0.1150575 \simeq 0.2\ A$  
+
+Si ottiene infine la misura $1.3\pm 0.02\ A$  
+
+## Esercizio 26  
+
+Si procede nello stesso modo trovando prima la grandezza derivata $19.5^3 = 7\,414.875\ cm^3$ e poi la sue incertezza:  
+
+$\varepsilon_ r (\ell^3) = 3\ \varepsilon_r (\ell^3) = 3 \cdot \dfrac{0.5}{19.5} \simeq 0.077$  
+
+$\Delta x (\ell^3) = \varepsilon_r (\ell^3) \cdot \ell^3 = 0.077 \cdot 7\,414.875 = 570.945375 \simeq 600\ cm^3$  
+
+Si ottiene infine la misura $7\,400\pm 600\ cm^3 = 7.4\pm 0.6\ dm^3$  
+
+## Esercizio 27  
+
+Troviamo il valore della grandezza $A_m =\pi r^2 = 3.14159 \cdot 15.3^2 \simeq 735.4148\ cm^2$ e la sua incertezza:  
+
+$\varepsilon_r (A_m) = 2\ \varepsilon_r(r) = 2 \cdot \dfrac{0.1}{15.3} \simeq 0.01307$  
+
+$\Delta x (A_m) = \varepsilon_r (A_m) \cdot A_m = 0.01307 \cdot 735.4148 = 9.611871436 \simeq 10\ cm^2$  
+
+Si ottiene infine la misura $740\pm 10\ cm^2$  
+
+## Esercizio 28  
+
+Troviamo immediatamente la grandezza $2 \pi r = 2 \cdot 3.14159 \cdot 32 = 201.06176\ cm$ mentre l'incertezza, ingnorando l'errore di $2\pi$ risulta essere:  
+
+$\Delta x (C_m) = \varepsilon_r (r) \cdot C_m = \dfrac{0.5}{32} \cdot 201.06176 = 3.14159 \simeq 4\ cm$  
+
+Si ottien infine la misura $201\pm 4\ cm$  
+
+## Problema 1  
+
+Sapendo che l'errore massimo e' $20\ mm = 2\ cm = \dfrac{x_{max}-x_{min}}{2}$ e che l'errore relativo del listello piu' corto e' $\dfrac{0.2}{100} = 0.002$ dato l'errore di sensibilita' dello strumento $0.5\ cm$ troviamo che:  
+
+$x_{min} = \dfrac{\Delta x}{\varepsilon_r (x_{min})} = \dfrac{0.5}{0.002} = 250\ cm$  
+
+Infine...   
+
+$2 \cdot 2 = \dfrac{x_{max}-250}{\cancel{2}} \cdot \cancel{2} \implies x_{max} = 2 \cdot 2 + 250 = 254\ cm$  
+
+## Problema 2  
+
+Dopo aver misurato il lato del quadrato $\ell = 2.2\pm 0.1\ cm$ si calcola il perimetro e l'area.  
+
+$P_m = 4 \ell = 4 \cdot 2.2 = 8.8\ cm$  
+$\Delta x (P_m) = 4 \Delta x (\ell) = 4 \cdot 0.1 = 0.4\ cm$  
+$P = 8.8\pm 0.4\ cm = 88\pm 4\ mm$  
+
+$A_m = \ell^2 = 2.2 \cdot 2.2 = 4.84\ cm^2$  
+$\Delta x (A_m) = 2\ \varepsilon_r (\ell) \cdot A_m = 2 \cdot \dfrac{0.1}{2.2} \cdot 4.84 = 0.44 \simeq 0.5\ cm^2$  
+$A = 4.8\pm 0.5\ cm^2 = 480\pm 50\ mm^2$  
+
+## Problema 3  
+
+Dopo aver misurato un rettangolo di base $b = 3.9\pm 0.1\ cm$ e altezza $h = 1.6\pm 0.1\ cm$ si calcola il perimetro e l'area.  
+
+$P_m = 2 \cdot (b+h) = 2 \cdot (3.9 + 1.6) = 11\ cm$  
+$\Delta x (P_m) = 2 \cdot 2\Delta x = 0.4\ cm$  
+$P = 11\pm 0.4\ cm$  
+
+$A_m = b \cdot h = 3.9 \cdot 1.6 = 6.24\ cm$  
+$\Delta x (A_m) = \bigg(\varepsilon_r (b) + \varepsilon_r (h)\bigg) \cdot A_m = \bigg(\dfrac{0.1}{3.9}+\dfrac{0.1}{1.6}\bigg) \cdot 6.24 = 0.549744 \simeq 0.6\ cm^2$  
+$A = 6.2\pm 0.6\ cm^2$  
+
+![propagazione_errori_06](https://github.com/dennyb87/phoenomena/assets/7195133/b5ae8943-7233-4c38-9d6d-866f7f06aed4)  
+
+## Problema 4  
+
+Si vuole calcolare il volume di un parallelepipedo di lati:  
+
+$a = 2\pm 0.1\ cm$  
+$b = 2.8\pm 0.1\ cm$  
+$c = 1.5\pm 0.1\ cm$  
+
+$V_m = abc = 2 \cdot 2.8 \cdot 1.5 \simeq 8.4\ cm^3$  
+$\Delta x (V_m) = \bigg(\varepsilon_r (a) + \varepsilon_r(b) + \varepsilon_r(c)\bigg) \cdot 8.4 \simeq 1.28 \simeq 2\ cm^3$  
+$V = 8\pm 2\ cm^3$  
+
+## Problema 5  
+
+Dopo aver misurato il lato del quadrato $\ell = 2.4\pm 0.1\ cm$ ed il diametro del cerchio $d = 1.6\pm 0.1\ cm$ si vogliono calcolare le rispettive aree per trovare la regione in rosso $A_R$ attraverso la loro differenza $A_R = A_Q - A_C$  
+
+$A_{Qm} = \ell^2 = 2.4^2 = 5.76\ cm^2$  
+$\Delta x (A_{Qm}) = 2\ \varepsilon_r (\ell) = 2 \cdot \dfrac{0.1}{2.4} \cdot 5.76 \simeq 0.48 \simeq 0.5\ cm^2$  
+$A_{Q} = 5.8\pm 0.5\ cm^2$  
+
+$r_m = \dfrac{d}{2} = \dfrac{1.6}{2} = 0.8\ cm$  
+$\Delta x (r) = \varepsilon_r (d) \cdot r_m = \dfrac{0.1}{1.6} \cdot 0.8 = 0.05\ cm$  
+$r = 0.8\pm 0.1\ cm$  
+
+$A_{Cm} = \pi r^2 = 3.14159 \cdot 0.8^2 = 2.0106\ cm^2$  
+$\Delta x (A_{Cm}) = 2\ \varepsilon_r (r) = 2 \cdot \dfrac{0.05}{0.8} \cdot 2.0106 = 0.251325 \simeq 0.3\ cm^2$  
+$A_C = 2\pm 0.5\ cm^2$  
+
+$A_{Rm} = A_{Q} - A_{C} = 5.8 - 2 = 3.8\ cm^2$  
+$\Delta x (A_{Rm}) = \Delta x (A_{Q}) + \Delta x (A_{C}) = 0.5 + 0.3 = 0.8\ cm^2$  
+
+Si ottiene infine la misura della regione rossa $A_R = 3.8\pm 0.8\ cm^2 = 380\pm 80\ cm^2$  
+
+## Problema 6  
+
+Si vuole calcolare la somma delle aree di due rettangoli di lati:  
+
+$B = 45.5\pm 0.5\ cm$  
+$H = 12\pm 0.5\ cm$  
+
+$b = 15.2\pm 0.2\ cm$  
+$h = 7.4\pm 0.2\ cm$  
+
+$A_{1m} = BH = 45.5 \cdot 12 = 546\ cm^2$  
+$\Delta x (A_{1m}) = \bigg(\varepsilon_r (B) + \varepsilon_r (H)\bigg) \cdot A_{1m} = \bigg(\dfrac{0.5}{45.5}+\dfrac{0.5}{12}\bigg) \cdot A_{1m} = 28.75 \simeq 30\ cm^2$  
+$A_{1} =550\pm 30\ cm^2$  
+
+$A_{2m} = bh = 15.5 \cdot 7.4 = 112.48\ cm^2$  
+$\Delta x (A_{2m}) = \bigg(\varepsilon_r (b) + \varepsilon_r (h)\bigg) \cdot A_{2m} = \bigg(\dfrac{0.2}{15.5}+\dfrac{0.2}{7.4}\bigg) \cdot A_{2m} \simeq 4.4914 \simeq 5\ cm^2$  
+$A_2 = 112\pm 5\ cm^2$  
+
+$A_m = A_1 + A_2 = 550 + 112 = 662\ cm^2$  
+$\Delta x (A_m) = \Delta x (A_1) + \Delta x (A_2) = 30 + 5 = 35 \simeq 40\ cm^2$  
+$A = 660\pm 40\ cm^2$  
+
+## Problema 7  
+
+Data una corrente $I = 1.8\pm 0.1\ A$ ed una differenza di potenziale $\Delta V = 16.5\pm 0.5\ V$ troviamo...  
+
+$R_m = \dfrac{\Delta V}{I} = \dfrac{16.5}{1.8} \simeq 9.16\ \Omega$  
+$\Delta x (R_m) = \bigg( \varepsilon_r (\Delta V) + \varepsilon_r (I) \bigg) \cdot R_m = \bigg(\dfrac{0.5}{16.5}+\dfrac{0.1}{1.8}\bigg) \cdot 9.16 \simeq 0.7865 \simeq 0.8\ \Omega$  
+$R = 9.2\pm 0.8\ \Omega$  
+
+## Problema 8  
+
+Si vuole calcolare l'errore relativo della somma e differenza di due masse:  
+
+$M = 1280\pm 20\ g$  
+$m = 860\pm 20\ g$  
+
+$S_m = M + m = 1280 + 860 = 2140\ g$  
+$\Delta x (S_m) = \Delta x (M) + \Delta x (m) = 20 + 20 = 40\ g$  
+$S = 2140\pm 40\ g$  
+$\varepsilon_r (S) = \dfrac{40}{2140} \simeq 0.01869$  
+
+$D_m = M - m = 1280 - 860 = 420\ g$  
+$\Delta x (D_m) = \Delta x (M) + \Delta x (m) = 20 + 20 = 40\ g$  
+$D = 420\pm 40\ g$  
+$\varepsilon_r (D) = \dfrac{40}{420} = 0.09524$  
+
+## Problema 9  
+
+Si vuole trovare l'area di un trapezio conoscendone le basi e l'altezza:  
+
+$a = 12.1\pm 0.1\ cm$  
+$b = 7.5\pm 0.1\ cm$  
+$h = 4.7\pm 0.1\ cm$  
+
+Sapendo che $A = \frac{1}{2} \cdot (a+b) \cdot h$  troviamo prima $c = a + b$  
+
+$c_m = a + b = 12.1 + 7.5 = 19.6\ cm$  
+$\Delta x (c_m) = \Delta(a) + \Delta x (b) = 0.1 + 0.1 = 0.2\ cm$  
+$c = 19.6\pm 0.2\ cm$  
+
+$A_m = \frac{1}{2} \cdot c \cdot h = \dfrac{1}{2} \cdot 19.6 \cdot 4.7 = 46.06\ cm^2$  
+$\Delta x (A_m) = \bigg( \varepsilon_r(c) + \varepsilon_r (h) \bigg) \cdot A_m = \bigg( \dfrac{0.2}{19.6}+ \dfrac{0.1}{4.7}\bigg) \cdot 46.06 = 1.45 \simeq 2\ cm^2$  
+$A = 46\pm 2\ cm^2$  
