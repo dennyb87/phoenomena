@@ -12,7 +12,7 @@ Possiamo allora dire che:
 
 ## Legge di Hooke  
 
-La **definizione operativa** di una grandezza fisica e' l'insieme delle operazioni necessarie per la sua misurazione. Per misurare la forza faremo uso di uno strumento che sfrutta la deformazione di un corpo (una molla) sotto l'effetto di una forza (effetto statico). Si vuole misurare la variazione di lunghezza $\Delta L = L_1 - L_0$ ogni volta che aggiungiamo un pesetto.  
+La **definizione operativa** di una grandezza fisica e' l'insieme delle operazioni necessarie per la sua misurazione. Per misurare la forza faremo uso di uno strumento detto **dinamometro** il quale sfrutta la deformazione di un corpo (una molla) sotto l'effetto di una forza (effetto statico). Si vuole misurare la variazione di lunghezza $\Delta L = L_1 - L_0$ ogni volta che aggiungiamo un pesetto.  
 
 ![forza_misurazione](https://github.com/dennyb87/phoenomena/assets/7195133/feca3949-4ec3-43f3-b74e-63f5e399e0a5)  
 
@@ -25,9 +25,21 @@ La **definizione operativa** di una grandezza fisica e' l'insieme delle operazio
 Osservando la tabella possiamo giungere alla conclusione che la molla si comporta in modo tale da rendere costante il rapporto tra la forza ed il suo allungamento. Quando questo accade si dice che due grandezze sono **direttamente proporzionali**, ovvero se la forza raddoppia, anche l'allungamento raddoppia, e cosi' via.  
 
 La legge di Hooke ci dice allora che:
->L'allungamento di una molla e' direttamente proporzionale alla forza che lo ha provocato:  
+>L'allungamento di una molla e' direttamente proporzionale alla forza che lo ha provocato:
 >
 > $F = K \cdot \Delta L$  
+> 
+> Dove $K$ prende il nome di **costante elastica**.  
 
+Questa legge non e' sempre valida, ad esempio puo' succedere che la molla si rompa, o che si deformi se tornare alla lunghezza iniziale. In ogni altro caso, ovvero quando la molla si comporta secondo la legge di Hooke allora si dice che si comporta in modo **elastico**.  
 
+![forza_elastica](https://github.com/dennyb87/phoenomena/assets/7195133/5c2bf6cf-cb71-4f90-98b0-43aab92e3534)  
+
+La forza esercitata dalla molla $F_{el}$ in risposta ad una forza esterna $F_{est}$ si dice **forza elastica**. Ed e' in condizioni di equilibrio uguale e contraria a quella esterna.  
+
+$F_{el} = -F_{est} = -K \cdot \Delta L$  
+
+![dinamometro](https://github.com/dennyb87/phoenomena/assets/7195133/81ed96a2-6835-4ec4-a625-8572c3603fc6)  
+
+Introduciamo quindi l'unita' di misura della forza, il **newton**, con simbolo $N$. Il dinamometro misura la forza sfruttando i suoi **effetti statici**, mentre vedremo in seguito che il newton viene definito sulla base degli **effetti dinamici** prodotti dalla forza.  
 
