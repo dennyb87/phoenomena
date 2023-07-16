@@ -43,3 +43,18 @@ $F_{el} = -F_{est} = -K \cdot \Delta L$
 
 Introduciamo quindi l'unita' di misura della forza, il **newton**, con simbolo $N$. Il dinamometro misura la forza sfruttando i suoi **effetti statici**, mentre vedremo in seguito che il newton viene definito sulla base degli **effetti dinamici** prodotti dalla forza.  
 
+## Costante elastica  
+
+| $F$ | $\Delta L_A\ (K_A = 2 )$ | $\Delta L_B\ (K_B = 1 )$ |
+| --- | ------------------------ | ------------------------ |
+| $1$ | $0.5$                    | $1$                      |
+| $2$ | $1$                      | $2$                      |
+| ... | ...                      | ...                      |
+
+![costante_elastica](https://github.com/dennyb87/phoenomena/assets/7195133/566e91d8-c22d-426c-9999-2338c9d8d1fd)  
+
+Tracciando un grafico delle misurazioni di due molle notiamo che con la stessa forza applicata, le due molle rispondono in modo diverso, in particolare si ha un allungamento diverso. Notiamo allora che la pendenza della retta tracciata individua la **costante elastica**, la cui unita' di misura e' newton su metri $\frac{N}{m}$.  
+
+$K = \dfrac{F}{\Delta L}$  
+
+Questa ci da un'indicazione del comportamento della molla, ovvero della sua resistenza alla deformazione. Maggiore e' la costante, maggiore sara' la rigidita' della molla, che ovviamente dipende dalla geometria e dal materiale.  
