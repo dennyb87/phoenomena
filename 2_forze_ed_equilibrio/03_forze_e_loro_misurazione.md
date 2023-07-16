@@ -1,6 +1,6 @@
 # La forza  
 
-Pur essendo familiare il concetto di forza, si incontrano non poche difficolta' nel momento in cui si tenta di descrivere con chiarezza di cosa si tratta. La ragione sta proprio nel fatto che non e' possibile darne una definizione diretta, ma si deve necessariamente ricorrere ad una **definizione indiretta**, quindi invece di spiegare cio' che la forza e', descriveremo cio' che la forza fa.  
+Pur essendo il concetto di forza relativamente familiare, si incontrano non poche difficolta' nel momento in cui si tenta di descrivere con chiarezza di cosa si tratta. La ragione sta proprio nel fatto che non e' possibile darne una definizione diretta, ma si deve necessariamente ricorrere ad una **definizione indiretta**, quindi invece di spiegare cio' che la forza e', descriveremo cio' che la forza fa.  
 
 * provocare il movimento di un corpo che prima era fermo
 * arrestare un corpo in movimento
@@ -10,7 +10,7 @@ Pur essendo familiare il concetto di forza, si incontrano non poche difficolta' 
 Possiamo allora dire che:  
 > La **forza** e' una grandezza fisica che puo' causare una deformazione o una variazione nello stato di quiete o condizioni di moto di un corpo.  
 
-## Legge di Hooke  
+# Legge di Hooke  
 
 La **definizione operativa** di una grandezza fisica e' l'insieme delle operazioni necessarie per la sua misurazione. Per misurare la forza faremo uso di uno strumento detto **dinamometro** il quale sfrutta la deformazione di un corpo (una molla) sotto l'effetto di una forza (effetto statico). Si vuole misurare la variazione di lunghezza $\Delta L = L_1 - L_0$ ogni volta che aggiungiamo un pesetto.  
 
@@ -43,7 +43,7 @@ $F_{el} = -F_{est} = -K \cdot \Delta L$
 
 Introduciamo quindi l'unita' di misura della forza, il **newton**, con simbolo $N$. Il dinamometro misura la forza sfruttando i suoi **effetti statici**, mentre vedremo in seguito che il newton viene definito sulla base degli **effetti dinamici** prodotti dalla forza.  
 
-## Costante elastica  
+# Costante elastica  
 
 | $F$ | $\Delta L_A\ (K_A = 2 )$ | $\Delta L_B\ (K_B = 1 )$ |
 | --- | ------------------------ | ------------------------ |
@@ -58,3 +58,19 @@ Tracciando un grafico delle misurazioni di due molle notiamo che con la stessa f
 $K = \dfrac{F}{\Delta L}$  
 
 Questa ci da un'indicazione del comportamento della molla, ovvero della sua resistenza alla deformazione. Maggiore e' la costante, maggiore sara' la rigidita' della molla, che ovviamente dipende dalla geometria e dal materiale.  
+
+# Peso e massa  
+
+Peso e massa vengono spesso usati come sinonimi ma anche se sono strettamente correlati, sono due grandezze fisiche distinte. Il peso e' la forza con cui un corpo viene attratto verso la terra, mentre la massa ci da un'idea della quantita' di materia di cui e' composto un corpo.  
+
+![bilancia-a-bracci-uguali](https://github.com/dennyb87/phoenomena/assets/7195133/edef322a-7419-4501-a4ce-4be84e9c205d)  
+
+La massa si misura con una bilancia a bracci uguali, e la sua unita' di misura e' il **kilogrammo**, che fino a poco tempo fa' era definito come un cilindro equilatero di platino-iridio a cui si e' convenzionalmente attribuito il valore di $1\ kg$.  
+
+Nonostante siano grandezze diverse, sono strettamente legate, basti pensare che quando si dimagrisce, perdendo quindi massa, anche il peso diminuisce.  
+
+$P = m \cdot g$  
+
+Dove $P$ rappresenta il peso del corpo in $N$, ovvero la forza con cui viene attratto verso terra, mentre $m$ e' la sua massa in $kg$, infine $g$ e' l'accelerazione di gravita' in $9.81\ m/s^2$.  
+
+![mass_vs_weight](https://github.com/dennyb87/phoenomena/assets/7195133/22f20714-0f80-44f3-af7b-b5e651733d4d)  
