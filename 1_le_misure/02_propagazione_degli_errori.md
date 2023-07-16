@@ -88,9 +88,9 @@ Dei diversi criteri di arrotondamento scegliamo i seguenti:
 
 Nel nostro caso si ha che:  
 
-$\Delta x(A) = \bm{7}41.312\ cm^2 \implies \bm{8}00\ cm^2$  
+$\Delta x(A) = \textbf{7}41.312\ cm^2 \implies \textbf{8}00\ cm^2$  
 
-$A_m = 137\,\bm{2}80\ cm^2 \implies 137\,\bm{3}00\ cm^2$  
+$A_m = 137\, \textbf{2}80\ cm^2 \implies 137\, \textbf{3}00\ cm^2$  
 
 Possiamo infine scrivere...  
 
