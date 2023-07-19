@@ -26,4 +26,28 @@ Il rapporto $\dfrac{y}{x} = \dfrac{costo}{mesi}$ non e' costante percio' non c'e
 | **perimetro** $cm$ | $2$    | $4$  | $8$  | $16$  |
 | **area** $cm^2$    | $0.25$ | $16$ | $64$ | $256$ |
 
-Perimetri e lati sono direttamente proporzionali in quanto $p = 4\ell \implies \dfrac{p}{\ell} = 4$ non si puo' dire lo stesso di aree e lati dove c'e' proporzionalita' ma non diretta.
+Perimetri e lati sono direttamente proporzionali in quanto $p = 4\ell \implies \dfrac{p}{\ell} = 4$ non si puo' dire lo stesso di aree e lati dove c'e' proporzionalita' ma non diretta.  
+
+## Esercizio 4  
+
+Si nota immediatamente che $x$ ed $y$ sono direttamente proporzionali in quanto $k = \dfrac{y}{x} = 5$ allora e' possibile trovare $y$ dato un qualunque valore di $x$ semplicemente con $y = k \cdot x$ ovvero $x = 5 \implies y = 25$  
+
+## Esercizio 5  
+
+Nella tabella **A** le grandezze non incrementano uniformemente, quindi il rapporto $\dfrac{y}{x}$ non e' costante, mentre lo e' nella **B** dove le grandezze incrementano sempre di $5$ in $x$ e $1.25$ in $y$.  
+
+## Esercizio 6  
+
+|     |       |      |       |       |       |
+| --- | ----- | ---- | ----- | ----- | ----- |
+| x   | $0.5$ | $1$  | $1.5$ | $2$   | $2.5$ |
+| y   | $30$  | $60$ | $90$  | $120$ | $150$ |
+|     |       |      |       |       |       |
+| y   | $3$   |      |       |       |       |
+| x   | $0.2$ |      |       | $0.8$ |       |
+|     |       |      |       |       |       |
+| x   | $0.4$ |      |       |       |       |
+| y   | $0.8$ |      |       | $3.2$ |       |
+|     |       |      |       |       |       |
+| x   | $150$ |      |       |       | $30$  |
+| y   |       |      | $18$  |       |       |
