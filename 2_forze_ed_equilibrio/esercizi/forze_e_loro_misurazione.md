@@ -51,3 +51,6 @@ Nella tabella **A** le grandezze non incrementano uniformemente, quindi il rappo
 |     |       |       |       |       |       |
 | x   | $150$ | $120$ | $90$  | $60$  | $30$  |
 | y   | $30$  | $24$  | $18$  | $12$  | $6$   |
+
+![forze_misurazione_esercizi_04](https://github.com/dennyb87/phoenomena/assets/7195133/8469f724-772c-463c-81fb-918645c608d6)  
+
