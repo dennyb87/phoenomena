@@ -54,3 +54,53 @@ Nella tabella **A** le grandezze non incrementano uniformemente, quindi il rappo
 
 ![forze_misurazione_esercizi_04](https://github.com/dennyb87/phoenomena/assets/7195133/8469f724-772c-463c-81fb-918645c608d6)  
 
+## Esercizio 7  
+
+Contengono grandezze direttamente proporzionali le tabelle: **A**, **C**, **E**.  
+
+## Esercizio 8  
+
+Se $F = 100 \cdot \Delta L$ sappiamo immediatamente che la costante elastica $K = 100\ \frac{N}{m}$ percio':  
+
+|            |       |       |       |       |
+| ---------- | ----- | ----- | ----- | ----- |
+| $F$        | $100$ | $200$ | $300$ | $400$ |
+| $\Delta L$ | $1$   | $2$   | $3$   | $4$   |
+
+## Esercizio 9  
+
+Se $F = 500 \cdot \Delta L$ allora $K = 500\ \frac{N}{m}$ percio':  
+
+|            |        |        |        |        |        |
+| ---------- | ------ | ------ | ------ | ------ | ------ |
+| $F$        | $5$    | $10$   | $15$   | $20$   | $40$   |
+| $\Delta L$ | $0.01$ | $0.02$ | $0.03$ | $0.04$ | $0.08$ |
+
+![forza_allungamento_plot](https://github.com/dennyb87/phoenomena/assets/7195133/377dd84b-80b9-421f-8e63-e50cb473b1bd)  
+
+## Esercizio 10  
+
+Data la costante elastica $K = \dfrac{F}{\Delta L} = \dfrac{50}{0.1} = 500\ \frac{N}{m}$ si ha, come gia' detto, che la forza e l'allungamento incrementano con la stessa legge, se la forza raddoppia anche l'allungamento raddoppia e cosi' via...  
+
+|            |       |       |       |       |
+| ---------- | ----- | ----- | ----- | ----- |
+| $F$        | $50$  | $100$ | $150$ | $200$ |
+| $\Delta L$ | $0.1$ | $0.2$ | $0.3$ | $0.4$ |
+
+![forza_allungamento_plot_02](https://github.com/dennyb87/phoenomena/assets/7195133/14045a32-860a-4720-9b9d-3e7e8dca01a1)  
+
+## Esercizio 11  
+
+Dopo aver convertito $2\ cm = 0.2\ m$  si procede trovando la forza grazie alla legge di Hooke $F = K \cdot \Delta L = 80 \cdot 0.2 = 16\ N$  
+
+## Esercizio 12  
+
+Troviamo l'allungamento dopo aver convertito le misure in metri $\Delta L = 0.6 - 0.45 = 0.15\ m$ ed infine $F = K \cdot \Delta L = 120 \cdot 0.15 = 18\ N$  
+
+## Esercizio 13  
+
+Troviamo l'allungamento dopo aver convertito le misure in metri $\Delta L = 0.225 - 0.18 = 0.045\ m$ ed infine $F = K \cdot \Delta L = 25 \cdot 0.045 = 1.125\ N$  
+
+## Esercizio 14  
+
+Troviamo l'allungamento dopo aver convertito le misure in metri $\Delta L = 0.22 - 0.2 = 0.02\ m$ ed infine troviamo la costante elastica sapendo che $K = \dfrac{F}{\Delta L} = \dfrac{2.5}{0.02} = 125\ \frac{N}{m}$  
