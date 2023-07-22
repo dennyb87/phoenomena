@@ -104,3 +104,60 @@ Troviamo l'allungamento dopo aver convertito le misure in metri $\Delta L = 0.22
 ## Esercizio 14  
 
 Troviamo l'allungamento dopo aver convertito le misure in metri $\Delta L = 0.22 - 0.2 = 0.02\ m$ ed infine troviamo la costante elastica sapendo che $K = \dfrac{F}{\Delta L} = \dfrac{2.5}{0.02} = 125\ \frac{N}{m}$  
+
+![forze_misurazione_esercizi_05](https://github.com/dennyb87/phoenomena/assets/7195133/e77ab9b5-a71b-4176-8fc2-ee281ea4908e)  
+
+## Esercizio 15  
+
+Troviamo l'allungamento dopo aver convertito le misure in metri $\Delta L = 0.27 - 0.24 = 0.03\ m$ ed infine troviamo la costante elastica sapendo che $K = \dfrac{F}{\Delta L} = \dfrac{12}{0.03} = 400\ \frac{N}{m}$  
+
+## Esercizio 16  
+
+Sapendo che $\Delta L = \dfrac{F}{K}$ allora si ha che $\Delta L = \dfrac{30}{120} = 0.25\ m = 25\ cm$  
+
+## Esercizio 17  
+
+Sapendo che $\Delta L = \dfrac{F}{K}$ allora si ha che $\Delta L = \dfrac{1.75}{50} = 0.035\ m = 3.5\ cm$ ottenendo una lunghezza totale di $L_0 + \Delta L = 15 + 3.5 = 18.5\ cm$  
+
+## Esercizio 18  
+
+Sapendo che $\Delta L = \dfrac{F}{K} = \dfrac{3}{60} = 0.05\ m = 5\ cm$ allora la molla a riposo misura $L_0 = L_1 - \Delta L = 42 - 5 = 37\ cm$  
+
+## Esercizio 19  
+
+Con una forza $F = 150\ N$ ed costante elastica $K = 150\ \frac{N}{m}$ si otterrebbe un allungamento $\Delta L = \dfrac{F}{K} = \dfrac{150}{150} = 1\ m$. A parita' di forza, se la costante elastica aumenta, si ottiene un allungamento minore, saremmo di fronte quindi ad una molla **piu' rigida**.  
+
+|            |       |       |       |       |
+| ---------- | ----- | ----- | ----- | ----- |
+| $F$        | $300$ | $450$ | $600$ | $750$ |
+| $\Delta L$ | $2$   | $3$   | $4$   | $5$   |
+
+## Esercizio 20  
+
+Con una forza $F = 250\ N$ ed costante elastica $K = 250\ \frac{N}{m}$ si otterrebbe un allungamento $\Delta L = \dfrac{F}{K} = \dfrac{250}{250} = 1\ m$. Se la forza raddoppia $F = 500\ N$ anche l'allungamento raddoppia $\Delta L = \dfrac{500}{250} = 2\ m$. A parita' di forza, se la costante elastica diminuisce, si ottiene un allungamento maggiore, saremmo di fronte quindi ad una molla **meno rigida**.  
+
+|            |       |       |       |       |
+| ---------- | ----- | ----- | ----- | ----- |
+| $F$        | $50$  | $100$ | $150$ | $200$ |
+| $\Delta L$ | $0.2$ | $0.4$ | $0.6$ | $0.8$ |
+
+## Esercizio 21  
+
+Come si intuisce dal grafico, forza e allungamento sono grandezze direttamente proporzionali, per cui aumentano o diminuiscono con la stessa legge. Si ha quindi una costante elastica $K = \dfrac{30}{0.05} = 600\ \frac{N}{m}$  
+
+![plot_exercise_21](https://github.com/dennyb87/phoenomena/assets/7195133/83805612-9507-4184-8f60-b038b0ed307d)  
+
+Per tracciare il grafico di una molla meno rigida occorre diminuire la costante elastica, in questo caso si e' scelto arbitrariamente $K = 400\ \frac{N}{m}$ per cui a parita' di forza $F = 30\ N$ si ha un allungamento maggiore $\Delta L = \dfrac{30}{400} = 0.075\ m = 7.5\ cm$  
+
+## Esercizio 22  
+
+Per trovare la costante elastica ci bastera' $K = \dfrac{F}{\Delta L} = \dfrac{0.6}{0.012} = 50\ \frac{N}{m}$  
+
+## Esercizio 23  
+
+Troviamo la costante elastica $K = \dfrac{F}{\Delta L} = \dfrac{1}{0.03} \simeq 33.33\ \frac{N}{m}$  
+
+|            |        |         |        |         |
+| ---------- | ------ | ------- | ------ | ------- |
+| $F$        | $1$    | $1.5$   | $2$    | $2.5$   |
+| $\Delta L$ | $0.03$ | $0.045$ | $0.06$ | $0.075$ |
