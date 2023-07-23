@@ -194,3 +194,97 @@ Qui sotto la tabella nel caso in cui ci trovassimo sulla luna $g = 1.6\ m/s^2$
 
 ## Esercizio 27  
 
+Dicendo che ha perso $5\ kg$ possiamo dedurre che il peso si sia ridotto di $P = m \cdot g = 5 \cdot 9.8 = 49\ N$  
+
+## Esercizio 28  
+
+Una volta convertita la massa $750\ hg = 75\ kg$ troviamo che il peso e' $P = m \cdot g = 75 \cdot 9.8 = 735\ N$  
+
+## Esercizio 29  
+
+3.650 - 3.81
+
+Troviamo la massa $\Delta m = m_1 - m_0 = 3.81 - 3.65 = 0.16\ kg$ e di conseguenza il peso guadagnato $P = m \cdot g = 0.16 \cdot 9.8 = 1.568\ N$  
+
+## Esercizio 30  
+
+Sapendo che $P = m \cdot g$ allora $m = \dfrac{P}{g} = \dfrac{1.18}{9.8} = 0.12\ kg = 120\ g$  
+
+## Esercizio 31  
+
+Troviamo di nuovo la massa con $m = \dfrac{P}{g} = \dfrac{490.5}{9.8} = 50.05\ kg$  
+
+![forze_misurazione_problemi](https://github.com/dennyb87/phoenomena/assets/7195133/b816012f-3dcc-4970-a791-622035b754b1)  
+
+## Problema 1  
+
+$\Delta L_1 = \dfrac{F_1}{K} = \dfrac{1.5}{20} = 0.075\ m$  
+
+$\Delta L_2 = \dfrac{F_2}{K} = \dfrac{0.5}{20} = 0.025\ m$  
+
+$\Delta L = \Delta L_1 + \Delta L_2 = \dfrac{F_1 + F_2}{K} = \dfrac{1.5 + 0.5}{20} = 0.1\ m$  
+
+## Problema 2  
+
+$\Delta L_1 = \dfrac{F}{K_1} = \dfrac{2.5}{100} = 0.025\ m$  
+
+$\Delta L_2 = \dfrac{F}{K_2} = \dfrac{2.5}{200} = 0.0125\ m$  
+
+$\Delta L = \Delta L_1 + \Delta L_2 = 0.0375\ m = 3.75\ cm$  
+
+$K = \dfrac{F}{\Delta L} = \dfrac{K_1 \cdot K2}{K_1 + K2} \simeq 66.66\ \frac{N}{m}$  
+
+$\Delta L = \dfrac{F}{K} = \dfrac{2.5}{66.66} \simeq 0.0375\ m$  
+
+## Problema 3  
+
+Dopo aver convertito le misure in metri troviamo l'allungamento $\Delta L = L_1 - L_0 = 0.197 - 0.165 = 0.032\ m$ e la costante elastica:  
+
+$K = \dfrac{F}{\Delta L} = \dfrac{m \cdot g}{\Delta L} = \dfrac{0.865 \cdot 9.8}{0.032} = 264.90625 \simeq 265\ \frac{N}{m}$  
+
+## Problema 4  
+
+Si suppone che ognuna delle molle sia sottoposta a meta' della forza, percio' troviamo che $\Delta L = \dfrac{F}{2} \cdot \dfrac{1}{K} = \dfrac{12}{120} = 0.1\ m$  
+
+Alternativamente potremmo arrivare allo stesso risultato sapendo che in parallelo le costanti elastiche si sommano, percio':  
+
+$\Delta L = \dfrac{F}{K+K} = \dfrac{F}{2K} = \dfrac{12}{120} = 0.1\ m$  
+
+## Problema 5  
+
+Troviamo la costante equivalente...  
+
+$K_{ab} = K_a + K_b = 30 + 30 = 60\ \frac{N}{m}$  
+
+$K_{eq} = \dfrac{K_{ab} \cdot K_c}{K_{ab} + K_c} = \dfrac{60 \cdot 15}{60 + 15} = \dfrac{900}{75} = 12\ \frac{N}{m}$  
+
+...ed infine l'allungamento del sistema di molle:  
+
+$\Delta L = \dfrac{F}{K_{eq}} = \dfrac{3.5}{12} = 0.3\ m = 3\ dm$  
+
+## Problema 5  
+
+Troviamo l'allungamento $\Delta L = 22 - 20 = 2\pm 0.2\ cm = 0.02\pm 0.002\ m$ ed infine la costante elastica e la sua incertezza:  
+
+$\varepsilon_r = \varepsilon_r (F) + \varepsilon_r (\Delta L) = \dfrac{0.05}{2.5} + \dfrac{0.002}{0.02} = 0.02 + 0.1 = 0.12$  
+
+$K_m = \dfrac{F}{\Delta L} = \dfrac{2.5}{0.02} = 125\ \frac{N}{m}$  
+
+$\Delta x (K) = \varepsilon_r \cdot K_m = 0.12 \cdot 125 = 15\ \frac{N}{m}$  
+
+$K = 125\pm 15\ \frac{N}{m}$  
+
+Ottenendo quindi un intervallo di inderterminazione $110 \div 140\ \frac{N}{m}$  
+
+## Problema 6  
+
+30kg +- 0.2kg
+9.81 +- 0.01 m/s2
+
+Troviamo immediatamente il valore della grandezza del peso $P_m = m \cdot g = 30 \cdot 9.81 = 294.3\ N$ e la sua incertezza:  
+
+$\varepsilon_r = \varepsilon_r (m) + \varepsilon_r (g) = \dfrac{0.2}{30} + \dfrac{0.01}{9.81} \simeq 0.007686$  
+
+$\Delta x (P) = \varepsilon_r \cdot P_m = 0.007686 \cdot 294.3 \simeq 2.261 \simeq 3\ N$  
+
+$P = 294\pm 3\ N$  
