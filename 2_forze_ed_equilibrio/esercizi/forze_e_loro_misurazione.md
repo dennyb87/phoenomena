@@ -161,3 +161,36 @@ Troviamo la costante elastica $K = \dfrac{F}{\Delta L} = \dfrac{1}{0.03} \simeq 
 | ---------- | ------ | ------- | ------ | ------- |
 | $F$        | $1$    | $1.5$   | $2$    | $2.5$   |
 | $\Delta L$ | $0.03$ | $0.045$ | $0.06$ | $0.075$ |
+
+![forze_misurazione_esercizi_06](https://github.com/dennyb87/phoenomena/assets/7195133/6b3f7698-3627-4431-b45b-af8176583318)  
+
+## Esercizio 24  
+
+La molla meno rigida e' la **A** in quanto a parita' di forza applicata si ottiene un allungamento maggiore. Le costanti elastiche sono:  
+
+$K_A = \dfrac{F}{\Delta L} = \dfrac{2}{0.02} = 100\ \frac{N}{m}$  
+
+$K_B = \dfrac{F}{\Delta L} = \dfrac{2}{0.004} = 500\ \frac{N}{m}$  
+
+## Esercizio 25  
+
+Sarebbe tecnicamente sbagliato in quanto dimagrendo si ha una riduzione della massa, con conseguente riduzione di peso, tuttavia il peso' una forza, percio' grandezza ed unita' di misura non sono in accordo.  
+
+$massa \implies kg$  
+$peso \implies N$  
+
+## Esercizio 26  
+
+Tracciando il grafico possiamo concludere che peso e massa sono grandezze direttamente proporzionali, dove la massa e' la variabile indipendente, e la pendenza della retta e' appunto l'accelerazione gravitazionale.  
+
+Qui sotto la tabella nel caso in cui ci trovassimo sulla luna $g = 1.6\ m/s^2$  
+
+|            |       |       |       |       |
+| ---------- | ----- | ----- | ----- | ----- |
+| massa (kg) | $1$   | $2$   | $3$   | $4$   |
+| peso (N)   | $1.6$ | $3.2$ | $4.8$ | $6.4$ |
+
+![earth_moon_plot](https://github.com/dennyb87/phoenomena/assets/7195133/e472f517-5260-490a-93a8-87c344c7ef9e)  
+
+## Esercizio 27  
+
