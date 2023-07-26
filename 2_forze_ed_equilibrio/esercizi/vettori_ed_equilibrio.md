@@ -102,6 +102,8 @@ $e = \sqrt{c^2 + d^2} = \sqrt{5.66^2 + 8.49^2} = \sqrt{104.1157} \simeq 10.2\ N$
 
 Completati con un editor di immagini.  
 
+![vettori_equilibrio_esercizi_04](https://github.com/dennyb87/phoenomena/assets/7195133/35188788-69e4-473e-b8e6-dacacaeff228)  
+
 ## Esercizio 15  
 
 Sapendo che $a = 10$ e che $a_y = 5$ si ha che:  
