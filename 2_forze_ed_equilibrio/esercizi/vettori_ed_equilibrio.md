@@ -228,5 +228,42 @@ $F_{asc} = K_a \cdot P = 0.8 \cdot 12\,000 = 9\,600\ N$
 
 $F_{bag} = K_b \cdot P = 0.5 \cdot 12\,000 = 6\,000\ N$  
 
-$F_{asc} \gt F_{}bag$  
+$F_{asc} \gt F_{bag}$  
 
+## Esercizio 36  
+
+$F_a = K \cdot P = 0.4 \cdot 2 \cdot 9.81 \simeq 7.85\ N$  
+
+Si ha che $5\ N$ non sono abbazstanza, occorre invece una forza $\gt 7.85\ N$  
+
+## Esercizio 37  
+
+$F_a = K \cdot P = 0.5 \cdot 0.4 \cdot 9.81 = 1.962\ N$  
+
+Per due cubi la massa raddoppia, cosi' come la forza, percio' $2F_a = 1.962 \cdot 2 = 3.924\ N$  
+
+## Esercizio 38  
+
+$F_a = K \cdot P \implies K = \dfrac{F_a}{P} = \dfrac{7.25}{29} = 0.25$  
+
+Tecnicamente pero' se il parallelepipedo accelera allora $7.25\ N > F_a$ ne consegue che il corpo in stato di quiete ha $K < 0.25$  
+
+## Esercizio 39  
+
+$K = \dfrac{F_a}{P} = \dfrac{1.75}{35} = 0.05$  
+
+## Esercizio 40  
+
+$F_a = K \cdot P = 0.12 \cdot 9.4 = 1.128\ N$  
+
+La forza minima sara' $\gt F_a$  
+
+## Esercizio 41  
+
+$F_a = K \cdot P = 0.15 \cdot 18 \simeq 2.7\ N$  
+
+Dato che $F_1 < F_2 < F_a$ nessuna delle due forze e' sufficiente per vincere la forza d'attrito.  
+
+Se a parita' di peso si riesce a spostare il corpo con $1.8\ N$ significa che il coefficiente d'attrito e' cambiato, ovvero la forma e/o il materiale della supercie a contatto.  
+
+$K = \dfrac{F_a}{P} = \dfrac{1.8}{18} = 0.1$  
