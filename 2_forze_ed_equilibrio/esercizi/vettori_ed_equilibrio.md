@@ -133,3 +133,100 @@ Si ha che $u = \sqrt{6^2+8^2} = \sqrt{100} = 10$ quindi per l'equilibrio serve $
 ## Esercizio 18  
 
 Si il corpo e' in equilibrio in quanto $\lvert F_{tot} \rvert = \lvert \vec{F_3} \rvert = 5$  
+
+![vettori_equilibrio_esercizi_05](https://github.com/dennyb87/phoenomena/assets/7195133/9563c1bd-9431-40ea-aefe-5384baa48f3f)  
+
+## Esercizio 19  
+
+$\vec{F_1} = \begin{bmatrix}0\\6\end{bmatrix}$  
+
+$\vec{F_2} = \begin{bmatrix}-4\\-2\end{bmatrix}$  
+
+$\vec{F_{tot}} = \vec{F_1} + \vec{F_2} = \begin{bmatrix}0-4\\6-2\end{bmatrix} = \begin{bmatrix}-4\\4\end{bmatrix}$  
+
+$F_{tot} = \sqrt{F_{1x}^2+F_{1y}^2} = \sqrt{(-4)^2+4^2} = \sqrt{32} \simeq 5.6$  
+
+$F_3 = \sqrt{2} \cdot F_{3x} = \sqrt{2} \cdot 5 \simeq 7.1$  
+
+Concludiamo che il punto materiale non e' in equilibrio, in quanto i due vettori giaciono sulla stessa retta e hanno verso opposto, il loro modulo risultante e' non nullo.  
+
+## Esercizio 20  
+
+Il punto **P** non e' in equilibrio in quanto la forza risultante non e' nulla, questo si deduce anche senza calcoli dalla direzione delle forze agenti.  
+
+## Esercizio 22  
+
+$\vec{P_\parallel}$ non puo' essere maggiore di $\vec{P}$ in quanto $\vec{P_\parallel}$ dipende dall'inclinazione del piano, il caso $\vec{P_\parallel} = \vec{P}$ e' raggiungibile solo con un angolo di $90^\circ$ ma in quel caso non ci sarebbe reazione vincolare in quanto il corpo sarebbe in caduta libera, per cui $\vec{P_\perp} = \vec{P_\parallel} = \vec{R} = 0$  
+
+Si conclude che $\vec{P_\parallel} \lt \vec{P}$ e' sempre soddisfatta.  
+
+## Esercizio 23  
+
+Sapendo che $F_e = P \cdot \dfrac{h}{l} = 100 \cdot \dfrac{3}{5} = 60\ N$  
+
+## Esercizio 24  
+
+Sapendo che $F_e = P \cdot \dfrac{h}{l} = 1200 \cdot \dfrac{2}{6} = 400\ N$ si ha che $\vec{P_\parallel} = -\vec{F_e} \implies P_\parallel = F_e = 400\ N$  
+
+## Esercizio 25  
+
+La forza e' sempre nulla tra $\vec{P_\parallel}$ e $\vec{F_e}$ e ovviamente tra $\vec{P_\perp}$ ed $\vec{R}$  
+
+Sapendo che $P = 800\ N$ allora...  
+
+$F_e = P \cdot \dfrac{h}{l} = 800 \cdot \dfrac{2.5}{6.25} = 320\ N$  
+
+![vettori_equilibrio_esercizi_06](https://github.com/dennyb87/phoenomena/assets/7195133/79aed710-e43d-4f0c-b72a-cce0e4b911e8)  
+
+## Esercizio 26  
+
+$F_e = P \cdot \dfrac{h}{l} \implies P = F_e \cdot \dfrac{l}{h} = 64 \cdot \dfrac{48}{8} = 384\ N$  
+
+## Esercizio 27  
+
+$P = F_e \cdot \dfrac{l}{h} = 1.5 \cdot \dfrac{20}{12} = 2.5\ N$  
+
+Si ha quindi che $P_\parallel = F_e = 2.5\ N$  
+
+## Esercizio 28  
+
+$P = F_e \cdot \dfrac{l}{h} = 0.625 \cdot \dfrac{60}{15} = 2.5\ N$  
+
+## Esercizio 29  
+
+$F_e = P \cdot \dfrac{h}{l} \implies \dfrac{1}{P} \cdot F_e \cdot l = \dfrac{1}{250} \cdot 100 \cdot 30 = 12\ m$  
+
+## Esercizio 30  
+
+$F_e = P \cdot \dfrac{h}{l} \implies \dfrac{1}{P} \cdot F_e \cdot l = \dfrac{1}{720} \cdot 90 \cdot 20 = 25\ m$  
+
+## Esercizio 31  
+
+$F_e = P \cdot \dfrac{h}{l} \implies l = P \cdot h \cdot \dfrac{1}{F_e} = 0.2 \cdot 0.4 \cdot \dfrac{1}{0.05} \simeq 1.6\ m$  
+
+## Esercizio 32  
+
+$P = m \cdot a = 0.032 \cdot 9.81 \simeq 0.31392\ N$  
+
+$l = P \cdot h \cdot \dfrac{1}{F_e} = 0.31392 \cdot 15 \cdot \dfrac{1}{0.12} = 0.392\ m = 39.2\ cm$  
+
+## Esercizio 33  
+
+Il coefficiente d'attrito statico dipende dalla forma e dal materiale delle superfici a contatto, percui per diminuire l'attrito potremmo porre l'oggetto su un supporto dotato di ruote oppure modificare in qualche modo le superfici a contato per renderle piu' scorrevoli.  
+
+## Esercizio 34  
+
+$P = m \cdot a = 75 \cdot 9.81 = 735.75\ N$  
+
+$F_a = K \cdot P = 0.04 \cdot 735.75 = 29.43\ N$  
+
+## Esercizio 35  
+
+La forza d'attrito e' ovviamente maggiore sull'asfalto asciutto, dimostrato dal fatto che:  
+
+$F_{asc} = K_a \cdot P = 0.8 \cdot 12\,000 = 9\,600\ N$  
+
+$F_{bag} = K_b \cdot P = 0.5 \cdot 12\,000 = 6\,000\ N$  
+
+$F_{asc} \gt F_{}bag$  
+
