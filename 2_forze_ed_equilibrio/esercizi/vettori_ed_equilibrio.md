@@ -384,18 +384,18 @@ Troviamo il rapporto $r$ e la sua incertezza.
 
 $r_m = \dfrac{h}{l} = \dfrac{0.25}{0.845} = 0.296$  
 
-$\varepsilon_r(r_m) = \varepsilon_r(h) + \varepsilon_r(l) = \dfrac{0.001}{0.25} + \dfrac{0.005}{0.845} = 0.01$  
+$\varepsilon_r(r) = \varepsilon_r(h) + \varepsilon_r(l) = \dfrac{0.001}{0.25} + \dfrac{0.005}{0.845} = 0.01$  
 
-$\Delta (r) = \varepsilon_r(r_m) \cdot r_m = 0.01 \cdot 0.296 = 0.003\ m$  
+$\Delta x(r) = \varepsilon_r(r) \cdot r_m = 0.01 \cdot 0.296 = 0.003$  
 
-$r = 0.296\pm 0.003\ m$  
+$r = 0.296\pm 0.003$  
 
 Infine troviamo la componente attiva parallela della forza peso.  
 
 $P_{\parallel_m} = P \cdot r = 160 \cdot 0.296 = 47.36\ N$  
 
-$\varepsilon_r(P_{\parallel_m}) = \varepsilon_r(P) + \varepsilon_r(r) = \dfrac{2}{160} + \dfrac{0.003}{0.296} = 0.0226$  
+$\varepsilon_r(P_{\parallel}) = \varepsilon_r(P) + \varepsilon_r(r) = \dfrac{2}{160} + \dfrac{0.003}{0.296} = 0.0226$  
 
-$\Delta x(P_\parallel) = \varepsilon_r(P_{\parallel_m}) \cdot P_{\parallel_m} = 0.0226 \cdot 47.36 = 1.070336 \simeq 1\ N$  
+$\Delta x(P_\parallel) = \varepsilon_r(P_{\parallel}) \cdot P_{\parallel_m} = 0.0226 \cdot 47.36 = 1.070336 \simeq 1\ N$  
 
 $P_\parallel = 47\pm 1\ N$  
