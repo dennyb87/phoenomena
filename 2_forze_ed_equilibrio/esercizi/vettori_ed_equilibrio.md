@@ -194,11 +194,11 @@ $P = F_e \cdot \dfrac{l}{h} = 0.625 \cdot \dfrac{60}{15} = 2.5\ N$
 
 ## Esercizio 29  
 
-$F_e = P \cdot \dfrac{h}{l} \implies \dfrac{1}{P} \cdot F_e \cdot l = \dfrac{1}{250} \cdot 100 \cdot 30 = 12\ m$  
+$F_e = P \cdot \dfrac{h}{l} \implies h = \dfrac{1}{P} \cdot F_e \cdot l = \dfrac{1}{250} \cdot 100 \cdot 30 = 12\ m$  
 
 ## Esercizio 30  
 
-$F_e = P \cdot \dfrac{h}{l} \implies \dfrac{1}{P} \cdot F_e \cdot l = \dfrac{1}{720} \cdot 90 \cdot 20 = 25\ m$  
+$F_e = P \cdot \dfrac{h}{l} \implies h = \dfrac{1}{P} \cdot F_e \cdot l = \dfrac{1}{720} \cdot 90 \cdot 20 = 25\ m$  
 
 ## Esercizio 31  
 
@@ -212,7 +212,7 @@ $l = P \cdot h \cdot \dfrac{1}{F_e} = 0.31392 \cdot 15 \cdot \dfrac{1}{0.12} = 0
 
 ## Esercizio 33  
 
-Il coefficiente d'attrito statico dipende dalla forma e dal materiale delle superfici a contatto, percui per diminuire l'attrito potremmo porre l'oggetto su un supporto dotato di ruote oppure modificare in qualche modo le superfici a contato per renderle piu' scorrevoli.  
+Il coefficiente d'attrito statico dipende dalla forma e dal materiale delle superfici a contatto, per cui per diminuire l'attrito potremmo porre l'oggetto su un supporto dotato di ruote oppure modificare in qualche modo le superfici a contato per renderle piu' scorrevoli.  
 
 ## Esercizio 34  
 
@@ -229,6 +229,8 @@ $F_{asc} = K_a \cdot P = 0.8 \cdot 12\,000 = 9\,600\ N$
 $F_{bag} = K_b \cdot P = 0.5 \cdot 12\,000 = 6\,000\ N$  
 
 $F_{asc} \gt F_{bag}$  
+
+![vettori_equilibrio_esercizi_07](https://github.com/dennyb87/phoenomena/assets/7195133/fcda9d93-0df0-40ae-a354-4e39ef04c040)  
 
 ## Esercizio 36  
 
@@ -267,3 +269,133 @@ Dato che $F_1 < F_2 < F_a$ nessuna delle due forze e' sufficiente per vincere la
 Se a parita' di peso si riesce a spostare il corpo con $1.8\ N$ significa che il coefficiente d'attrito e' cambiato, ovvero la forma e/o il materiale della supercie a contatto.  
 
 $K = \dfrac{F_a}{P} = \dfrac{1.8}{18} = 0.1$  
+
+## Problema 1  
+
+$F_e = F_a = K \cdot P = 0.085 \cdot 60 = 5.1\ N$  
+
+$F_e = K \cdot \Delta L \implies \dfrac{F_e}{\Delta L} = \dfrac{5.1}{0.06} = 85\ \frac{N}{m}$  
+
+Anche se ponendo $F_e = F_a$ credo che tecnicamente si ottenga la costante elastica in equilibrio.  
+
+## Problema 2  
+
+$P = m \cdot a = 50 \cdot 9.81 = 490.5\ N$  
+
+$h = \dfrac{1}{P} \cdot F_e \cdot l = \dfrac{1}{490.5} \cdot 196 \cdot 2.4 \simeq 0.96\ m$  
+
+$\dfrac{h}{l \cdot \frac{1}{2}} = \dfrac{2h}{l} \implies F_e = P \cdot \dfrac{2h}{l} = 490.5 \cdot \dfrac{2 \cdot 0.96}{2.4} = 392.4\ N$  
+
+## Problema 3  
+
+Si ha che la forza peso di **B** sara' uguale alla forza equilibrante agente su **A**, ovvero $F_{pB} = F_{eA}$. Sapendo poi che $\sin(30^\circ) = \frac{1}{2}$ possiamo sostituirlo al posto di $\frac{h}{l}$ in quanto il rapporto e' il medesimo, per cui...  
+
+$P_A = m \cdot a = 110 \cdot 9.81 = 1079.1\ N$  
+
+$F_{eA} = P \cdot \dfrac{h}{l} = P \cdot \frac{1}{2} = 1079.1 \cdot \frac{1}{2} = 539.55\ N$  
+
+In presenza di attrito si ha che:  
+
+$F_a = K \cdot P_\perp = K \cdot cos(30^\circ) \cdot P_A = 0.3 \cdot \frac{\sqrt{3}}{2} \cdot 1079.1 \simeq 280.36\ N$  
+
+$F_e = P_\parallel - F_a = F_{eA} - F_a = 539.55 - 280.36 = 259.19\ N$  
+
+![vettori_equilibrio_esercizi_08](https://github.com/dennyb87/phoenomena/assets/7195133/fcea79ed-8d3c-42bc-87ce-aac114873329)  
+
+## Problema 4  
+
+La reazione vincolare e' uguale alla forza peso in condizione di equilibrio, quindi $R = P = 4000\ N$  
+
+Nel caso semplice della sola forza peso, si ha che $F_a = K \cdot P = 0.15 \cdot 4000 = 600\ N$  
+
+Se si aggiunge una forza $\vec{F} = 800\ N$ a $30^\circ$ rispetto alla forza peso, si ha che:  
+
+$\cos (30^\circ) = \frac{\sqrt{3}}{2}$  
+
+$F_\perp = F \cdot \frac{\sqrt{3}}{2} \simeq 692.82\ N$  
+
+$F_a = K(P + F_\perp) = 0.15 \cdot (4000 + 692.82) = 703.92\ N$  
+
+## Problema 5  
+
+In questo caso la forza equilibrante sara' uguale alla forza a cui e' soggetta la molla, percio':  
+
+$F_m = F_e = P \cdot \dfrac{h}{l} = 0.75 \cdot 9.81 \cdot \dfrac{0.85}{3.4} \simeq 1.8\ N$  
+
+$\Delta L = \dfrac{F_m}{K} =\dfrac{1.8}{120} = 0.015\ m = 1.5\ cm$  
+
+## Problema 6  
+
+$P = m \cdot a = 70 \cdot 9.81 = 686.7\ N$  
+
+$l^2 = h^2 + b^2 \implies b = \sqrt{3.6^2 - 1.2^2} \simeq 3.3941\ m$   
+
+$P_\perp = P \cdot \dfrac{b}{l} = 686.7 \cdot \dfrac{3.3941}{3.6} \simeq 647.42\ N$  
+
+$F_a = K \cdot P_\perp  = 0.7 \cdot 647.42 \simeq 453\ N$  
+
+Sapendo che dopo il trattamento della superficie per l'equilibrio sono sufficienti $F_e = 35\ N$ si ha che:  
+
+$F_\parallel = P \cdot \dfrac{h}{l} = 686.7 \cdot \dfrac{1.2}{3.6} = 228.9\ N$  
+
+$F_a = F_\parallel - F_e$  
+
+$F_a = 228.9 - 35 = 193.9\ N$  
+
+$K = \dfrac{F_a}{P_\perp} = \dfrac{193.9}{647.42} \simeq 0.3$  
+
+## Problema 7  
+
+$F_{tot} = \sqrt{F_1^2+F_2^2}= \sqrt{2 \cdot 16.9^2} = 23.9\ N$  
+
+$\Delta L = \dfrac{F_{tot}}{K} = \dfrac{23.9}{400} = 0.05975\ m = 5.975\ cm$  
+
+$L_0 = L_1 - \Delta L = 32 - 5.975 = 26.025\ cm$  
+
+## Problema 8  
+
+$l^2 = h^2 + b^2 \implies b = \sqrt{0.6^2-0.2^2} \simeq 0.5657\ m$  
+
+$P = m \cdot a = 0.8 \cdot 9.81 = 7.848\ N$  
+
+$P_\perp = P \cdot \dfrac{b}{l} = 7.848 \cdot \dfrac{0.5657}{0.6} \simeq 7.4$  
+
+$P_\parallel = P \cdot \dfrac{h}{l} = 7.848 \cdot \dfrac{0.2}{0.6} = 2.616\ N$  
+
+$F_{el} = K \cdot \Delta L = 35 \cdot 0.04 = 1.4\ N$  
+
+Qui il passaggio cruciale in cui si sottrae la forza elastica $F_{el}$ della molla dalla componente normale al piano della forza peso.  
+
+$F_\perp = P_\perp - F_{el} = 7.4 - 1.4 = 6\ N$  
+
+Troviamo infine la forza d'attrito e la forza equilibrante.  
+
+$F_a = F_\perp \cdot K = 6 \cdot 0.121 = 0.726\ N$  
+
+$F_e = P_\parallel - F_a = 2.616 - 0.726 = 1.89\ N$  
+
+## Problema 9  
+
+$l = 0.845\pm 0.005\ m$  
+$h = 0.25\pm 0.001\ m$  
+$P = 160\pm 2\ N$  
+
+Troviamo il rapporto $r$ e la sua incertezza.  
+
+$r_m = \dfrac{h}{l} = \dfrac{0.25}{0.845} = 0.296$  
+
+$\varepsilon_r(r_m) = \varepsilon_r(h) + \varepsilon_r(l) = \dfrac{0.001}{0.25} + \dfrac{0.005}{0.845} = 0.01$  
+
+$\Delta (r) = \varepsilon_r(r_m) \cdot r_m = 0.01 \cdot 0.296 = 0.003\ m$  
+
+$r = 0.296\pm 0.003\ m$  
+
+Infine troviamo la componente attiva parallela della forza peso.  
+
+$P_{\parallel_m} = P \cdot r = 160 \cdot 0.296 = 47.36\ N$  
+
+$\varepsilon_r(P_{\parallel_m}) = \varepsilon_r(P) + \varepsilon_r(r) = \dfrac{2}{160} + \dfrac{0.003}{0.296} = 0.0226$  
+
+$\Delta x(P_\parallel) = \varepsilon_r(P_{\parallel_m}) \cdot P_{\parallel_m} = 0.0226 \cdot 47.36 = 1.070336 \simeq 1\ N$  
+
+$P_\parallel = 47\pm 1\ N$  
