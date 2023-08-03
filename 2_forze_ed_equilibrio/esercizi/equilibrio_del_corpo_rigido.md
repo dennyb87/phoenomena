@@ -82,3 +82,74 @@ $F_{tot} = F_2 - F_1 = 3F_1$
 $F_1 = \dfrac{F_{tot}}{3} = \dfrac{45}{3} = 15\ N$  
 
 $F_2 = 4F_1 = 4 \cdot 15 = 60\ N$  
+
+![corpo_rigido_ex_04](https://github.com/dennyb87/phoenomena/assets/7195133/d29f2f04-3073-4f4d-bc4d-6ef23d99ebde)  
+
+## Esercizio 8  
+
+$P = m \cdot a = 30 \cdot 9.81 = 294.3\ N$  
+$d = 1.8\ m$  
+$d_F = 0.6\ m$  
+
+Essendo il bambino piu' vicino a Monica, questa dovra' esercitare una forza maggiore rispetto a Flavia $F_M > F_F$ e sara' necessaria una forza totale uguale a $F_{tot} = P$ per cui...  
+
+$F_F:F_M = d_M:d_F$  
+
+$\dfrac{F_M}{F_{tot}} = \dfrac{d_F}{d}$  
+
+$\dfrac{F_F}{294.3} = \dfrac{0.6}{1.8} \implies F_F = 294.3 \cdot \dfrac{0.6}{1.8} = 98.1\ N$  
+
+$F_M = F_{tot} - F_F = 294.3 - 98.1 = 196.2\ N$  
+
+## Esercizio 9  
+
+Sapendo che...  
+
+$\dfrac{F_1}{F_2} = \dfrac{d_2}{d_1}$  
+
+$\dfrac{F_1}{600} = \dfrac{20}{120} \implies F_1 = 600 \cdot \dfrac{20}{120} = 100\ N$  
+
+$F_{tot} = F_2 - F_1 = 600 - 100 = 500\ N$  
+
+## Esercizio 10  
+
+$d = 80\ cm$  
+$F_1 = 135\ N$  
+$F_2 = 225\ N$  
+$F_{tot} = F_1 + F_2 = 135 + 225 = 360\ N$  
+
+$\dfrac{F_1}{F_{tot}} = \dfrac{d_2}{d}$  
+
+$d_2 = d \cdot \dfrac{F_1}{F_{tot}} = 80 \cdot \dfrac{135}{360} = 30\ cm$  
+
+$d_1 = d - d_2 = 80 - 30 = 50\ cm$  
+
+Per equilibrare le forze $F_1, F_2$ basteranno quindi due forze tali che $F_3 + F_4 = F_{tot}$ percio' scegliamo arbitrariamente...  
+
+$d = 60\ cm$  
+$F_3 = 60\ N$  
+$F_4 = 300\ N$  
+
+E troviamo infine i loro punti di applicazione.  
+
+$\dfrac{F_3}{F_{tot}} = \dfrac{d_4}{d}$  
+
+$d_4 = d \cdot \dfrac{F_3}{F_{tot}} = 60 \cdot \dfrac{60}{360} = 10\ cm$  
+$d_3 = d - d_4 = 60 - 10 = 50\ cm$  
+
+## Esercizio 11  
+
+No il braccio della forza non e' OA ma la perpendicolare dalla retta d'azione al punto O. Se spostiamo $\vec{F}$ in modo che A coincida con O allora il braccio sara' nullo in quanto la distanza AO e' zero.  
+
+## Esercizio 12  
+
+Si ha che i rispettivi momenti sono...  
+
+$M_A = b_A \cdot F$  
+$M_B = b_B \cdot F$  
+
+Percio' $M_A > M_B$  
+
+## Esercizio 13  
+
+$M = b \cdot F = 0.7 \cdot 25 = 17.5\ Nm$  
