@@ -200,3 +200,92 @@ $F = \dfrac{M}{b} = \dfrac{6}{0.1} = 60\ N$
 $b = 8\ dm = 0.8\ m$  
 $M = b \cdot F = 0.8 \cdot 35 = 28\ Nm$  
 
+![corpo_rigido_ex_06](https://github.com/dennyb87/phoenomena/assets/7195133/eb07ea58-848f-4372-a7c5-0833e8bb8462)  
+
+## Esercizio 22  
+
+Con meta' della forza servira il due volte il braccio, percio' si posiziona un pesetto a $10\ cm$ dal fulcro. Per lo stesso motivo con un terzo della forza servira' tre volte il braccio, per cui $15\ cm$. Infine con il doppio della forza servira' meta' braccio, ovvero $2.5\ cm$.  
+
+## Esercizio 23  
+
+$M_a = M_b$  
+$b_a \cdot F_a = b_b \cdot F_b$  
+
+$F_b = \dfrac{b_a \cdot F_a}{b_b} = \dfrac{65 \cdot 40}{104} = 25\ N$  
+
+## Exercises 24  
+
+$P_1 = 20 \cdot 9.81 = 196.2\ N$  
+$P_2 = 25 \cdot 9.81 = 245.25\ N$  
+$b_1 = \dfrac{2.5}{2} = 1.25\ m$  
+
+$M_1 = M_2$  
+$b_1 \cdot P_1 = b_2 \cdot P_2$  
+
+$b_2 = \dfrac{b_1 \cdot P_1}{P_2} = \dfrac{1.25 \cdot 196.2}{245.25} = 1\ m$  
+
+## Esercizio 25  
+
+$P_c = 750\ N$  
+$b_c = 0.25\ m$  
+$b = 1.5 - 0.25 = 1.25\ m$  
+
+$P_c \cdot b_c = F \cdot b$  
+
+$F = \dfrac{P_c \cdot b_c}{b} = \dfrac{150 \cdot 0.25}{1.25} = 150\ N$  
+
+Questa soluzione va in contraddizione con la soluzione del libro, ma se i momenti sono uguali allora con $250\ N$ si dovrebbe avere un braccio di $0.75\ m$. Se vogliamo sfruttare tutta la lunghezza dell'asta $1.5\ m$ allora applichiamo la forza all'estremita', ovvero a $1.25\ m$ di distanza dal fulcro.  
+
+$M_c = M$  
+$P_c \cdot b_c = F \cdot b$  
+$750 \cdot 0.25 = 150 \cdot 1.25 = 187.5\ Nm$
+
+Per essere vantaggiosa si deve poter raggiungere l'equilibrio con una forza minore della resistenza, ovvero il fulcro deve essere piu' vicino alla resistenza, che in questo caso e' la cassa.  
+
+## Esercizio 26  
+
+Si tratta di una leva vantaggiosa in quanto la resistenza viene equilibrata da una forza minore.  
+
+$b_R \cdot R = b \cdot F$  
+
+$F = \dfrac{b_R \cdot R}{b} =\dfrac{0.4 \cdot 300}{1.2} = 100\ N$  
+
+## Esercizio 27  
+
+Si tratta di una leva svantaggiosa in quanto la resistenza viene equilibrata da una forza maggiore.  
+
+$b_R \cdot R = b \cdot F$  
+
+$b_R = \dfrac{b \cdot F}{R} = \dfrac{0.5 \cdot 150}{25} = 3\ m$  
+
+## Esercizio 28  
+
+$M_F = a \cdot F = 1.75 \cdot 60 = 105\ Nm$  
+
+$M_R = b \cdot R = 0.75 \cdot 120 = 90\ Nm$  
+
+Si ha allora che $M_F \neq M_R$ per cui non c'e' equilibrio.  
+
+## Esercizio 29  
+
+Si tratta di una leva di secondo genere, in quanto la resistenza e' posizionata tra il fulcro e la forza, per cui vantaggiosa.  
+
+$R = 30 \cdot 9.81 = 294.3\ N$  
+$b_R = 0.4\ m$  
+$b = 1.2\ m$  
+
+$b_R \cdot R = b \cdot F$  
+
+$F = \dfrac{b_R \cdot R}{b} = \dfrac{0.4 \cdot 294.3}{1.2} = 98.1\ N$  
+
+## Esercizio 30  
+
+Si tratta di una leva di terzo genere, quindi svantaggiosa.  
+
+$R = 0.4 \cdot 9.81 = 3.924\ N$  
+$b_R = 3\ m$  
+$b = 0.3\ m$  
+
+$b_R \cdot R = b \cdot F$  
+
+$F = \dfrac{b_R \cdot R}{b} = \dfrac{3 \cdot 3.924}{0.3} = 39.24\ N$  
