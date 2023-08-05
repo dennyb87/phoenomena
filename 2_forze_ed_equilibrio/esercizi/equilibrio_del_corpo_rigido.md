@@ -153,3 +153,50 @@ Percio' $M_A > M_B$
 ## Esercizio 13  
 
 $M = b \cdot F = 0.7 \cdot 25 = 17.5\ Nm$  
+
+![corpo_rigido_ex_05](https://github.com/dennyb87/phoenomena/assets/7195133/6d1eea55-39a8-4f54-a2e4-2e4d14fa1837)  
+
+## Esercizio 14  
+
+$b = 24\ dm = 2.4\ m$  
+$M = b \cdot F = 2.4  \cdot 150 = 360\ Nm$  
+
+## Esercizio 15  
+
+A parita' di forza e' possibile ottenere un momento maggiore aumentando il braccio, ovvero spostando il punto di applicazione ad una distanza maggiore rispetto al bullone.  
+
+$M = b \cdot F = 0.1  \cdot 40 = 4\ Nm$  
+
+## Esercizio 16  
+
+Se $M = 20\ Nm$ e $F = 60\ N$ allora $b = \dfrac{M}{F} = \dfrac{20}{60} = 0.\overline{33}\ m \simeq 33.3\ cm$  
+
+## Esercizio 17  
+
+Se $M = 32\ N$ e $b = 120\ cm = 1.2\ m$  allora $F = \dfrac{M}{b} = \dfrac{32}{1.2} \simeq 26.7\ N$  
+
+## Esercizio 18  
+
+$M = b \cdot F = 0.25 \cdot 50 = 12.5\ Nm$  
+
+## Esercizio 19  
+
+Assumendo che in entrambe i casi i punti di applicazione distino $10\ cm$ la coppia **2** ha un braccio minore in quanto $10\ cm$ non rappresentano il braccio, ma l'ipotenusa di un triangolo rettangolo, percio' il lato che rappresenta il braccio e' inevitabilmente $\lt 10\ cm$  
+
+Per definizione le forze in una coppia agiscono su rette diverse per cui la condizione di momento nullo non e' mai verificata.  
+
+$M = b \cdot F = 0.1 \cdot 20 = 2\ Nm$  
+
+## Esercizio 20  
+
+$M = b \cdot F = 0.2 \cdot 30 = 6\ Nm$  
+
+Per mantenere il momento con meta' braccio $\dfrac{b}{2} = 0.1$ ci serve il doppio della forza $2F$  
+
+$F = \dfrac{M}{b} = \dfrac{6}{0.1} = 60\ N$  
+
+## Esercizio 21  
+
+$b = 8\ dm = 0.8\ m$  
+$M = b \cdot F = 0.8 \cdot 35 = 28\ Nm$  
+
