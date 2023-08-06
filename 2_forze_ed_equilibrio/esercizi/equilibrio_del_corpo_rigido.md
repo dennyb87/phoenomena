@@ -289,3 +289,98 @@ $b = 0.3\ m$
 $b_R \cdot R = b \cdot F$  
 
 $F = \dfrac{b_R \cdot R}{b} = \dfrac{3 \cdot 3.924}{0.3} = 39.24\ N$  
+
+## Problema 1  
+
+$F_A = 50\ N$  
+$F_B = 57\ N$  
+$b_A = 2 \cdot \sin(45^\circ) \simeq 1.42\ m$  
+
+$M_A = F_A \cdot b_A = 50  \cdot 1.42 = 71\ Nm$  
+$M_B = F_B \cdot b_B = 57 \cdot 1.5 = 85.5\ Nm$  
+
+Per trovare l'equilibrio serve applicare una forza che produca un momento uguale a $F_e = M_B - M_A = 85.5 - 71 = 14.5\ Nm$ in direzione uguale a $M_B$ ma verso opposto $M_B$ per cui...  
+
+$M_e = b_e \cdot F_e$  
+
+$F_e = \dfrac{M_e}{b_e} = \dfrac{14.5}{2} = 7.25\ N$  
+
+## Problema 2  
+
+$F_m = \Delta L \cdot K = 0.03 \cdot 45 = 1.35\ N$  
+
+$M = F_m \cdot d = 1.35 \cdot 0.4 = 0.54\ Nm$  
+
+## Problema 3  
+
+$b_R = 0.8\ m$  
+$b = 0.5\ m$  
+$F = 70\ N$  
+
+
+$R = \dfrac{F \cdot b}{b_R} = \dfrac{70 \cdot 0.5}{0.8} = 43.75\ N$  
+
+$\Delta L = \dfrac{R}{K} = \dfrac{43.75}{175} = 0.25\ m = 25\ cm$  
+
+## Problema 4  
+
+$M_1 = b_1 \cdot F_1 = 0.3 \cdot 20 = 6\ Nm$  
+$M_2 = b_2 \cdot F_2 = 0.6 \cdot 70 = 42\ Nm$  
+$M_3 = b_3 \cdot F_3 = 1.2 \cdot 100 = 120\ Nm$  
+
+$M_4 = M_1 + M_2 + M_2 = 6 + 42 + 120 = 168\ Nm$  
+
+$F_4 = \dfrac{M_4}{b_4} = \dfrac{168}{1.4} = 120\ N$  
+
+## Problema 5  
+
+$M_R = b_R \cdot R = 0.6 \cdot 420 = 252\ Nm$  
+$M_1 = b_1 \cdot F_1 = 1.4 \cdot 80 = 112\ Nm$  
+$M_m = M_R - M_1 = 252 - 112 = 140\ Nm$  
+
+$F_m = \dfrac{M_m}{b_m} = \dfrac{140}{1.6} = 87.5\ N$  
+
+$K = \dfrac{F_m}{\Delta L} = \dfrac{87.5}{0.175} = 500\ \frac{N}{m}$  
+
+## Problema 6  
+
+$M_{1m} = F_1 \cdot b_1 = 15.6 \cdot 0.045 = 0.702\ Nm$  
+$\varepsilon_r(M_1) = \varepsilon_r(F_1) + \varepsilon_r(b_1) = \dfrac{0.2}{15.6} + \dfrac{0.001}{0.045} \simeq 0.035$  
+$\Delta x(M_1) = \varepsilon_r(M_1) \cdot M_{1m} = 0.035 \cdot 0.702 = 0.02457 \simeq 0.03\ Nm$  
+
+$M_1 = 0.7\pm 0.03\ Nm$  
+
+$M_{2m} = F_2 \cdot b_2 = 9.8 \cdot 0.063 = 0.6174\ Nm$  
+$\varepsilon_r(M_2) = \varepsilon_r(F_2) + \varepsilon_r(b_2) = \dfrac{0.1}{9.8} + \dfrac{0.001}{0.063} \simeq 0.0261$  
+$\Delta x(M_2) = \varepsilon_r(M_2) \cdot M_{2m} = 0.0261 \cdot 0.6174 = 0.01611414 \simeq 0.02\ Nm$  
+
+$M_2 = 0.62\pm 0.02\ Nm$  
+
+$M_m = M_1 + M_2 = 0.7 + 0.62 = 1.32\ Nm$  
+$\Delta x(M) = \Delta x(M_1) + \Delta x(M_2) = 0.03 + 0.02 = 0.05\ Nm$  
+
+$M = 1.32\pm 0.05\ Nm$  
+
+## Problema 7  
+
+$g = 9.81\pm 0.01\ m/s^2$  
+$m = 28.8\pm 0.2\ kg$  
+
+$F_{1m} = 28.8 \cdot 9.8 = 282.24\ N$  
+$\varepsilon_r(F_1) = \varepsilon_r(m) + \varepsilon_r(g) = \frac{0.2}{28.8} + \frac{0.01}{9.81} = 0.008$  
+$\Delta x(F_1) = \varepsilon(F_1) \cdot F_{1m} = 0.008 \cdot 282.24 = 2.25792 \simeq 3\ N$  
+$F_1 = 282\pm 3\ N$  
+
+$b_1 = 1.3\pm 0.05\ m$  
+$M_{1m} = b_1 \cdot F_1 = 1.3 \cdot 282 = 366.6\ Nm$  
+$\varepsilon_r(M_1) = \varepsilon_r(b_1) + \varepsilon_r(F_1) = \frac{0.05}{1.3} + \frac{3}{282} = 0.0491$  
+$\Delta x(M_1) = \varepsilon_r(M_1) \cdot M_{1m} = 0.0491 \cdot 366.6 = 18.00006 \simeq 20\ Nm$  
+$M_1 = 370\pm 20\ Nm$  
+
+$b_2 = 0.95\pm 0.05\ m$  
+$F_{2m} = \frac{M_1}{b_2} = \frac{370}{0.95} = 389.47\ N$  
+$\varepsilon_r(F_2) = \varepsilon_r(M_1) + \varepsilon_r(b_2) = \frac{20}{370} + \frac{0.05}{0.95} = 0.1067$  
+$\Delta x(F_2) = \varepsilon_r(F_2) \cdot F_{2m} = 0.1067 \cdot 389.47 = 41.556449 \simeq 50$  
+$F_2 = 390\pm 50\ N$  
+
+Perche' l'incertezza e' $50\ N$ ?  
