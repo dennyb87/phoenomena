@@ -34,3 +34,32 @@ $v_p = \dfrac{2.4\ km}{t}$
 $v_a > v_p$  
 
 Per ottenere velocita' uguali il padre dovrebbe ridurre il tempo di percorrenza di un fattore $\dfrac{2.4}{3}$  
+
+## Esercizio 5  
+
+Si la velocita' e' costante $v = 25\ \small\frac{m}{s} = 1.5\ \small\frac{km}{min}$ ma non e' possibile estrapolare la traiettoria da un grafico spazio-tempo.  
+
+|            |       |        |      |        |      |
+| ---------- | ----- | ------ | ---- | ------ | ---- |
+| **t**(min) | $5$   | $15$   | $30$ | $45$   | $60$ |
+| **s**(km)  | $7.5$ | $22.5$ | $45$ | $67.5$ | $90$ |
+
+## Esercizio 6  
+
+$v = \dfrac{5}{10}\ \small\frac{km}{min} = \dfrac{5000}{600} \simeq 8.3\ \small\frac{m}{s}$  
+
+## Esercizio 7  
+
+$v_1 = 108\ \small\frac{km}{h} = \dfrac{108 \cdot 10^3}{3600} = 30\ \small\frac{m}{s}$  
+
+$v_2 = 27\ \small\frac{km}{h} = \dfrac{27 \cdot 10^3}{3600} = 7.5\ \small\frac{m}{s}$  
+
+$v_3 = 65\ \small\frac{km}{h} = \dfrac{65 \cdot 10^3}{3600} = 18.055\ \small\frac{m}{s}$  
+
+## Esercizio 8  
+
+$v_1 = 40\ \small\frac{m}{s} = 40 \cdot 3600 \cdot 10^{-3} = 144\ \small\frac{km}{h}$  
+
+$v_2 = 76.5\ \small\frac{m}{s} = 76.5 \cdot 3600 \cdot 10^{-3} = 275.4\ \small\frac{km}{h}$  
+
+$v_3 = 15\ \small\frac{m}{s} = 15 \cdot 3600 \cdot 10^{-3} = 54\ \small\frac{km}{h}$  
