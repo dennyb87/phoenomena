@@ -74,6 +74,8 @@ $v = \dfrac{10}{35}\ \small\frac{km}{min} = \dfrac{10 \cdot 10^3}{35 \cdot 60} \
 
 ![diagramma_cartesiano_ex_11](https://github.com/dennyb87/phoenomena/assets/7195133/ca84e8a1-209e-4290-a037-c5a1b53c7452)  
 
+![moto_rettilineo_uniforme_ex_04](https://github.com/dennyb87/phoenomena/assets/7195133/6c8760dd-8038-453a-afd8-b296d37b3d46)  
+
 ## Esercizio 12  
 
 ![diagramma_cartesiano_ex_12](https://github.com/dennyb87/phoenomena/assets/7195133/30e0da13-d834-4921-bc85-5676cf80e8aa)  
