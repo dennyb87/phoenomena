@@ -46,10 +46,10 @@ Mentre una retta verticale implicherebbe una distanza, e di conseguenza una velo
 
 ## Spostamento e velocita' come grandezze vettoriali  
 
-Abbiamo gia' accennato come velocita' e spostamento siano incomplete senza che siano specificate direzione e verso, ad esempio dire che ci si e' spostati di $10km$ senza menzionare direzione e verso non ci permette di capire il luogo di arrivo. Si ha allore che lo spostamento e' definito come $\vec{\Delta s}$ e di conseguenza si ha che la velocita' e' invece:  
+Abbiamo gia' accennato come velocita' e spostamento siano incomplete senza che siano specificate direzione e verso, ad esempio dire che ci si e' spostati di $10km$ senza menzionare direzione e verso non ci permette di capire il luogo di arrivo. Si ha allore che lo spostamento e' definito come $\Delta \vec{s}$ e di conseguenza si ha che la velocita' e' invece:  
 
-$\vec{v} = \dfrac{\vec{\Delta s}}{\Delta t}$  
+$\vec{v} = \dfrac{\Delta \vec{s}}{\Delta t}$  
 
-Si ha allora che $\vec{v}$ sara' nella stessa direzione e verso di $\vec{\Delta s}$ ma scalato di un fattore $\dfrac{1}{\Delta t}$ ovvero...  
+Si ha allora che $\vec{v}$ sara' nella stessa direzione e verso di $\Delta \vec{s}$ ma scalato di un fattore $\dfrac{1}{\Delta t}$ ovvero...  
 
-$\vec{v} = \vec{\Delta s} \cdot \dfrac{1}{\Delta t}$  
+$\vec{v} = \Delta \vec{s} \cdot \dfrac{1}{\Delta t}$  
