@@ -1,6 +1,6 @@
 # Moto rettilineo uniforme  
 
-E' importante rendersi conto che il movimento e' **relativo**, per cui bisognare sempre precisare rispetto a cosa si sta muovendo, vale a dire che essere in movimento significa cambiare la propria posizione rispetto ad un **sistema di riferimento**. Si utilizzando come sistemi di riferimento assi cartesiano in due o tre dimensioni, a seconda delle informazioni necessarie per individuare il corpo nello spazio.  
+E' importante rendersi conto che il movimento e' **relativo**, per cui bisogna sempre precisare rispetto a cosa ci si sta muovendo, vale a dire che essere in movimento significa cambiare la propria posizione rispetto ad un **sistema di riferimento**. Si utilizzano come sistemi di riferimento, assi cartesiani in due o tre dimensioni, a seconda delle informazioni necessarie per individuare il corpo nello spazio.  
 
 Per descrivere il moto bisogna conoscerne la **traiettoria**, ovvero l'insieme ordinato delle posizioni occupate dal corpo durante il suo moto, ma questo non e' sufficiente. Conoscendo la traiettoria, si ha la distanza totale, ma non e' possibile sapere quanto tempo si e' impiegato per percorrerla.  
 
