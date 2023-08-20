@@ -353,6 +353,8 @@ $t = \dfrac{s}{v} = \dfrac{8}{36} \simeq 0.22\ h = 800\ s = 13\ min\ 20\ s$
 
 $t = \dfrac{s}{v} = \dfrac{3000}{900} \simeq 3.33\ h = 12000\ s = 200\ min = 3\ h\ 20\ min$  
 
+![moto_uniformemente_accelerato_ex_09](https://github.com/dennyb87/phoenomena/assets/7195133/6c660629-b138-4f66-a1b2-8ea1431e5ab2)  
+
 ## Esercizio 61  
 
 $v_1 = \dfrac{5}{2} = 2.5\ \small\frac{m}{s}$  
@@ -388,3 +390,152 @@ $t(0.1t -1) = 0 \implies t \in \lbrace 0, 10\rbrace$
 
 ![moto_uni_acc_problema_1](https://github.com/dennyb87/phoenomena/assets/7195133/d235169c-ba6a-42b0-8a69-bb2b2b69d0f8)  
 
+## Problema 2  
+
+$s_A = \frac{1}{2}vt = \frac{1}{2}at^2 = 1.25t^2$  
+$s_B = 15 + 5t$  
+
+$\Delta s_{t_0} = |(15 + 5 \cdot 0) - 1.25 \cdot 0^2| = 15\ m$  
+$\Delta s_{t_2} = |(15 + 5 \cdot 2) - 1.25 \cdot 2^2| = 20\ m$  
+$\Delta s_{t_4} = |(15 + 5 \cdot 4) - 1.25 \cdot 4^2| = 15\ m$  
+$\Delta s_{t_6} = |(15 + 5 \cdot 6) - 1.25 \cdot 6^2| = 0\ m$  
+$\Delta s_{t_8} = |(15 + 5 \cdot 2) - 1.25 \cdot 2^2| = 25\ m$  
+
+$s_A - s_B = 0$  
+$1.25t^2 - (15 + 5t) = 0$  
+$1.25t^2 -5t -15 = 0$  
+
+$t = \dfrac{5\pm \sqrt{(-5)^2-4 \cdot 1.25 \cdot -15}}{2.5} = \dfrac{5\pm\sqrt{100}}{2.5} = \dfrac{5\pm 10}{2.5} \implies t \in \lbrace 6, -2 \rbrace$  
+
+$v = \dfrac{2s}{t} = \dfrac{2 \cdot 1.25 \cdot 6^2}{6} = 15\ \small\frac{m}{s}$  
+
+![moto_uni_acc_problema_2](https://github.com/dennyb87/phoenomena/assets/7195133/c93b31ea-fcc6-42ab-86b1-e9b95933094f)  
+
+## Problem 3  
+
+Il grafico rappresenta un moto uniformemente accelerato in quanto esiste proporzionalita' quadratica tra spazio e tempo, e la sua legge oraria e'...  
+
+$s = 0.8t^2$  
+
+La costante e' $\frac{1}{2}a = 0.8$  
+
+$s = 0.8 \cdot 40^2 = 1280\ m$  
+
+$v = \dfrac{2s}{t} = \dfrac{2 \cdot 0.8 \cdot 60^2}{60} = 96\ \small\frac{m}{s}$  
+
+## Problema 4  
+
+$s = \frac{1}{2}vt = \dfrac{50\,000}{3\,600} \cdot 10.5 \simeq 145.8\ m$  
+
+$a = \dfrac{2s}{t^2} = \dfrac{2 \cdot 145.8}{10.5^2} \simeq 2.65\ \small\frac{m}{s^2}$  
+
+$t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 400}{2.65}} \simeq 17.37\ s$  
+
+$v = \dfrac{2s}{t}= \dfrac{2 \cdot 400}{17.37} \simeq 46\ \small\frac{m}{s}$  
+
+## Problema 6  
+
+$v_0 = \dfrac{86.4}{3.6} = 24\ \small\frac{m}{s}$  
+
+$v -at = 0$  
+$24 -1.6t = 0$  
+
+$t = \dfrac{-24}{-1.6} = 15\ s$  
+
+$s = \frac{1}{2}at^2 = 0.8 \cdot 15^2 = 180\ m$  
+
+Si riesce a fermarsi $20\ m$ prima dell'ostacolo.  
+
+## Problema 7  
+
+$v_f = \dfrac{162}{3.6} = 45\ \small\frac{m}{s}$  
+
+$s_f = vt = 45t$  
+
+$s_p = \frac{1}{2}at^2 = 2t^2$  
+
+$t_p = \dfrac{v}{a} = \dfrac{45}{4} = 11.25\ s$  
+
+$s_f - s_p = (45 \cdot 11.25) - (2 \cdot 11.25^2) = 253.125\ m$  
+
+$v - at = 0$  
+$45 -4.5t = 0$  
+$t = \dfrac{-45}{-4.5} = 10\ s$  
+$s = 2.25 \cdot 10^2 = 225\ m$  
+
+Tale decelerazione non permetterebbe quindi di fermarsi in tempo.  
+
+$s_p - s_f = 0$  
+$2t^2 - 45t= 0$  
+$t(2t -45) = 0 \implies t \in \lbrace 0, 22.5 \rbrace$  
+
+La polizia raggiungerebbe i fuggitivi in $22.5, s$  
+
+![01_polizia_fuggitivi_problema_7](https://github.com/dennyb87/phoenomena/assets/7195133/ced64317-5fdf-4ffb-a466-442efc7a65e9)  
+
+![02_polizia_fuggitivi_problema_7](https://github.com/dennyb87/phoenomena/assets/7195133/acfc2b6e-f1d1-47ab-8a8b-03efb2959619)  
+
+## Problema 8  
+
+$s_1 = 30 + 4t$  
+$s_2 = 6t$  
+$s_3 = 0.4t^2$  
+
+$v_1 = \dfrac{60}{15} = 4\ \small\frac{m}{s}$  
+
+$v_2 = \dfrac{90}{15} = 6\ \small\frac{m}{s}$  
+
+$v_3 = \dfrac{2s}{t} = \dfrac{180}{15} = 12\ \small\frac{m}{s}$  
+
+$v_3 - v_1 = 0.8t - 4 = 0 \implies t = \dfrac{4}{0.8} = 5\ s$  
+$s_3 = 0.4 \cdot 5^2 = 10\ m$  
+
+$v_3 - v_2 = 0.8t - 6 = 0 \implies t = \dfrac{6}{0.8} = 7.5\ s$  
+$s_3 = 0.4 \cdot 7.5^2 = 22.5\ m$  
+
+In questi due punti si ha che nel grafico velocita-tempo la retta del ciclista interseca quella dei pedoni.  
+
+![vt_ciclista_pedoni_problema_08](https://github.com/dennyb87/phoenomena/assets/7195133/52474c9b-dd1a-42be-9819-acc38e560d15)  
+
+Infine si ha che la velocita' media del ciclista e'...  
+
+$v_{3m} = \dfrac{90}{15} = 6\ \small\frac{m}{s}$  
+
+## Problema 9  
+
+$v_1 = 8.6\pm 0.2\ \small\frac{m}{s}$  
+$v_2 = 25.5\pm 0.5\ \small\frac{m}{s}$  
+$\Delta t = 7.2\pm 0.1\ s$  
+
+$\Delta v = v_2 - v_1 = 25.5 - 8.6 = 16.9\pm 0.7\ \small\frac{m}{s}$  
+
+$a_m = \dfrac{\Delta v}{\Delta t} = \dfrac{16.9}{7.2} \simeq 2.3472\ \small\frac{m}{s^2}$  
+
+$\varepsilon_r(a_m) = \varepsilon_r(\Delta v) + \varepsilon_r(\Delta t) = \dfrac{0.7}{16.9} + \dfrac{0.1}{7.2} \simeq 0.0553$  
+
+$\Delta x (a) = \varepsilon_r(a_m) \cdot a_m = 0.0553 \cdot 2.3472 \simeq 0.1298 \simeq 0.2\ \small\frac{m}{s^2}$  
+
+$a = 2.3\pm 0.2\ \small\frac{m}{s^2}$  
+
+L'errore relativo e' aumentato in quanto il valore della grandezza e' diminuito $\varepsilon_r(a) = \dfrac{0.2}{2.3} \simeq 0.087$  
+
+## Problema 10  
+
+$s = \frac{1}{2}at^2 \implies a = \dfrac{2s}{t^2}$  
+
+$s = 0.628\pm 0.002\ m$  
+$t = 1.35\pm 0.01\ s$  
+
+$t^2_m = t \cdot t = 1.35 \cdot  1.35 = 1.8225\ s^2$  
+
+$\Delta x (t^2) = 2\varepsilon_r(t) \cdot t^2_m = 2 \cdot \dfrac{0.01}{1.35} \cdot 1.8225 = 0.027 \simeq 0.03\ s^2$  
+
+$t^2 = 1.82\pm 0.03\ s^2$  
+
+$a_m = \dfrac{2 \cdot 0.628}{1.82} \simeq 0.69011\ \small\frac{m}{s^2}$  
+
+$\varepsilon_r(a_m) = \varepsilon_r(s) + \varepsilon_r(t^2) = \dfrac{0.002}{0.628} + \dfrac{0.03}{1.82} \simeq 0.0197$  
+
+$\Delta x(a) = \varepsilon_r(a_m) \cdot a_m = 0.0197 \cdot 0.69011 \simeq 0.0136 \simeq 0.02\ \small\frac{m}{s^2}$  
+
+$a = 0.69\pm 0.02\ \small\frac{m}{s^2}$
