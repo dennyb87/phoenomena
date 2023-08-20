@@ -433,6 +433,8 @@ $t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 400}{2.65}} \simeq 17.37\ s$
 
 $v = \dfrac{2s}{t}= \dfrac{2 \cdot 400}{17.37} \simeq 46\ \small\frac{m}{s}$  
 
+![moto_uniformemente_accelerato_ex_10](https://github.com/dennyb87/phoenomena/assets/7195133/ca04c1ba-cf73-45e5-8f63-6560ce48f884)  
+
 ## Problema 6  
 
 $v_0 = \dfrac{86.4}{3.6} = 24\ \small\frac{m}{s}$  
@@ -538,4 +540,4 @@ $\varepsilon_r(a_m) = \varepsilon_r(s) + \varepsilon_r(t^2) = \dfrac{0.002}{0.62
 
 $\Delta x(a) = \varepsilon_r(a_m) \cdot a_m = 0.0197 \cdot 0.69011 \simeq 0.0136 \simeq 0.02\ \small\frac{m}{s^2}$  
 
-$a = 0.69\pm 0.02\ \small\frac{m}{s^2}$
+$a = 0.69\pm 0.02\ \small\frac{m}{s^2}$  
