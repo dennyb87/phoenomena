@@ -281,6 +281,8 @@ $t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 20.48}{4}} = 3.2\ s$
 
 $t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 140}{0.7}} = 20\ s$  
 
+![moto_uniformemente_accelerato_ex_08](https://github.com/dennyb87/phoenomena/assets/7195133/4d684887-1a91-4166-8e70-7492f436b563)  
+
 ## Esercizio 50  
 
 ![grafico_spazio_tempo_ex_50](https://github.com/dennyb87/phoenomena/assets/7195133/f18c68d0-17e9-45d6-9328-694539d87d95)  
@@ -349,4 +351,4 @@ $t = \dfrac{s}{v} = \dfrac{8}{36} \simeq 0.22\ h = 800\ s = 13\ min\ 20\ s$
 
 ## Esercizio 60  
 
-$t = \dfrac{s}{v} = \dfrac{3000}{900} \simeq 3.33\ h = 12000\ s = 200\ min$  
+$t = \dfrac{s}{v} = \dfrac{3000}{900} \simeq 3.33\ h = 12000\ s = 200\ min = 3\ h\ 20\ min$  
