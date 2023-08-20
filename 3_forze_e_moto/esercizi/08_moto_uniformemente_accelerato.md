@@ -221,6 +221,8 @@ E di nuovo nella tabella **C**.
 
 ![f_of_x_squared_tab_c_ex_36](https://github.com/dennyb87/phoenomena/assets/7195133/bf137122-3012-4f75-bc18-0c67a3d81b9b)  
 
+![moto_uniformemente_accelerato_ex_07](https://github.com/dennyb87/phoenomena/assets/7195133/f4d10be5-09dc-4e1b-b286-ed6870205cec)  
+
 ## Esercizio 40  
 
 $s = \frac{1}{2}a \cdot t^2 = \frac{2.5}{2} \cdot 6^2 = 45\ m$  
@@ -247,3 +249,104 @@ $s = 0.75 \cdot 5^2 = 18.75\ m$
 $t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 36.75}{1.5}} = 7\ s$  
 
 ![spazio_tempo_sciatore_ex_43](https://github.com/dennyb87/phoenomena/assets/7195133/047a3667-b030-49a5-b239-48b4daa39b1d)  
+
+## Esercizio 44  
+
+$a = \dfrac{2s}{t^2} = \dfrac{2 \cdot 147}{14^2} = 1.5\ \small\frac{m}{s^2}$  
+
+## Esercizio 45  
+
+$a = \dfrac{2s}{t^2} = \dfrac{2 \cdot 5\,760}{120^2} = 1.5\ \small\frac{m}{s^2} = 0.8\ \small\frac{m}{s^2}$  
+
+## Esercizio 46  
+
+$a = \dfrac{2s}{t^2} = \dfrac{2 \cdot 128}{8^2} = 4\ \small\frac{m}{s^2}$  
+
+$s = 2t^2$  
+$s = 2 \cdot 3^2 = 18\ m$  
+$s = 2 \cdot 6^2 = 72\ m$  
+
+## Esercizio 47  
+
+$a = \dfrac{2s}{t^2} = \dfrac{2 \cdot 39.2}{5.6^2} = 2.5\ \small\frac{m}{s^2}$  
+
+$s = 1.25t^2$  
+$s = 1.25 \cdot 3^2 = 11.25\ m$  
+
+## Esercizio 48  
+
+$t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 20.48}{4}} = 3.2\ s$  
+
+## Esercizio 49  
+
+$t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 140}{0.7}} = 20\ s$  
+
+## Esercizio 50  
+
+![grafico_spazio_tempo_ex_50](https://github.com/dennyb87/phoenomena/assets/7195133/f18c68d0-17e9-45d6-9328-694539d87d95)  
+
+## Esercizio 51  
+
+Nel moto vario non si puo' assumere che la velocita' sia stata costante, se fosse vero si tratterebbe di un moto uniforme, invece avendo a che fare con la velocita' media, potremmo supporre che ci siano state fermate agli autogrill, ai semafori, o accelerazioni per qualche sorpasso, la nostra velocita' in sostanza e' variata tutto il tempo.  
+
+## Esercizio 52  
+
+$v = \dfrac{6\, 000}{60 \cdot 9} \simeq 11.11\ \small\frac{m}{s}$  
+
+## Esercizio 53  
+
+$v = \dfrac{80}{1.166} \simeq 68.6\ \small\frac{km}{h} \simeq 19\ \small\frac{m}{s}$  
+
+## Esercizio 54  
+
+$v_{m1} = \dfrac{600}{60 \cdot 8} = 1.25\ \small\frac{m}{s}$  
+
+$v_{m2} = \dfrac{400}{60 \cdot 6} \simeq 1.11\ \small\frac{m}{s}$  
+
+$v_{m1} \gt v_{m2}$  
+
+$v_m = \dfrac{1,000}{60 \cdot 18} \simeq 0.93\ \small\frac{m}{s}$  
+
+## Esercizio 55  
+
+$v_m = \dfrac{25 + 25}{12 + 15} \simeq 1.85\ \small\frac{m}{s}$  
+
+Difficilmente Sara potrebbe essere in grado di mantere una velocita' costante, realisticamente si avranno variazioni, alcune apprezzabili soltanto grazie ad appropriati strumenti di misura.  
+
+## Esercizio 56  
+
+$v_{MF} = \dfrac{300}{3.0833} \simeq 97.3\ \small\frac{km}{h}$  
+
+$v_{FN} = \dfrac{485}{3.9166} \simeq 123.8\ \small\frac{km}{h}$  
+
+Sappiamo che realisticamente la velocita' non puo' essere costante nei vari tratti, quella registrata e' soltanto la velocita' media.  
+
+$v_{MB} = \dfrac{210}{2} = 105\ \small\frac{km}{h}$  
+
+$v_{BF} = \dfrac{90}{1.0833} \simeq 83.1\ \small\frac{km}{h}$  
+
+$v_{FR} = \dfrac{275}{2.0833} \simeq 132\ \small\frac{km}{h}$  
+
+$v_{RN} = \dfrac{210}{1.833} \simeq 114.5\ \small\frac{km}{h}$  
+
+$\dfrac{v_{MB} + v_{BF} + v_{FR} + v_{RN}}{4} = \dfrac{105 + 83.1 + 132 + 114.5}{4} \simeq 108.65 \small\frac{km}{h}$  
+
+$v_m = \dfrac{785}{7} = 112.14\ \small\frac{km}{h}$  
+
+La velocita' media del treno sull'intero percorso **non coincide** con la media delle velocita' nei singoli tratti.  
+
+## Esercizio 57  
+
+$s = vt = 2.5 \cdot 60 \cdot 7 = 1050\ m$  
+
+## Esercizio 58  
+
+$s = vt = \dfrac{75\,000}{3600} \cdot 5640 = 117.5\ km$  
+
+## Esercizio 59  
+
+$t = \dfrac{s}{v} = \dfrac{8}{36} \simeq 0.22\ h = 800\ s = 13\ min\ 20\ s$  
+
+## Esercizio 60  
+
+$t = \dfrac{s}{v} = \dfrac{3000}{900} \simeq 3.33\ h = 12000\ s = 200\ min$  
