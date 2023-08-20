@@ -352,3 +352,39 @@ $t = \dfrac{s}{v} = \dfrac{8}{36} \simeq 0.22\ h = 800\ s = 13\ min\ 20\ s$
 ## Esercizio 60  
 
 $t = \dfrac{s}{v} = \dfrac{3000}{900} \simeq 3.33\ h = 12000\ s = 200\ min = 3\ h\ 20\ min$  
+
+## Esercizio 61  
+
+$v_1 = \dfrac{5}{2} = 2.5\ \small\frac{m}{s}$  
+
+$v_2 = \dfrac{35}{2} = 17.5\ \small\frac{m}{s}$  
+
+$v_3 = \dfrac{20}{4} = 5\ \small\frac{m}{s}$  
+
+$v_m = \dfrac{60}{80} = 7.5\ \small\frac{m}{s}$  
+
+## Esercizio 62  
+
+$v_1 = \dfrac{10}{5} = 2\ \small\frac{m}{s}$  
+
+$v_2 = \dfrac{5}{20} = 0.25\ \small\frac{m}{s}$  
+
+$v_3 = \dfrac{5}{10} = 0.5\ \small\frac{m}{s}$  
+
+$v_4 = \dfrac{15}{5} = 3\ \small\frac{m}{s}$  
+
+$v_m = \dfrac{35}{40} = 0.875\ \small\frac{m}{s}$  
+
+## Problema 1  
+
+$s_A = 0.1t^2$  
+$s_B = 1t$  
+
+$s_B - s_A = 1t - 0.1t^2 = 6 - 3.6 = 2.4\ m$  
+
+$s_A - s_B = 0$  
+$0.1t^2 - 1t = 0$  
+$t(0.1t -1) = 0 \implies t \in \lbrace 0, 10\rbrace$  
+
+![moto_uni_acc_problema_1](https://github.com/dennyb87/phoenomena/assets/7195133/d235169c-ba6a-42b0-8a69-bb2b2b69d0f8)  
+
