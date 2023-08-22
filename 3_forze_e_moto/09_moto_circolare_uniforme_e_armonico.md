@@ -1,4 +1,4 @@
-## Moto circolare uniforme  
+# Moto circolare uniforme  
 
 Si vuole ora studiare il moto curvilineo piu' semplice, ovvero il **moto circolare uniforme**, dove la traiettoria e' una circonferenza, ed il modulo della velocita' e' costante. Sappiamo che la velocita' e' individuata dallo spazio percorso nell'intervallo di tempo, ed in questo caso come spazio viene presa in considerazione la lunghezza della circonferenza, mentre l'intervallo di tempo $T$ detto **periodo**, sara' quello necessario a percorrerla. Il modulo della velocita', detta **tangenziale**, la cui unita' di misura e' sempre *metri al secondo* $\small\frac{m}{s}$ e' allora...  
 
@@ -18,13 +18,27 @@ $a_c = \dfrac{\Delta v}{\Delta t} = \dfrac{v^2}{r}$
 
 ![centripetal_acceleration_derivation](https://github.com/dennyb87/phoenomena/assets/7195133/115ece3d-9eb4-4124-b3f9-1e484d45987d)  
 
-## Frequenza  
+# Frequenza  
 
 Si vuole introdurre ora il concetto di frequenza, il quale descrive il numero di giri compiuti da un oggetto che si muove di moto circolare uniforme in un intervallo di tempo unitario. I dischi vinile ad esempio esistono da 33 o 45 giri al minuto.  
 
 $f = \dfrac{45}{60} = 0.75\ Hz$  
 
-E' dimostrabile che la frequenza e' l'inverso del periodo...  
+La sua unita' di misura si chiama **hertz** ed e' dimostrabile che la frequenza e' l'inverso del periodo se consideriamo $n$ il numero di giri e $T$ il tempo necessario a compiere un giro.  
 
-$f = \dfrac{\cancel{n}}{\cancel{n} \cdot T} = \dfrac{1}{T}$  
+$f = \dfrac{\cancel{n}}{\cancel{n} \cdot T} = \dfrac{1}{T} \implies \dfrac{1}{s} = s^{-1}= 1\ Hz$  
+
+![grafico_freq_periodo](https://github.com/dennyb87/phoenomena/assets/7195133/41ccce3a-f24e-413f-a6f0-58a48790756a)  
+
+Tracciando il grafico frequenza-periodo si nota che all'aumentare del periodo la frequenza diminuisce, si dice allora che esiste **proporzionalita' inversa** tra le due grandezze, o in generale quando il loro prodotto e' una costante.  
+
+$x \cdot y = k \implies y = \dfrac{k}{x}$  
+
+# Moto armonico  
+
+Si dice armonico il moto di un corpo che oscilla attorno ad un punto fisso con un movimento simile in fase di andata e ritorno, come ad esempio un pendolo. Per studiare questo tipo di moto si ricorre ad un modello che consiste nella proiezione sul diametro di un punto materiale che si muove lungo una circonferenza.  
+
+![moto_armonico](https://github.com/dennyb87/phoenomena/assets/7195133/ad3528c1-71e8-4818-b295-cd45d2e412b0)  
+
+Osservando una delle due proiezioni, ad esempio il punto materiale rosso, si puo' notare che la **velocita**' nel moto armonico e' massima al centro e nulla agli estremi. L'**accelerazione** al contrario sara' nulla al centro in quanto non c'e' nessuna variazione di velocita', mentre sara massima agli estremi in quanto il punto materiale e' costretto a fermarsi per poi ripartire nel verso opposto.  
 
