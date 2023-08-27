@@ -42,3 +42,18 @@ Si dice armonico il moto di un corpo che oscilla attorno ad un punto fisso con u
 
 Osservando una delle due proiezioni, ad esempio il punto materiale rosso, si puo' notare che la **velocita**' nel moto armonico e' massima al centro e nulla agli estremi. L'**accelerazione** al contrario sara' nulla al centro in quanto non c'e' nessuna variazione di velocita', mentre sara massima agli estremi in quanto il punto materiale e' costretto a fermarsi per poi ripartire nel verso opposto.  
 
+# Pendolo semplice  
+
+![simple_pendulum](https://github.com/dennyb87/phoenomena/assets/7195133/af241c5b-ba70-4a08-9dd0-a28e306cb85d)  
+
+Si vuole ora presentare la formula per il calcolo del periodo del pendolo semplice, ovvero il tempo necessario alla massa $m$ per completare un'oscillazione completa e.g. il punto $B$ e' sia il punto di partenza che quello di arrivo.  
+
+$T = 2\pi \cdot \sqrt{\dfrac{L}{g}}$  
+
+Questa formula e' valida per le piccole oscillazioni, e ci mostra che il periodo:  
+
+* dipende dalla lunghezza $L$
+* dipende dall'accelerazione di gravita' $g$
+* non dipende dalla massa $m$
+* non dipende dall'ampiezza dell'oscillazione (un angolo maggiore produrra' una velocita' maggiore per cui il tempo di oscillazione resta lo stesso)
+
