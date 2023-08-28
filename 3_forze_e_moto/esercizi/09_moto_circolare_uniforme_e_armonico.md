@@ -240,3 +240,11 @@ $g = \dfrac{4 \pi^2 L}{T^2} = \dfrac{4 \pi^2 \cdot 4.45}{4.45^2} \simeq 8.87\ \s
 
 Non puo' trattarsi della Terra...  
 
+## Problema 1  
+
+$T = 2 \pi \sqrt{\dfrac{L}{g}} = 2 \pi \sqrt{\dfrac{1.55}{9.81}} \simeq 2.5\ s$  
+
+$n = \dfrac{\Delta t}{T} = \dfrac{60 \cdot 5}{2.5} = 120$  
+
+## Problema 2  
+
