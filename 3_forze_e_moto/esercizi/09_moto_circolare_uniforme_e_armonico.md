@@ -248,3 +248,13 @@ $n = \dfrac{\Delta t}{T} = \dfrac{60 \cdot 5}{2.5} = 120$
 
 ## Problema 2  
 
+$L - T = \dfrac{x^2g}{4 \pi^2} - 2 \pi \sqrt{\dfrac{x}{g}} = 0$  
+
+$\dfrac{x^2g}{4 \pi^2} = 2 \pi \sqrt{\dfrac{x}{g}}$  
+
+$\dfrac{g^3}{64 \pi^6} = \dfrac{1}{x^3} \implies \dfrac{64 \pi^6}{g^3} = x^3$  
+
+$x = \sqrt[3]{\dfrac{64 \pi^6}{g^3}} = 4.024303527457434$  
+
+Si ha allora che $T = L$ quando $L = 4.024303527457434\ m$ ottenendo un periodo $T = 4.024303527457434\ s$  
+
