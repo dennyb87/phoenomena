@@ -64,6 +64,8 @@ $a_c = \dfrac{v^2}{r} = \dfrac{11.17^2}{800} = 0.156\ \small\frac{m}{s^2}$
 
 $s = 2\pi r \cdot 12 =  2\pi \cdot 800 \cdot 12 \simeq 60318.58\ m \simeq 6.3\ km$  
 
+![moto_armonico_ex_04](https://github.com/dennyb87/phoenomena/assets/7195133/1be1cb15-adc1-4e0c-b12f-12eff359cee2)  
+
 ## Esercizio 11  
 
 $v = \dfrac{2 \pi r}{T} = \dfrac{2 \pi \cdot 1.49 \cdot 10^{11}}{3.16 \cdot 10^7} \simeq 29\,626\ \small\frac{m}{s} \simeq 29.6\ \small\frac{km}{s}$  
@@ -85,3 +87,156 @@ $v = \sqrt{a_c r} =\sqrt{210 \cdot 0.32} \simeq 8.2\ \small\frac{m}{s}$
 ## Esercizio 14  
 
 $r = \dfrac{v^2}{a_c} = \dfrac{0.38^2}{1.31} \simeq 0.11\ m$  
+
+## Esercizio 15  
+
+$f = \dfrac{n}{nT} = \dfrac{100}{25} = 4\ Hz$  
+
+$T = \dfrac{1}{f} = 0.25\ s$  
+
+## Esercizio 16  
+
+$f_h = \dfrac{1}{T} = \dfrac{1}{3600 \cdot 12} \simeq 2.3 \cdot 10^{-5}\ Hz$  
+
+$f_m = \dfrac{1}{T} = \dfrac{1}{3600} \simeq 2.8 \cdot 10^{-4}\ Hz$  
+
+$f_s = \dfrac{1}{T} = \dfrac{1}{60} \simeq 1.7 \cdot 10^{-2}\ Hz$  
+
+## Esercizio 17  
+
+$f = \dfrac{800}{60} \simeq 13.33\ Hz$  
+
+$T = \dfrac{1}{f} = \dfrac{60}{800} = 0.075\ s$  
+
+## Esercizio 18  
+
+$f = \dfrac{45}{60} = 0.75\ Hz$  
+
+$T = \dfrac{1}{T} = \dfrac{1}{0.75} \simeq 1.3\ s$  
+
+## Esercizio 19  
+
+$T = \dfrac{1}{2} = 0.5\ s$  
+
+$v = \dfrac{2 \pi \cdot 0.15}{0.5} \simeq 1.9\ \small\frac{m}{s}$  
+
+$a_c = \dfrac{1.9^2}{0.15} \simeq 24\ \small\frac{m}{s^2}$  
+
+## Esercizio 20  
+
+$T = \dfrac{2 \pi r}{v} = \dfrac{2 \pi \cdot 4}{40} \simeq 0.63\ s$  
+
+$f = \dfrac{1}{0.63} \simeq 1.59\ Hz$  
+
+## Esercizio 21  
+
+$T = \dfrac{1}{6.55 \cdot 10^{15}} \simeq 1.53 \cdot 10^{-16}\ s$  
+
+$r = \dfrac{vT}{2 \pi} = \dfrac{2.8  \cdot 10^6 \cdot 1.53 \cdot 10^{-16}}{2 \pi} \simeq 0.53 \cdot 10^{-10}\ m$  
+
+## Esercizio 22  
+
+$a_c = 8\ \small\frac{m}{s^2}$  
+
+$v = 4\ \small\frac{m}{s}$  
+
+$r = \dfrac{v^2}{a_c} = \dfrac{4^2}{8} = 2\ m$  
+
+$T = \dfrac{2 \pi r}{v} = \dfrac{2 \pi  \cdot 2}{4} = \pi\ s$  
+
+$f = \dfrac{1}{\pi} \simeq 0.32\ Hz$  
+
+## Esercizio 23  
+
+$K_1 = \dfrac{1}{30} \simeq 0.0\overline{3}\ \small\frac{m^2}{min}$  
+
+$K_2 = \dfrac{2}{30} \simeq 0.0\overline{6}\ \small\frac{m^2}{min}$  
+
+$A = t \cdot K_1 \implies t = \dfrac{A}{K_1} = \dfrac{240}{0.0\overline{3}} = 7200\ min = 120\ h$  
+
+$A = t \cdot K_2 \implies t = \dfrac{A}{K_2} = \dfrac{240}{0.0\overline{6}} = 3600\ min = 60\ h$  
+
+![moto_armonico_ex_05](https://github.com/dennyb87/phoenomena/assets/7195133/ffb20431-ffa6-4dcf-b4ef-69f419dbc154)  
+
+## Esercizio 24  
+
+$X \cdot Y = 20 \implies Y = \dfrac{20}{X} \implies X = \dfrac{20}{Y}$  
+
+Il prodotto tra $X$ ed $Y$ e' una costante percio' all'aumentare di uno dei due fattori l'altro deve necessariamente diminuire con la stessa legge.  
+
+## Esercizio 25  
+
+$Y = \dfrac{50}{X} \implies X = \dfrac{50}{Y} \implies X \cdot Y = 50$  
+
+![graph_moto_armonico_ex_25](https://github.com/dennyb87/phoenomena/assets/7195133/23d7dc0f-15cb-4fe8-98e9-680de0df56f2)  
+
+## Esercizio 26  
+
+Si tratta di proporzionalita' inversa dove $X \cdot Y = 10$  
+
+## Esercizio 27  
+
+Solo la tabella $B$ rappresenta grandezze inversamente proporzionali con $X \cdot Y = 60$  
+
+## Esercizio 28  
+
+Le tabelle $B,\ C,\ E$ rappresentano grandezze inversamente proporzionali in quanto $X \cdot Y$ e' una costante.  
+
+![moto_armonico_ex_06](https://github.com/dennyb87/phoenomena/assets/7195133/a7639019-7f88-4110-a618-71923955cf7e)  
+
+## Esercizio 30  
+
+* Dalla lunghezza del pendolo non e' possibile ricavare la massa
+* se la lunghezza quadruplica il periodo raddoppia
+* il periodo e' indipendente dalla massa
+
+## Esercizio 31  
+
+* data la lunghezza e' possibile ricavare il periodo assumendo l'accelerazione gravitazionale terrestre
+* se la lunghezza diventa nove volte piu' grande il periodo triplica
+* il periodo non dipende dalla massa in quanto l'aumento di questa implicherebbe un aumento nella tensione della corda del pendolo e quindi nella forza che tende riportarlo in posizione di equilibrio, lasciando invariata l'accelerazione, e di conseguenza il periodo
+
+## Esercizio 32  
+
+$T = 2 \pi \sqrt{\dfrac{L}{g}} = 2 \pi \sqrt{\dfrac{0.72}{9.81}} \simeq 1.7\ s$  
+
+## Esercizio 33  
+
+$T_{terra} = 2 \pi \sqrt{\dfrac{L}{g}} = 2 \pi \sqrt{\dfrac{1.2}{1.62}} \simeq 2.2\ s$  
+
+$T_{luna} = 2 \pi \sqrt{\dfrac{L}{g}} = 2 \pi \sqrt{\dfrac{1.2}{1.62}} \simeq 5.41\ s$  
+
+$T_{giove} = 2 \pi \sqrt{\dfrac{L}{g}} = 2 \pi \sqrt{\dfrac{1.2}{26}} \simeq 1.35\ s$  
+
+## Esercizio 34  
+
+Esiste proporzionalita' quadratica in quanto...  
+
+$T = 2 \pi \sqrt{\dfrac{L}{g}} \implies T^2 = \dfrac{4 \pi ^2}{g} \cdot L$  
+
+Diventa evidente che $\dfrac{T^2}{L} = \dfrac{4 \pi ^2}{g}$ e' una costante!  
+
+![graph_pendulum_ex_34](https://github.com/dennyb87/phoenomena/assets/7195133/4654158b-4da9-4c8d-a343-23a1ec9a492d)  
+
+## Esercizio 35  
+
+Una maggiore accelerazione di gravita' causa un aumento nella velocita' del moto del pendolo, riducendo cosi' il periodo.  
+
+## Esercizio 36  
+
+$L = \dfrac{T^2g}{4 \pi^2} = \dfrac{0.5^2 \cdot 9.81}{4 \pi^2} \simeq 0.062\ m = 6.2\ cm$  
+
+## Esercizio 37  
+
+$L = \dfrac{T^2g}{4 \pi^2} = \dfrac{1.39^2 \cdot 3.73}{4 \pi^2} \simeq 0.183\ m = 18.3\ cm$  
+
+## Esercizio 38  
+
+$g = \dfrac{4 \pi^2 L}{T^2} = \dfrac{4 \pi^2 \cdot 0.34}{4.3^2} \simeq 0.73\ \small\frac{m}{s^2}$  
+
+## Esercizio 39  
+
+$g = \dfrac{4 \pi^2 L}{T^2} = \dfrac{4 \pi^2 \cdot 4.45}{4.45^2} \simeq 8.87\ \small\frac{m}{s^2}$  
+
+Non puo' trattarsi della Terra...  
+
