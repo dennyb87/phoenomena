@@ -258,3 +258,42 @@ $x = \sqrt[3]{\dfrac{64 \pi^6}{g^3}} = 4.024303527457434$
 
 Si ha allora che $T = L$ quando $L = 4.024303527457434\ m$ ottenendo un periodo $T = 4.024303527457434\ s$  
 
+## Problema 3  
+
+$d = 0.56\ m$  
+$r = \dfrac{d}{2} = 0.28\ m$  
+
+$f = \dfrac{300}{60} = 5\ Hz$  
+
+$T = \dfrac{1}{f} = \dfrac{1}{5} = 0.2\ s$  
+
+$v = \dfrac{2 \pi r}{T} = \dfrac{2 \pi \cdot 0.28}{0.2} \simeq 8.796\ \small\frac{m}{s}$  
+
+$\Delta t = 60 \cdot 45 = 2700\ s$  
+
+$s = v \Delta t = 8.796 \cdot 2700 = 23749.2\ m = 23.7492\ km$  
+
+$a_c = \dfrac{v^2}{r} = \dfrac{8.796^2}{0.28} \simeq 276.32\ \small\frac{m}{s^2}$  
+
+## Problema 4  
+
+$2\pi\sqrt{\dfrac{L_{marte}}{g_{marte}}} = 2\pi\sqrt{\dfrac{L}{g_{terra}}}$  
+
+$\cancel{2\pi}\dfrac{0.5}{3.73} = \cancel{2\pi}\dfrac{L}{9.81}$  
+
+$L = \dfrac{0.5}{3.73} \cdot 9.81 \simeq 1.315\ m$  
+
+$\Delta L = L - 0.5 = 0.815\ m = 81.5\ cm$  
+
+## Problema 5  
+
+$T = \dfrac{1}{f} = \dfrac{1}{0.32} = 3.125\ s$  
+
+$L = \dfrac{T^2g}{4 \pi^2} = \dfrac{3.125^2 \cdot 9.81}{4\pi^2} \simeq 2.426\ m$  
+
+Visto che il moto del pendolo e' armonico, puo' essere visto come la proiezione della massa sul diametro di una circonferenza. Allora si ha che assumendo $\overline{AB}$ come traiettoria la velocita massima risulta' essere $\dfrac{2\pi r}{T}$  
+
+$\theta = 30 \implies \overline{AB} = L = d \implies r = \dfrac{L}{2} = \dfrac{2.426}{2} = 1.213\ m$  
+
+$v_{max} = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 1.213}{3.125} \simeq 2.44\ \small\frac{m}{s}$  
+
