@@ -297,3 +297,8 @@ $\theta = 30 \implies \overline{AB} = L = d \implies r = \dfrac{L}{2} = \dfrac{2
 
 $v_{max} = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 1.213}{3.125} \simeq 2.44\ \small\frac{m}{s}$  
 
+Una volta trovata la velocita' massima, che si ha al centro, dovremmo poter trovare l'accelerazione centripeta massima, che si ha invece agli estremi.  
+
+$a_{c_{max}} = \dfrac{v^2}{r} = \dfrac{2.44^2}{1.213} \simeq 4.9\ \small\frac{m}{s^2}$  
+
+Anche se questo risultato e' in disaccordo con il libro, quindi forse mi sfugge qualcosa.  
