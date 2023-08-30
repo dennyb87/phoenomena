@@ -302,3 +302,44 @@ Una volta trovata la velocita' massima, che si ha al centro, dovremmo poter trov
 $a_{c_{max}} = \dfrac{v^2}{r} = \dfrac{2.44^2}{1.213} \simeq 4.9\ \small\frac{m}{s^2}$  
 
 Anche se questo risultato e' in disaccordo con il libro, quindi forse mi sfugge qualcosa.  
+
+## Problema 6  
+
+$a_c = 1.14\ \small\frac{m}{s^2}$  
+$r = 1.58\ m$  
+
+$v = \sqrt{a_cr} = \sqrt{1.14 \cdot 1.58} \simeq 1.342\ \small\frac{m}{s}$  
+
+$T = \dfrac{2\pi r}{v} = \dfrac{2\pi \cdot 1.58}{1.342} \simeq 7.4\ s$  
+
+Meglio cambiare sport visto il periodo...  
+
+## Problema 7  
+
+$T = 0.74\pm 0.02\ s$  
+$r = 1.58\pm 0.005\ m$  
+
+$v_m = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 1.58}{0.74} \simeq 13.415\ \small\frac{m}{s}$  
+
+$\varepsilon_r (v_m) = \varepsilon_r (2\pi r) + \varepsilon_r(T) = \dfrac{0.005}{9.93} + \dfrac{0.02}{0.74} \simeq 0.0275$  
+
+$\Delta x (v) = \varepsilon_r (v_m) \cdot v_m = 0.0275 \cdot 13.415 = 0.3689125 \simeq 0.4\ \small\frac{m}{s}$  
+
+$v = 13.4\pm 0.4\ \small\frac{m}{s}$  
+
+## Problema 8  
+
+$r = 30\pm 1\ m$  
+$v = 14\pm 0.2\ \small\frac{m}{s}$  
+
+$\Delta x(v^2) = 2\varepsilon_r (v) \cdot v^2 = 2 \cdot \dfrac{0.2}{14} \cdot 14^2 = 5.6\ \small\frac{m^2}{s^2}$  
+
+$v^2 = 196\pm 5.6\ \small\frac{m^2}{s^2}$  
+
+$a_m = \dfrac{v^2}{r} = \dfrac{196}{30} \simeq 6.533\ \small\frac{m}{s^2}$  
+
+$\varepsilon_r (a_m) = \varepsilon_r(v^2) + \varepsilon_r (r) = \dfrac{5.6}{196} + \dfrac{1}{30} \simeq 0.0619$  
+
+$\Delta x(a_c) = \varepsilon_r (a_m) \cdot a_m = 0.0619 \cdot 6.533 = 0.4043927 \simeq 0.4\ \small\frac{m}{s^2}$  
+
+$a_c = 6.5\pm 0.4\ \small\frac{m}{s^2}$  
