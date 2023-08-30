@@ -230,6 +230,8 @@ $L = \dfrac{T^2g}{4 \pi^2} = \dfrac{0.5^2 \cdot 9.81}{4 \pi^2} \simeq 0.062\ m =
 
 $L = \dfrac{T^2g}{4 \pi^2} = \dfrac{1.39^2 \cdot 3.73}{4 \pi^2} \simeq 0.183\ m = 18.3\ cm$  
 
+![moto_armonico_ex_07](https://github.com/dennyb87/phoenomena/assets/7195133/3f5eb2f9-cb80-417c-97cc-4cd61dc57cdf)  
+
 ## Esercizio 38  
 
 $g = \dfrac{4 \pi^2 L}{T^2} = \dfrac{4 \pi^2 \cdot 0.34}{4.3^2} \simeq 0.73\ \small\frac{m}{s^2}$  
