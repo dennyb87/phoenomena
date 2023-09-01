@@ -49,3 +49,12 @@ $F_{mela} = 2.5\ N$
 
 $a_{terra} = \dfrac{F_{mela}}{m_{terra}} = \dfrac{2.5}{5.98 \cdot 10^{24}} \simeq 4.18 \cdot 10^{-25}\ \small\frac{m}{s^2}$  
 
+# Sistemi di riferimento  
+
+![frame_of_reference_01](https://github.com/dennyb87/phoenomena/assets/7195133/7837842a-9064-4fc2-9ed0-7e7282e7b266)  
+
+Quando l'autobus accelera ci sentiamo spinti nella direzione opposta, ed il primo principio della dinamica sembra apparentemente violato. Dal punto di vista dei passanti invece l'accelerazione dell'autobus rivela giustamente una forza come ci si aspetta dal primo principio. Concludiamo allora che il primo principio e' valido soltanto nei sistemi di riferimento chiamati **inerziali**, ovvero un sistema di riferimento in cui non ci sono accelerazioni di nessun tipo.  
+
+Non e' facile determinare quali siano o se esistano effettivi sistemi inerziali, tuttavia con buona approsimazione possiamo ritenere la terra, e tutti i sistemi di riferimento di moto rettilineo uniforme rispetto ad essa dei **sistemi di riferimento inerziali** soddisfacenti.  
+
+
