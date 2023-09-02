@@ -89,4 +89,4 @@ E' importante notare che in entrambe i sistemi di riferimento i tempi coincidono
 
 Sempre grazie al principio di relativita' galieliano se Matteo si muove di moto rettilineo uniforme in un sistema di riferimento anch'esso di moto rettilineo uniforme a velocita' a differenti, per un sistema di riferimento stazionario possiamo scrivere...  
 
-$V_{matteo} = v^\prime + v_s$  
+$V_{matteo} = v^\prime + v_s = 5 + 30 = 35\ \small\frac{km}{h}$  
