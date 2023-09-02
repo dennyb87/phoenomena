@@ -57,4 +57,36 @@ Quando l'autobus accelera ci sentiamo spinti nella direzione opposta, ed il prim
 
 Non e' facile determinare quali siano o se esistano effettivi sistemi inerziali, tuttavia con buona approsimazione possiamo ritenere la terra, e tutti i sistemi di riferimento di moto rettilineo uniforme rispetto ad essa dei **sistemi di riferimento inerziali** soddisfacenti.  
 
+## Trasformazioni di Galileo  
 
+![galilean_transformation](https://github.com/dennyb87/phoenomena/assets/7195133/1e024177-62e2-494d-ab81-7db5cb884dec)  
+
+Il principio di relativita' galileiano ci dice che le leggi fisiche sono le stesse nei sistemi di riferimento inerziali, per cui dati due sistemi di riferimento $O$ e $O^\prime$ dove inizialmente $O \equiv O^\prime$. Se $O^\prime$ si muove di moto rettilineo uniforme con velocita' $v$ avremo che dopo un tempo $t$ sara' possibile individuare il punto $P$ per entrambe i sistemi con:  
+
+$$
+P_{kevin}\ \begin{cases}
+  \begin{aligned}
+    y &= y^\prime \\
+    x &= x^\prime + vt \\
+  \end{aligned}
+\end{cases}
+$$  
+
+$$
+P_{jennie}\ \begin{cases}
+  \begin{aligned}
+    y^\prime &= y \\
+    x^\prime &= x - vt \\
+  \end{aligned}
+\end{cases}
+$$
+
+E' importante notare che in entrambe i sistemi di riferimento i tempi coincidono $t = t^\prime$ mentre la posizione di $P$ risulta diversa, le equazioni percio' dipendono dal sistema di riferimento scelto.  
+
+## Composizione della velocita'  
+
+![relativita_galileiana](https://github.com/dennyb87/phoenomena/assets/7195133/08b59406-7500-4abd-8209-40065a726485)   
+
+Sempre grazie al principio di relativita' galieliano se Matteo si muove di moto rettilineo uniforme in un sistema di riferimento anch'esso di moto rettilineo uniforme a velocita' a differenti, per un sistema di riferimento stazionario possiamo scrivere...  
+
+$V_{matteo} = v^\prime + v_s$  
