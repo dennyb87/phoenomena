@@ -96,3 +96,100 @@ Mentre la forza necessaria per $a = 0.7\ \small\frac{m}{s^2}$ e' uguale a...
 
 $F = ma = 250 \cdot 0.7 = 175\ N$  
 
+![principi_della_dinamica_ex_04](https://github.com/dennyb87/phoenomena/assets/7195133/d4526324-d3e6-40af-98a1-5b8c48af0454)  
+
+## Esercizio 15  
+
+$m_1 = \dfrac{F}{a} = \dfrac{5}{0.5} = 10\ kg$  
+
+$m_2 = \dfrac{F}{a} = \dfrac{2.5}{1} = 2.5\ kg$  
+
+## Esercizio 16  
+
+$m_1 = \dfrac{F}{a} = \dfrac{12}{0.2} = 60\ kg$  
+
+$a = \dfrac{F}{m_1\frac{1}{2}} = \dfrac{12}{30} = 0.4\ \small\frac{m}{s^2}$  
+
+## Esercizio 17  
+
+$m = \dfrac{F}{a} = \dfrac{30}{0.6} = 50\ kg$  
+
+## Esercizio 18  
+
+![graph_newton_laws_ex_18](https://github.com/dennyb87/phoenomena/assets/7195133/35c04532-1659-4d36-ac37-d6d3d333eb95)  
+
+$F = ma = 60\ N$  
+
+Essendo $F$ costante, tra massa ed accelerazione esiste una relazione di proporzionalita' inversa.  
+
+## Esercizio 19  
+
+![newton_2nd_law_acceleration_mass_graph](https://github.com/dennyb87/phoenomena/assets/7195133/3b30a194-5f5a-412e-bada-460323684f1f)  
+
+## Esercizio 20  
+
+![graph_newton_laws_ex_20](https://github.com/dennyb87/phoenomena/assets/7195133/29443be4-8497-47b4-b780-6c150c81f57f)  
+
+$m = \dfrac{F}{a} = \dfrac{5}{0.25} = 20\ kg$  
+
+![principi_della_dinamica_ex_05](https://github.com/dennyb87/phoenomena/assets/7195133/85ee1a59-972b-457a-b49a-861677c44c25)  
+
+## Esercizio 21  
+
+Con forza costante esiste una relazione di proporzionalita' inversa tra massa ed accelerazione. Il prodotto delle due grandezze e' proprio la forza $F = ma = 6 \cdot 40 = 240\ N$  
+
+## Esercizio 22  
+
+$v = 36\ \small\frac{km}{h} = 10\ \small\frac{m}{s}$  
+
+$x = x^\prime + vt = 1.5 + 10 \cdot 5 = 51.5\ m$  
+
+## Esercizio 23  
+
+$v = 54\ \small\frac{km}{h} = 15\ \small\frac{m}{s}$  
+
+$x = x^\prime + vt = 40 + 15 \cdot 10 = 190\ m$  
+
+## Esercizio 24  
+
+$x = x^\prime + vt \implies v = \dfrac{x - x^\prime}{t}$  
+
+$v = \dfrac{100 -15}{20} = 4.25\ \small\frac{m}{s}$  
+
+## Esercizio 25  
+
+$v_t = 53.4\ \small\frac{km}{h} \simeq 14.83\ \small\frac{m}{s}$  
+
+$v = v_r + v_t = 6 + 14.83 = 20.83\ \small\frac{m}{s} \simeq 75\ \small\frac{km}{h}$  
+
+## Esercizio 26  
+
+$v = 24\ \small\frac{km}{h} \simeq 6.6\ \small\frac{m}{s}$  
+
+$v_{tot} = 12.5\ \small\frac{m}{s}$  
+
+$v_{tot} = v + v_x \implies v_x = v_{tot} - v$  
+
+$v_x = 12.5 - 6.6 = 5.9\ \small\frac{m}{s} = 21.24\ \small\frac{km}{h}$  
+
+## Esercizio 27  
+
+$v = v_1 + v_2 = -0.5 + 4 = 3.5\ \small\frac{m}{s}$  
+
+$x = x^\prime + vt = 1.5 + 3.5 \cdot 2 = 8.5\ m$  
+
+## Esercizio 28  
+
+Per il terzo principio si ha che...  
+
+$\vec{F}_{AB} = -\vec{F}_{BA}$  
+
+Per cui i moduli sono uguali.  
+
+## Esercizio 29  
+
+Sapendo che...  
+
+$F = G\dfrac{m_1m_2}{r^2}$  
+
+Sappiamo che la forza e' direttamente proporzionale al prodotto delle masse, per cui $C$ esercitera' il doppio della forza di $B$.  
