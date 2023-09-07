@@ -193,3 +193,69 @@ Sapendo che...
 $F = G\dfrac{m_1m_2}{r^2}$  
 
 Sappiamo che la forza e' direttamente proporzionale al prodotto delle masse, per cui $C$ esercitera' il doppio della forza di $B$.  
+
+## Esercizio 31  
+
+La forza che il cavallo esercita sul carro e viceversa, sono uguali e contrarie, non contribuiscono quindi al moto. Deve esistere allora una terza forza esercitata dal suolo sul cavallo, che spingendolo gli permette di muovere il carro.  
+
+## Esercizio 32  
+
+$F_1 = F_2 \implies m_1a_1 = m_2a_2$  
+
+$1.95 \cdot 10^9 \cdot 3.2 \cdot 10^{-9} = 1.2 \cdot 10^9 \cdot a_2$  
+
+$a_2 = \dfrac{1.95 \cdot \cancel{10^9} \cdot 3.2 \cdot 10^{-9}}{1.2 \cdot \cancel{10^9}} = 5.2 \cdot 10^{-9}\ \small\frac{m}{s^2}$  
+
+## Esercizio 33  
+
+$F = ma = 80 \cdot 9.81 = 784.8\ N$  
+
+## Problema 1  
+
+$a = \dfrac{\Delta v}{\Delta t} = \dfrac{27.7777}{10.6} \simeq 2.6205\ \small\frac{m}{s^2}$  
+
+$F = ma = 950 \cdot 2.6205 = 2489.475\ N$  
+
+## Problema 2  
+
+Si assume un moto uniformemente accelerato, quindi...  
+
+$s = \frac{1}{2}at^2\implies a = \dfrac{2s}{t^2} = \dfrac{2 \cdot 0.27}{1.1^2} \simeq 0.4463\ \small\frac{m}{s^2}$  
+
+$m = \dfrac{F}{a} = \dfrac{0.15}{0.4463} \simeq 0.336\ kg$  
+
+## Problema 3  
+
+$a = \dfrac{F}{m} = \dfrac{45.5}{65} = 0.7\ \small\frac{m}{s^2}$  
+
+$s = \frac{1}{2}at^2 = \dfrac{0.7}{2} \cdot 15^2 = 78.75\ m$  
+
+$s = \frac{1}{2}at^2 = \frac{1}{2}vt$  
+
+$v = \dfrac{2s}{t} = \dfrac{2 \cdot 78.75}{15} = 10.5\ \small\frac{m}{s} = 37.8\ \small\frac{km}{h}$  
+
+## Problema 4  
+
+$a = \dfrac{F}{m} = \dfrac{5}{0.5} = 10\ \small\frac{m}{s^2}$  
+
+$s = \frac{1}{2}at^2 \implies t = \sqrt{\dfrac{2s}{a}}$  
+
+$t = \sqrt{\dfrac{2 \cdot 1.8}{10}} = 0.6\ s$  
+
+$v_f = \dfrac{2s}{t} = \dfrac{2 \cdot 1.8}{0.6} = 6\ \small\frac{m}{s}$  
+
+$v_m = \dfrac{s}{t} = \dfrac{1.8}{0.6} = 3\ \small\frac{m}{s}$  
+
+Terminata la spinta, in assenza di attrito, la velocita' e' uguale a quella finale della fase di accelerazione, che sara' sempre il doppio della velocita' media nel moto rettilineo uniformemente accelerato essendo velocita' e tempo direttamente proporzionali.  
+
+$v_m = \dfrac{v_f}{2} = \dfrac{\cancel{2} \cdot s}{t} \cdot \dfrac{1}{\cancel{2}} = \dfrac{s}{t}$  
+
+## Problema 5  
+
+$V = \dfrac{4\pi r^3}{3} = \dfrac{4\pi \cdot 0.0425^2}{3} \simeq 322 \cdot 10^{-6}\ m^3$  
+
+$m = \dfrac{F}{a} = \dfrac{2.5}{1} = 2.5\ kg$  
+
+$\rho = \dfrac{m}{V} = \dfrac{2.5}{322 \cdot 10^{-6}} \simeq 7.764 \cdot 10^3\ \small\frac{kg}{m^3}$  
+
+Essendo piu' denso dell'acqua $1.03 \cdot 10^3\ \small\frac{kg}{m^3}$ affonderebbe!  
