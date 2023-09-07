@@ -194,6 +194,8 @@ $F = G\dfrac{m_1m_2}{r^2}$
 
 Sappiamo che la forza e' direttamente proporzionale al prodotto delle masse, per cui $C$ esercitera' il doppio della forza di $B$.  
 
+![principi_della_dinamica_ex_06](https://github.com/dennyb87/phoenomena/assets/7195133/6e56730e-1f6e-412d-81a8-dc260d0a0ea1)  
+
 ## Esercizio 31  
 
 La forza che il cavallo esercita sul carro e viceversa, sono uguali e contrarie, non contribuiscono quindi al moto. Deve esistere allora una terza forza esercitata dal suolo sul cavallo, che spingendolo gli permette di muovere il carro.  
