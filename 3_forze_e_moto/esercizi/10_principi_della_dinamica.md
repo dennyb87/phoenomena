@@ -261,3 +261,61 @@ $m = \dfrac{F}{a} = \dfrac{2.5}{1} = 2.5\ kg$
 $\rho = \dfrac{m}{V} = \dfrac{2.5}{322 \cdot 10^{-6}} \simeq 7.764 \cdot 10^3\ \small\frac{kg}{m^3}$  
 
 Essendo piu' denso dell'acqua $1.03 \cdot 10^3\ \small\frac{kg}{m^3}$ affonderebbe!  
+
+![principi_della_dinamica_ex_07](https://github.com/dennyb87/phoenomena/assets/7195133/50321cef-cc7d-4512-b5ed-8ab733b15701)  
+
+## Problema 6  
+
+Dal teorema del coseno si ha che la forza risultante e'...  
+
+$F_{tot} = \sqrt{F_a^2 + F_b^2 - 2F_aF_b\cos \theta} = \sqrt{440^2 + 520^2 - 2 \cdot 440 \cdot 520 \cdot 0.5} \simeq 485\ N$  
+
+$a = \dfrac{F}{m} = \dfrac{485}{400} = 1.2125\ \small\frac{m}{s^2}$  
+
+## Problema 7  
+
+$v = 64.8 \small\frac{km}{h} = 18\ \small\frac{m}{s}$  
+
+$a_c = \dfrac{v^2}{r} = \dfrac{18^2}{60} = 5.4\ \small\frac{m}{s^2}$  
+
+$F = ma = 900 \cdot 5.4 = 4\,860\ N$  
+
+## Problema 8  
+
+$a = \dfrac{F}{m} = \dfrac{937.5}{300} = 3.125\ \small\frac{m}{s^2}$  
+
+$s_1 = \frac{1}{2}at^2 = \dfrac{3.125}{2} \cdot 8^2 = 100\ m$  
+
+$v_f = \dfrac{2s_1}{t} = \dfrac{2 \cdot 100}{8} = 25\ \small\frac{m}{s}$  
+
+$s_2 = vt = 25 \cdot 20 = 500\ m$  
+
+$s_{tot} = s_1 + s_2 = 100 + 500 = 600\ m$  
+
+## Problema 9  
+
+Il sistema e' soggetto ad una sola forza, quella di gravita' agente sul corpo **B**, per cui...  
+
+$P_B = m_Bg = 6 \cdot 9.81 = 58.86\ N$  
+
+$a = \dfrac{P_B}{m_A + m_B} = \dfrac{58.86}{10 + 6} = 3.67875\ \small\frac{m}{s^2}$  
+
+$s = \frac{1}{2}at^2 \implies t = \sqrt{\dfrac{2s}{a}}$  
+
+$t = \sqrt{\dfrac{2 \cdot 0.6}{3.67875}} \simeq 0.57\ s$  
+
+## Problema 10  
+
+$a = 0.56\pm 0.02\ \small\frac{m}{s^2}$  
+$m_1 = 0.25\pm 0.001\ kg$  
+$m_2 = 0.04\pm 0.001\ kg$  
+
+$m_{tot} = m_1 + m_2 = 0.25 + 0.04 = 0.29\pm 0.002\ kg$  
+
+$F_m = m_{tot}a = 0.29 \cdot 0.56 = 0.1624\ N$  
+
+$\varepsilon_r(F_m) = \varepsilon_r(m_{tot}) + \varepsilon_r(a) = \dfrac{0.002}{0.29} + \dfrac{0.02}{0.56} \simeq 0.0426$  
+
+$\Delta x (F) = \varepsilon_r(F_m) \cdot F_m = 0.0426 \cdot 0.1624 = 0.00691824 = 0.007\ N$  
+
+$F = 0.162\pm 0.007\ N$  
