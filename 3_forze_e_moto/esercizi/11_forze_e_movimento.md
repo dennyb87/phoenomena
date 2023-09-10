@@ -1,0 +1,1 @@
+![forze_e_movimento_ex_01](https://github.com/dennyb87/phoenomena/assets/7195133/7611f312-3413-41e8-8d9b-104edc54c830)

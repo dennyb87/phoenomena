@@ -82,7 +82,7 @@ $\dfrac{r^3}{T^2} = K$
 
 Dove il raggio $r$ (in figura $a$) e' il valore medio della distanza che altrimenti si modificherebbe di continuo.  
 
-Se il rapporto e' costante concludiamo che piccoli raggi comportano tempi di rivoluzione minori e viceversa. Un altro modo per dire che i pianeti interni sono piu' veloci di quelli interni.  
+Se il rapporto e' costante concludiamo che piccoli raggi comportano tempi di rivoluzione minori e viceversa. Un altro modo per dire che i pianeti interni sono piu' veloci di quelli esterni.  
 
 # Campo gravitazionale  
 
@@ -96,7 +96,7 @@ Per spiegare il motivo per cui due corpi come la Terra e la Luna sono soggetti a
 
 In questo caso si parla di **campo gravitazionale** dove la sorgente e' una massa $M$ che modifica lo spazio circostante. Ponendo in un punto dello spazio un'altra massa $m$ significativamente minore della sorgente che chiameremo **campione** (o **esploratrice**), tale che la sua prezenza nello spazio sia pressoche' ininfluente, e' possibile definire $\vec{g}$ il **vettore campo gravitazionale**.  
 
-![gravitational_field_vector](https://github.com/dennyb87/phoenomena/assets/7195133/b435359f-0857-4428-b5d3-a88f66437b16)    
+![gravitational_field_vector](https://github.com/dennyb87/phoenomena/assets/7195133/1b4e22fc-238f-42c1-a4e3-c90c399aa9d1)       
 
 Per la legge di gravitazione universale la forza che $M$ esercita sulla massa campione e':  
 
@@ -109,3 +109,13 @@ Il vettore campo gravitazionale e' allora definito come il solo effetto della so
 $\vec{g} = \dfrac{\vec{F}}{m} = G\dfrac{M\cancel{m}}{r^2}\vec{u} \cdot \dfrac{1}{\cancel{m}} = G\dfrac{M}{r^2}\vec{u}$  
 
 La cui unita' di misura e' quindi $\frac{N}{kg}$ newton su kilogrammo, che equivale a $\frac{m}{s^2}$ metri al secondo quandrato.  
+
+## Linee di forza  
+
+![two_massess_field](https://github.com/dennyb87/phoenomena/assets/7195133/cf567005-55fd-400c-a26e-ec07bcdd7084)  
+
+Avendo un vettore campo gravitazionale in ogni punto dello spazio, diventa impossibile rappresentarlo direttamente. Si ricorre allora alle **linee di campo** (o **linee di forza**). In ogni punto del campo passa una sola linea, i cui punti sono tangenti alla direzione del vettore $\vec{g}$ e sempre entranti nella massa sorgente.  
+
+Una massa in $P_1$ e' soggetta al campo gravitazionale delle masse sorgenti, la linea di forza ha come tangente in $P_1$ il vettore $\vec{g}$ ottenuto dalla forza risultante.  
+
+![linee_di_forza](https://github.com/dennyb87/phoenomena/assets/7195133/72a84d43-389d-4dab-86cb-0bd2094cef03)  
