@@ -98,6 +98,8 @@ $P_\parallel = \dfrac{h}{l}P = \dfrac{0.9}{2.25} \cdot 7.85 = 3.14\ N$
 
 $P_\parallel = \dfrac{h}{l}P = \dfrac{15}{100} \cdot 590 = 88.5\ N$  
 
+![forze_e_movimento_ex_04](https://github.com/dennyb87/phoenomena/assets/7195133/a545fd17-c519-4ade-a6f2-b8f8156f7a13)  
+
 ## Esercizio 20  
 
 I due vettori la cui somma e' nulla sono $\vec{P}_v$ ed $\vec{R}$  
@@ -139,3 +141,47 @@ $P_\parallel = \dfrac{h}{l}P \implies h = \dfrac{P_\parallel}{P} \cdot l = \dfra
 ## Esercizio 26  
 
 $h = \dfrac{P_\parallel}{P} \cdot l = \dfrac{1.25}{8} \cdot 4 = 0.625\ m = 62.5\ cm$  
+
+## Esercizio 28  
+
+$v = 50\ \small\frac{km}{h} \simeq 13.888\ \small\frac{m}{s}$  
+
+$F_c = ma = m \cdot \dfrac{v^2}{r}= 1050 \cdot \dfrac{13.888^2}{90} \simeq 2250\ N$  
+
+## Esercizio 29  
+
+$d = 5\ m$  
+$r = \frac{1}{2}d = 2.5\ m$  
+$f = \dfrac{5}{10} = 0.5\ Hz$  
+
+$T = \dfrac{1}{f} = \dfrac{1}{0.5} = 2\ s$  
+
+$v = \dfrac{2\pi r}{T} = \dfrac{\cancel{2}\pi \cdot 2.5}{\cancel{2}} \simeq 7.85\ \small\frac{m}{s}$  
+
+$F_c = ma = m \cdot \dfrac{v^2}{r} = 76 \cdot \dfrac{7.85^2}{2.5} \simeq 1873.32\ N$  
+
+## Esercizio 30  
+
+$F_c = m \cdot \dfrac{v^2}{r} \implies v = \sqrt{\dfrac{rF_c}{m}} = \sqrt{\dfrac{1.49 \cdot 10^{11} \cdot 35.7 \cdot 10^{21}}{5.98 \cdot 10^{24}}} = 29824.74\ N$  
+
+## Esercizio 31  
+
+$F_c = m \cdot \dfrac{v^2}{r} \implies v = \sqrt{\dfrac{rF_c}{m}} = \sqrt{\dfrac{64}{4}} = 4\ \small\frac{m}{s}$  
+
+## Esercizio 32  
+
+$v = \dfrac{2\pi r}{T} \implies T = \dfrac{2\pi r}{v}$  
+
+$T = 2\pi r \cdot \dfrac{1}{v} = 2\pi r \cdot \dfrac{\sqrt{mrF_c}}{rF_c} = 2\pi \cdot 0.12 \cdot \dfrac{\sqrt{0.015 \cdot 0.12 \cdot 0.8}}{0.12 \cdot 0.8} \simeq 0.298\ s$  
+
+## Esercizio 33  
+
+$F_c = m \cdot \dfrac{v^2}{r} \implies r = m \cdot \dfrac{v^2}{F_c} = 1000 \cdot \dfrac{7^2}{8000} = 6.125\ m$  
+
+## Esercizio 34  
+
+$r = 7000 \cdot 10^3 + 6378 \cdot 10^3 = 13.378 \cdot 10^6\ m$  
+
+$v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 13.378 \cdot 10^6}{5400} \simeq 15566\ \small\frac{m}{s}$  
+
+$F_c = m \cdot \dfrac{v^2}{r} \implies \dfrac{rF_c}{v^2} = \dfrac{13.378 \cdot 10^6 \cdot 7.45 \cdot 10^6}{15566^2} \simeq 4.1 \cdot 10^5\ kg$  
