@@ -148,6 +148,8 @@ $v = 50\ \small\frac{km}{h} \simeq 13.888\ \small\frac{m}{s}$
 
 $F_c = ma = m \cdot \dfrac{v^2}{r}= 1050 \cdot \dfrac{13.888^2}{90} \simeq 2250\ N$  
 
+![forze_e_movimento_ex_05](https://github.com/dennyb87/phoenomena/assets/7195133/82c813d9-61db-408d-be90-967627d2c85b)  
+
 ## Esercizio 29  
 
 $d = 5\ m$  
@@ -185,3 +187,65 @@ $r = 7000 \cdot 10^3 + 6378 \cdot 10^3 = 13.378 \cdot 10^6\ m$
 $v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 13.378 \cdot 10^6}{5400} \simeq 15566\ \small\frac{m}{s}$  
 
 $F_c = m \cdot \dfrac{v^2}{r} \implies \dfrac{rF_c}{v^2} = \dfrac{13.378 \cdot 10^6 \cdot 7.45 \cdot 10^6}{15566^2} \simeq 4.1 \cdot 10^5\ kg$  
+
+## Esercizio 35  
+
+$F = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{30 \cdot 50}{0.5^2} = 4.002 \cdot 10^{-7}\ N$  
+
+## Esercizio 36  
+
+$F = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5.98 \cdot 10^{24} \cdot 1.99 \cdot 10^{30}}{(1.5 \cdot 10^{11})^2} \simeq 3.5 \cdot 10^{22}\ N$  
+
+## Esercizio 37  
+
+$F_1 = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{10^2}{1^2} = 6.67 \cdot 10^{-9}\ N$  
+
+$F_2 = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{10^2}{2^2} = 1.6675 \cdot 10^{-9}\ N$  
+
+$F_3 = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{10^2}{4^2} = 4.16875 \cdot 10^{-10}\ N$  
+
+La forza come abbiamo gia' visto e' inversamente proporzionale al quadrato della distanza.  
+
+## Esercizio 38  
+
+$F_1 = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5 \cdot 1}{1^2} = 3.335 \cdot 10^{-10}\ N$  
+
+$F_2 = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5 \cdot 2}{1^2} = 6.67 \cdot 10^{-10}\ N$  
+
+$F_3 = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5 \cdot 3}{1^2} = 10.005 \cdot 10^{-10}\ N$  
+
+$F_4 = G\dfrac{m_1m_2}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5 \cdot 4}{1^2} = 13.34 \cdot 10^{-10}\ N$  
+
+Come abbiamo gia' visto la forza e' direttamente proporzionale al prodotto delle masse.  
+
+## Esercizio 39  
+
+Nel caso II la forza e' quattro volte piu' piccola, mentre nel caso III e' sedici volte piu' piccola, in quanto esiste una relazione di proprozionalita' quadratica inversa.  
+
+Nel caso II avremo quindi $25\ N$ mentre $6.25\ N$.  
+
+## Esercizio 40  
+
+Nel caso II la forza e' raddoppiata $200\ N$ mentre nel caso III e' sei volte piu' grande $600\ N$  
+
+## Esercizio 41  
+
+Essendo $r$ minore al perielio si ha che la forza risulta maggiore, si ha invece una forza minore all'afelio dover $r$ e' maggiore.  
+
+## Esercizio 43  
+
+$m_g = \dfrac{r^2F}{Gm_s} = \dfrac{(7.8 \cdot 10^{11})^2 \cdot 4.1 \cdot 10^{23}}{6.67 \cdot 10^{-11} \cdot 1.99 \cdot 10^{30}} = \dfrac{7.8^2 \cdot 41 \cdot 10^{44}}{6.67 \cdot 1.99 \cdot 10^{29}} \simeq 1.88 \cdot 10^{27}\ kg$  
+
+## Esercizio 44  
+
+$m_2 = \dfrac{r^2F}{Gm_1} = \dfrac{2^2 \cdot 8 \cdot 10^{-8}}{6.67 \cdot 10^{-11} \cdot 60} = \dfrac{32 \cdot 10^3}{6.67 \cdot 60} \simeq 79.96\ kg$  
+
+## Esercizio 45  
+
+$r =\sqrt{G\dfrac{m_1m_2}{F}} = \sqrt{6.67 \cdot 10^{-11} \cdot \dfrac{1.99 \cdot 10^{30} \cdot 6.41 \cdot 10^{23}}{1.6 \cdot 10^{21}}} = \sqrt{\dfrac{6.67 \cdot 1.99 \cdot 6.41 \cdot 10^{42}}{1.6 \cdot 10^{21}}} \simeq 2.3 \cdot 10^{11}\ m$  
+
+## Esercizio 46  
+
+$r =\sqrt{G\dfrac{m_1m_2}{F}} = \sqrt{6.67 \cdot 10^{-11} \cdot \dfrac{1200 \cdot 1800}{6.5 \cdot 10^{-4}}} = \sqrt{\dfrac{6.67 \cdot 1200 \cdot 1800 \cdot 10^{-7}}{6.5}} \simeq 0.47\ m = 47\ cm$  
+
+## Esercizio 47  
