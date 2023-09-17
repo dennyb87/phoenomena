@@ -4,7 +4,7 @@
 
 ## Esercizio 1  
 
-Sul vaso viene agisce la forza di gravita', che e' variabile e dipende dal prodotto delle masse, e dal quadrato della distanza tra di esse. La forza e' variabile come lo e' l'accelerazione, che pero' per distanze cosi' piccole queste variazioni non sono apprezzabili. Se il vaso fosse di massa doppia, sarebbe soggetto al doppio della forza, ma l'accelerazione resterebbe la stessa, cosi' come il tempo di caduta.  
+Sul vaso agisce la forza di gravita', che e' variabile e dipende dal prodotto delle masse, e dal quadrato della distanza tra di esse. La forza e' variabile come lo e' l'accelerazione, che pero' per distanze cosi' piccole queste variazioni non sono apprezzabili. Se il vaso fosse di massa doppia, sarebbe soggetto al doppio della forza, ma l'accelerazione resterebbe la stessa, cosi' come il tempo di caduta.  
 
 ## Esercizio 2  
 
@@ -224,6 +224,8 @@ Nel caso II la forza e' quattro volte piu' piccola, mentre nel caso III e' sedic
 
 Nel caso II avremo quindi $25\ N$ mentre $6.25\ N$.  
 
+![forze_e_movimento_ex_06](https://github.com/dennyb87/phoenomena/assets/7195133/fa4c792a-e954-4e8c-b9bd-e50871bdb03f)  
+
 ## Esercizio 40  
 
 Nel caso II la forza e' raddoppiata $200\ N$ mentre nel caso III e' sei volte piu' grande $600\ N$  
@@ -249,3 +251,91 @@ $r =\sqrt{G\dfrac{m_1m_2}{F}} = \sqrt{6.67 \cdot 10^{-11} \cdot \dfrac{1.99 \cdo
 $r =\sqrt{G\dfrac{m_1m_2}{F}} = \sqrt{6.67 \cdot 10^{-11} \cdot \dfrac{1200 \cdot 1800}{6.5 \cdot 10^{-4}}} = \sqrt{\dfrac{6.67 \cdot 1200 \cdot 1800 \cdot 10^{-7}}{6.5}} \simeq 0.47\ m = 47\ cm$  
 
 ## Esercizio 47  
+
+Se la massa esploratrice $m$ raddoppia anche la forza raddoppia mantenendo l'accelerazione costante ed indipendente dalla massa esploratrice.  
+
+$2mg = 2F \implies g = \dfrac{2F}{2m} = G\dfrac{M}{r^2}$  
+
+## Esercizio 48  
+
+Se la massa sorgente $M$ raddoppia anche $g$ raddoppia, mentre come abbiamo gia' visto $g$ e' indipendente dalla massa esploratrice.  
+
+$G\dfrac{2M}{r^2} = 2g$  
+
+![forze_e_movimento_ex_07](https://github.com/dennyb87/phoenomena/assets/7195133/af6fc828-4723-49a4-a6cc-74173f0598b2)  
+
+## Esercizio 49  
+
+$r_{terra} = \dfrac{12756 \cdot 10^3}{2} = 6378 \cdot 10^3\ m$  
+
+$r = r_{terra} + 1000 \cdot 10^3 = 6378 \cdot 10^3 + 1000 \cdot 10^3 = 7378 \cdot 10^3\ m$  
+
+$g = G\dfrac{M}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5.98 \cdot 10^{24}}{(7378 \cdot 10^3)^2} = \dfrac{6.67 \cdot 5.98 \cdot 10^{13}}{54434884 \cdot 10^6} \simeq 7.33\ \small\frac{N}{kg}$  
+
+## Esercizio 50  
+
+$r_1 = \dfrac{6.772 \cdot 10^6}{2} = 3386 \cdot 10^3\ m$  
+
+$r_2 = 3386 \cdot 10^3 + 50 \cdot 10^3 = 3436 \cdot 10^3$  
+
+$g_1 = G\dfrac{M}{r_1^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{6.41 \cdot 10^{23}}{(3386 \cdot 10^3)^2} \simeq 3.73\ \small\frac{N}{kg}$  
+
+$g_2 = G\dfrac{M}{r_2^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{6.41 \cdot 10^{23}}{(3436 \cdot 10^3)^2} \simeq 3.62\ \small\frac{N}{kg}$  
+
+## Esercizio 51  
+
+Il modulo del vettore campo gravitazionale $g$ cosi' come il peso $P$ sara' minore sul Monte Bianco in quanto e' maggiore la distanza tra le masse.  
+
+$r_{mb} = 6.378 \cdot 10^6 + 4810 = 6.38281 \cdot 10^6\ m$  
+
+$g_{mb} = G\dfrac{M}{r^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5.98 \cdot 10^{24}}{6.38281^2 \cdot 10^{12}} \simeq 9.79\ \small\frac{N}{kg}$  
+
+## Esercizio 52  
+
+$\frac{1}{2}g = G\dfrac{M}{r^2} \implies r = \sqrt{G\dfrac{2M}{g}} = \sqrt{6.67 \cdot 10^{-11} \cdot \dfrac{2 \cdot 5.98 \cdot 10^{24}}{9.8}} \simeq 9.02 \cdot 10^6 = 9020\ km$  
+
+Gli astronauti sentiranno sempre meno forza gravitazionale mano a mano che si allontanano dalla Terra.  
+
+## Esercizio 53  
+
+$r = \sqrt{G\dfrac{M}{g}} = \sqrt{6.67 \cdot 10^{-11} \cdot \dfrac{5.98 \cdot 10^{24}}{8.5}} \simeq 6.85 \cdot 10^6\ m$  
+
+$d = 6.85 \cdot 10^6 - 6.378 \cdot 10^6 = 0.472 \cdot 10^6\ m = 472\ km$  
+
+## Esercizio 54  
+
+$r = \sqrt{G\dfrac{M}{g}} = \sqrt{6.67 \cdot 10^{-11} \cdot \dfrac{1.9 \cdot 10^{27}}{20}} \simeq 7.96 \cdot 10^7\ m$  
+
+$d = 7.96 \cdot 10^7 - 7.137 \cdot 10^7 = 0.823 \cdot 10^7\ m = 8230\ km$  
+
+## Esercizio 55  
+
+$M = \dfrac{r^2g}{G} = \dfrac{(1.738 \cdot 10^6)^2 \cdot 1.62}{6.67 \cdot 10^{-11}} \simeq 7.34 \cdot 10^{22}\ kg$  
+
+## Esercizio 56  
+
+$r = 6080 \cdot 10^3 + 61.4 \cdot 10^3 = 6141.4 \cdot 10^3\ m$  
+
+$M = \dfrac{r^2g}{G} = \dfrac{(6141.4 \cdot 10^3)^2 \cdot 8.63}{6.67 \cdot 10^{-11}} \simeq 4.88 \cdot 10^{24}\ kg$  
+
+## Problema 1  
+
+$F = mg = 0.125 \cdot 9.81 = 1.22625\ N$  
+
+$\Delta L = \dfrac{F}{K} = \dfrac{1.22625}{48} = 0.025546875\ m \simeq 2.55\ cm$  
+
+$L = \Delta L + L_0 = 2.55 + 32 = 34.55\ cm$  
+
+## Problema 2  
+
+$P_\parallel = mg\dfrac{h}{l} \implies m = \dfrac{P_\parallel l}{gh} = \dfrac{850.2 \cdot 300}{9.81 \cdot 26} = 1000\ kg$  
+
+## Problema 3  
+
+$\theta = 30^\circ \implies l = 2h = 2 \cdot 10 = 20\ m$  
+
+$P_\parallel = mg\dfrac{h}{l} = 0.3 \cdot 9.81 \cdot \dfrac{10}{20} = 1.4715\ N$  
+
+$a = g\dfrac{h}{l} = 9.81 \cdot \dfrac{10}{20} = 4.905\ \small\frac{m}{s^2}$  
+
+$s = \frac{1}{2}at^2 \implies t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 20}{4.905}} \simeq 2.86\ s$  
