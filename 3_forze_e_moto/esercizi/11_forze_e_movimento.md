@@ -339,3 +339,68 @@ $P_\parallel = mg\dfrac{h}{l} = 0.3 \cdot 9.81 \cdot \dfrac{10}{20} = 1.4715\ N$
 $a = g\dfrac{h}{l} = 9.81 \cdot \dfrac{10}{20} = 4.905\ \small\frac{m}{s^2}$  
 
 $s = \frac{1}{2}at^2 \implies t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 20}{4.905}} \simeq 2.86\ s$  
+
+## Problema 4  
+
+$\theta = 45^\circ \implies l = \sqrt{h^2+h^2} = \sqrt{12^2+12^2} \simeq 16.97\ m$  
+
+$P_\parallel = mg\dfrac{h}{l} = 1.25 \cdot 9.81 \cdot \dfrac{12}{16.97} \simeq 8.67\ N$  
+
+$a = g\dfrac{h}{l} = 9.81 \cdot \dfrac{12}{16.97} \simeq 6.94\ \small\frac{m}{s^2}$  
+
+$t = \sqrt{\dfrac{2s}{a}} \implies v = \dfrac{2s}{\sqrt{\dfrac{2s}{a}}} \implies v^2 = 2^{\cancel{2}}s^{\cancel{2}} \cdot \dfrac{a}{\cancel{2s}} \implies v = \sqrt{2sa}$  
+
+$v = \sqrt{2sa} = \sqrt{2 \cdot 16.97 \cdot 6.94} \simeq 15.35\ \small\frac{m}{s}$  
+
+## Problema 5  
+
+$h = \sqrt{l^2 - b^2} = \sqrt{3^2 - 1.5^2} = 2.6\ m$  
+
+$P_\parallel = mg\dfrac{h}{l} = 2 \cdot 9.81 \cdot \dfrac{2.6}{3} \simeq 17\ N$  
+
+$a = g\dfrac{h}{l} = 9.81 \cdot \dfrac{2.6}{3} \simeq 8.5\ \small\frac{m}{s^2}$  
+
+$v_{AB} = \sqrt{2sa} = \sqrt{2 \cdot 3 \cdot 8.5} \simeq 7.14\ \small\frac{m}{s}$  
+
+$v_{AC} = \sqrt{2sa} = \sqrt{2 \cdot 2.6 \cdot 9.81} \simeq 7.14\ \small\frac{m}{s}$  
+
+Si ha allora che le velocita' finali sono uguali $v_{AB} = v_{AC}$ in quanto se e' vero che in $AB$ l'accelerazione diminuisce a causa dell'inclinazione e' anche vero che lo spazio da percorrere e' maggiore, cosi' come il tempo impiegato a percorrerlo rispetto ad $AC$, garantendo cosi' una velocita' finale equivalente alla caduta libera.  
+
+## Problema 6  
+
+$\theta = 45^\circ \implies l_A = \sqrt{2h^2} = \sqrt{2 \cdot 6^2} \simeq 8.49\ m$  
+
+$\beta = 60^\circ \implies l_B = \dfrac{2h}{\sqrt{3}} = \dfrac{2 \cdot 6}{\sqrt{3}} \simeq 6.93\ m$  
+
+$P_{\parallel_A} = P_{\parallel_B} \implies P_{\parallel_A}\dfrac{\cancel{h}}{l_A} = m_Bg\dfrac{\cancel{h}}{l_B}$  
+
+$m_B = \dfrac{P_{\parallel_A}l_B}{gl_A} = \dfrac{200 \cdot 6.93}{9.81 \cdot 8.49} \simeq 16.64\ kg$  
+
+$a_A = g\dfrac{h}{l_A} = 9.81 \cdot \dfrac{6}{8.49} \simeq 6.93\ \small\frac{m}{s^2}$  
+
+## Problema 7  
+
+$F_{tot} = F_c + P \implies F_c = F_{tot} - P = F_{tot} - mg = 1.2 - (0.025 \cdot 9.81) = 0.95475\ N$  
+
+$F_c = m\dfrac{v^2}{r} \implies v = \sqrt{\dfrac{rF_c}{m}} = \sqrt{\dfrac{0.3 \cdot 0.95475}{0.025}} \simeq 3.38\ \small\frac{m}{s}$  
+
+$2\pi r = vt \implies T = \dfrac{2\pi r}{v} = \dfrac{2\pi \cdot 0.3}{3.38} \simeq 0.56\ s$  
+
+## Problema 8  
+
+$v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 1.07 \cdot 10^9}{60 \cdot 60 \cdot 24 \cdot 7.16} \simeq 10867.68\ \small\frac{m}{s}$  
+
+$g = \dfrac{v^2}{r} = \dfrac{10867.68^2}{1.07 \cdot 10^9} \simeq 0.11\ \small\frac{m}{s^2}$  
+
+$g = \dfrac{v^2}{r} = G\dfrac{m_{giove}}{r^2} \implies m_{giove} =\dfrac{r^2g}{G} = \dfrac{1.07 \cdot 10^9 \cdot 0.11}{6.67 \cdot 10^{-11}} \simeq 1.9 \cdot 10^{27}\ kg$  
+
+## Problema 9  
+
+$r_{ta} = \dfrac{7 \cdot 3.84 \cdot 10^8}{8} = 336 \cdot 10^6\ m$  
+$r_{la} = \dfrac{1 \cdot 3.84 \cdot 10^8}{8} = 48 \cdot 10^6\ m$  
+
+$F_{ta} = G\dfrac{m_{t}m_{a}}{r_{ta}^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5.98 \cdot 10^{24} \cdot 8.3 \cdot 10^{12}}{336 \cdot 10^6} \simeq 29324 \cdot 10^6\ N$  
+
+$F_{la} = G\dfrac{m_{l}m_{a}}{r_{la}^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{7.34 \cdot 10^{22} \cdot 8.3 \cdot 10^{12}}{48 \cdot 10^6} \simeq 17637 \cdot 10^6\ N$  
+
+$F_{tot} = F_{ta} - F_{la} = 29324 \cdot 10^6 - 17637 \cdot 10^6 = 1.1687 \cdot 10^{10}\ N$  
