@@ -340,6 +340,8 @@ $a = g\dfrac{h}{l} = 9.81 \cdot \dfrac{10}{20} = 4.905\ \small\frac{m}{s^2}$
 
 $s = \frac{1}{2}at^2 \implies t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{2 \cdot 20}{4.905}} \simeq 2.86\ s$  
 
+![forze_e_movimento_ex_08](https://github.com/dennyb87/phoenomena/assets/7195133/1709c52c-be31-4a60-995a-ba8632060071)  
+
 ## Problema 4  
 
 $\theta = 45^\circ \implies l = \sqrt{h^2+h^2} = \sqrt{12^2+12^2} \simeq 16.97\ m$  
@@ -404,3 +406,31 @@ $F_{ta} = G\dfrac{m_{t}m_{a}}{r_{ta}^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{5.98 
 $F_{la} = G\dfrac{m_{l}m_{a}}{r_{la}^2} = 6.67 \cdot 10^{-11} \cdot \dfrac{7.34 \cdot 10^{22} \cdot 8.3 \cdot 10^{12}}{48 \cdot 10^6} \simeq 17637 \cdot 10^6\ N$  
 
 $F_{tot} = F_{ta} - F_{la} = 29324 \cdot 10^6 - 17637 \cdot 10^6 = 1.1687 \cdot 10^{10}\ N$  
+
+## Problema 10  
+
+$v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 3.84 \cdot 10^8}{60 \cdot 60 \cdot 24 \cdot 27.3} \simeq 1022.9\ \small\frac{m}{s} \simeq 3.682 \cdot 10^3\ \small\frac{km}{h}$  
+
+$F_c = m\dfrac{v^2}{r} = 7.34 \cdot 10^{22} \cdot \dfrac{1022.9^2}{3.84 \cdot 10^8} \simeq 2 \cdot 10^{20} N$  
+
+## Problema 11  
+
+$P = 12\pm 0.1\ N$  
+$l = 92.5\pm 0.5\ cm$  
+$h = 26.4\pm 0.1\ cm$  
+
+$k_m = \dfrac{h}{l} = \dfrac{26.4}{92.5} \simeq 0.2854$  
+
+$\varepsilon_r(k_m) = \varepsilon_r(h) + \varepsilon_r(l) = \dfrac{0.1}{26.4} + \dfrac{0.5}{92.5} \simeq 0.00919$  
+
+$\Delta x (k) = \varepsilon_r(k_m) \cdot k_m = 0.00919 \cdot 0.2854 \simeq 0.0026 = 0.003$  
+
+$k = 0.285\pm 0.003$  
+
+$P_{\parallel_m} = P \cdot k = 12 \cdot 0.285 = 3.42\ N$  
+
+$\varepsilon_r(P_{\parallel_m}) = \varepsilon_r(P) + \varepsilon_r(k) = \dfrac{0.1}{12} + \dfrac{0.003}{0.285} \simeq 0.01886$  
+
+$\Delta x (P_\parallel) = \varepsilon_r(P_{\parallel_m}) \cdot P_{\parallel_m} = 0.01886 \cdot 3.42= 0.0645012 = 0.07\ N$  
+
+$P_\parallel = 3.42\pm 0.07\ N$  
