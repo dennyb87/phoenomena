@@ -2,11 +2,11 @@
 
 ![force_displacement](https://github.com/dennyb87/phoenomena/assets/7195133/b2911bbe-6b17-4c26-a71f-64213463887d)  
 
-In fisica si parla di lavoro quando all'applicazione di una forza ne consegue l'applicazione di una forza ne consegue uno spostamento del corpo interessato. Formalmente viene definito come:  
+In fisica si parla di lavoro quando all'applicazione di una forza ne consegue uno spostamento del corpo interessato. Formalmente viene definito come:  
 
 > Il prodotto tra la componente della forza in direzione dello spostamento, e lo spostamento stesso.  
 
-$L = F_s \cdot s$  
+$L = \vec{F}_s \cdot \vec{s}$  
 
 La sua unita' di misura e' il **joule** $J$  
 
@@ -40,6 +40,31 @@ Il nostro corpo possiede la capacita' di sollevare un libro da terra indipendent
 
 > La capacita' di compiere lavoro  
 
-Dato che quello che prima era energia puo' essere trasformato in lavoro, ne segue che hanno la stessa unita' di misura, il **joule**. L'energia puo' essere espressa anche in **kilowattora** dove $1\ kWh$ e' la quantita' di energia uguale ad una potenza di $1\ kW$ erogata per un ora.  
+L'energia esiste in molte forme e.g. cinetica, gravitazionale, elettrica etc.. dalle quali possiamo attingere per ottenere del lavoro. Dato che quello che prima era energia puo' essere trasformato in lavoro, ne segue che hanno la stessa unita' di misura, il **joule**. L'energia puo' essere espressa anche in **kilowattora** dove $1\ kWh$ e' la quantita' di energia uguale ad una potenza di $1\ kW$ erogata per un ora.  
 
 $1\ kWh = 1\ kW \cdot 1\ h = 1000\ W \cdot 3600\ s = 3.6 \cdot 10^6\ J$  
+
+## Energia cinetica  
+
+Si puo' intuire che un corpo in movimento possa causare lo spostamento di altri corpi per esempio grazie ad un urto. L'energia che un corpo possiede per il solo fatto di essere in movimento prende il nome di **energia cinetica**. E' dimostrabile che questa energia equivale al lavoro necessario per portare un corpo di massa $m$ dallo stato di quiete $v_i = 0$ alla velocita' desiderata $v_f$.  
+
+$L = \vec{F}_s \cdot \vec{s}$  
+
+Ricaviamo quindi il tempo per poi trovare il modulo dello spostamento assumendo un moto rettilineo uniformemente accelerato con il corpo inizialmente fermo.  
+
+$v_f = at \implies t = \dfrac{v_f}{a}$  
+
+$s = \frac{1}{2}at^2 = \frac{1}{2}\cancel{a}\dfrac{v_f^2}{a^{\cancel{2}}} = \dfrac{v_f^2}{2a} =\frac{1}{2}mv_f^2$  
+
+Sostituiamo nella formula del lavoro...  
+
+$L = F_s \cdot s = m \cdot a \cdot s = m\cancel{a}\dfrac{v_f^2}{2\cancel{a}} \implies \frac{1}{2}mv_f^2$  
+
+Si ha allora che l'**energia cinetica** $E_c$ del corpo e' uguale al lavoro necessario per accelerarlo alla velocita' che possiede.  
+
+$L = E_c =\frac{1}{2}mv_f^2$  
+
+E' importante notare che nel nostro esempio il corpo era inizialmente in stato di quiete, ma piu' in generale, con $v_i \ne 0$ e' possible dimostrare che il lavoro compiuto da una forza che sposta un corpo dalla posizione iniziale $i$ alla posizione finale $f$ e' uguale alla variazione di energia cinetica del corpo nel corso di tale spostamento.  
+
+$L = \Delta E_c = E_{cf} - E_{ci}$  
+
