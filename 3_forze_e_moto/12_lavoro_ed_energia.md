@@ -62,9 +62,26 @@ $L = F_s \cdot s = m \cdot a \cdot s = m\cancel{a}\dfrac{v_f^2}{2\cancel{a}} \im
 
 Si ha allora che l'**energia cinetica** $E_c$ del corpo e' uguale al lavoro necessario per accelerarlo alla velocita' che possiede.  
 
-$L = E_c =\frac{1}{2}mv_f^2$  
+$L = E_c = \frac{1}{2}mv_f^2$  
 
 E' importante notare che nel nostro esempio il corpo era inizialmente in stato di quiete, ma piu' in generale, con $v_i \ne 0$ e' possible dimostrare che il lavoro compiuto da una forza che sposta un corpo dalla posizione iniziale $i$ alla posizione finale $f$ e' uguale alla variazione di energia cinetica del corpo nel corso di tale spostamento.  
 
-$L = \Delta E_c = E_{cf} - E_{ci}$  
+$L = \Delta E_c = E_{cf} - E_{ci} = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2$  
 
+# Energia potenziale gravitazionale  
+
+![gravitational_potential_energy](https://github.com/dennyb87/phoenomena/assets/7195133/36186fc3-c89b-45e3-b0fd-1377aff91b1e)  
+
+Lasciando cadere una palla, questa grazie alla forza gravitazionale viene accelerata guadagnando quindi energia cinetica che puo' essere usata per fare lavoro. E' evidente che e' la sua posizione a permettergli di cadere, si dice allora **energia potenziale gravitazionale** quelle che un corpo possiede a causa della sua posizione nel campo gravitazionale rispetto ad un livello di riferimento scelto.  
+
+$E_{Pg} = mgh$  
+
+E' importante notare che il lavoro necessario per portare la palla all'altezza $h$ e' prioprio $Ph = mgh$ che una volta compiuto si trasforma in energia di posizione. Ne segue che questo tipo di energia e' riconducibile ad un lavoro che e' stato compiuto sul corpo che e' soggetto a forze.  
+
+# Energia potenziale elastica  
+
+Allungango o comprimendo una molla rispetto alla sua posizione di equilibrio e' possibile immagazzinarvi energia. In modo analogo all'energia potenziale gravitazionale, quella elastica e' pari al lavoro necessario per comprimere la molla, ovvero:  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2$  
+
+Dove $K$ e' la costante elastica e $\Delta L$ la variazione di lunghezza della molla.  
