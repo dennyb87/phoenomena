@@ -144,6 +144,8 @@ $E_c = \frac{1}{2}mv^2 = \dfrac{1200}{2} \cdot 25^2 = 3.75 \cdot 10^5\ J$
 
 $E_c =  \frac{1}{2}mv^2 = \dfrac{54}{2} \cdot 8^2 = 1728\ J$  
 
+![lavoro_ed_energia_ex_05](https://github.com/dennyb87/phoenomena/assets/7195133/bd729b0a-1f8d-465c-8fd4-346adc94f844)  
+
 ## Problema 27  
 
 $E_c =  \frac{1}{2}mv^2 = \dfrac{1000}{2} \cdot 10^2 = 5 \cdot 10^4\ J$  
