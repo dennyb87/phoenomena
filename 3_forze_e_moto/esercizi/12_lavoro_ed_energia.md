@@ -213,3 +213,65 @@ $v_f = \sqrt{v_i^2 + \dfrac{2\Delta E_c}{m}} =\sqrt{20^2 + \dfrac{2 \cdot 25200}
 In realta' la massa non sembra essere necessaria per risolvere il problema, mi confonde il fatto che sia stata fornita.  
 
 $E_{cf} = \frac{1}{2}E_{ci} \implies v_f = \sqrt{\frac{1}{2}v_i^2} \simeq 3.54\ \small\frac{m}{s} = 12.744\ \small\frac{km}{h}$  
+
+## Problema 41  
+
+$E_{PgA} = m_Agh_A = 8 \cdot 9.81 \cdot 5 = 392.4\ J$  
+$E_{PgB} = m_Bgh_B = 5 \cdot 9.81 \cdot 7 = 343.35\ J$  
+$E_{PgC} = m_Cgh_C = 12 \cdot 9.81 \cdot 4 = 470.88\ J$  
+
+$E_{PgC} = m_Agh \implies h = \dfrac{E_{PgC}}{m_Ag} = \dfrac{470.88}{8 \cdot 9.81} = 6\ m$  
+
+## Problem 42  
+
+$E_{PgB} = m_Bgh_B = 20 \cdot 9.81 \cdot 6 = 1177.2\ J$  
+
+$E_{PgB} = m_Agh \implies h = \dfrac{E_{PgB}}{m_Ag} = \dfrac{1177.2}{40 \cdot 9.81} = 3\ m$  
+
+## Problema 43  
+
+$E_{Pg} = mgh = 80 \cdot 9.81 \cdot 30 = 23544\ J \simeq 23.5 \cdot 10^3$  
+
+## Problema 44  
+
+$g_{marte} = 0.38g = 0.38 \cdot 9.81 = 3.7278\ \small\frac{m}{s^2}$  
+
+$E_{Pg} = mg_{marte}h = 500 \cdot 3.7278 \cdot 150 = 279585\ J \simeq 28 \cdot 10^4$  
+
+## Problema 46  
+
+$E_{Pg} = mgh = 27 \cdot 9.81 \cdot 8.5 = 2251.395\ J$  
+
+Su Marte si avrebbe una diversa energia potenziale a causa della diversa accelerazione gravitazionale.  
+
+## Problema 47  
+
+$L = E_{Pg} = mgh = 0.5 \cdot 9.81 \cdot 10 = 49.05\ J$  
+
+Il lavoro del ragazzo nel sollevare la palla e' lavoro motore in quanto contribuisce positivamente in direzione dello spostamento. Questo coincide con il lavoro, sempre motore, della forza peso nel caso in cui la palla venisse lasciata cadere.  
+
+## Problema 48  
+
+$h = \dfrac{E_{Pg}}{mg} = \dfrac{260}{1.25 \cdot 9.81} \simeq 21.2\ m$  
+
+## Problema 49  
+
+$E_{Pg} = m_1gh_1 = m_2gh_2 \implies h_2 = \dfrac{m1}{m2}h_1 = \dfrac{52}{78} \cdot 9 = 6\ m$  
+
+$L = E_{Pg} = m_1gh_1 = 52 \cdot 9.81 \cdot 9 = 4591.08\ J$  
+
+## Problema 50  
+
+$m = \dfrac{E_{Pg}}{hg} = \dfrac{100}{20 \cdot 9.81} \simeq 0.51\ kg = 510\ g$  
+
+## Problema 51  
+
+$E_{Pgf} = E_{Pgi} + \Delta E_{Pg}$  
+
+$mgh_f = mgh_i + mg(h_f - h_i) \implies h_f = h_i + \Delta h$  
+
+$m = \dfrac{E_{Pgf}}{g(h_i + \Delta h)} = \dfrac{1485}{9.81 \cdot (2.75 + 0.92)} \simeq 41.2\ kg$  
+
+## Problema 52  
+
+$E_{Pg} = mgh \implies g = \dfrac{E_{Pg}}{mh} = \dfrac{1348.65}{45 \cdot 18.5} =1.62\ \small\frac{m}{s^2}$  
