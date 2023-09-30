@@ -143,3 +143,71 @@ $E_c = \frac{1}{2}mv^2 = \dfrac{1200}{2} \cdot 25^2 = 3.75 \cdot 10^5\ J$
 ## Problema 26  
 
 $E_c =  \frac{1}{2}mv^2 = \dfrac{54}{2} \cdot 8^2 = 1728\ J$  
+
+## Problema 27  
+
+$E_c =  \frac{1}{2}mv^2 = \dfrac{1000}{2} \cdot 10^2 = 5 \cdot 10^4\ J$  
+
+Se la velocita' raddoppia l'energia cinetica diventa quattro volte piu' grande. Mentre se la massa raddoppia anche l'energia raddoppia.  
+
+## Problema 29  
+
+$E_c =  \frac{1}{2}mv^2 \implies m = \dfrac{2E_c}{v^2} = \dfrac{2 \cdot 28}{9.6^2} \simeq 0.61\ kg$  
+
+## Problema 30  
+
+$E_c =  \frac{1}{2}mv^2 \implies m = \dfrac{2E_c}{v^2} = \dfrac{2 \cdot 2240}{8^2} = 70\ kg$  
+
+## Problema 31  
+
+Tra velocita' ed energia cinetica esiste una relazione di proporzionalita' quadratica, se la velocita' raddoppia l'energia cinetica diventa quattro volte piu' grande.  
+
+$E_c =  \frac{1}{2}mv^2 \implies m = \dfrac{2E_c}{v^2} = \dfrac{2 \cdot 200}{2^2} = 100\ kg$  
+
+## Problema 32  
+
+$E_c =  \frac{1}{2}mv^2 \implies v = \sqrt{\dfrac{2E_c}{m}} = \sqrt{\dfrac{2 \cdot 186}{2.2}} \simeq 13\ \small\frac{m}{s}$  
+
+## Problema 33  
+
+$E_c =  \frac{1}{2}mv^2 \implies v = \sqrt{\dfrac{2E_c}{m}} = \sqrt{\dfrac{2 \cdot 1.25 \cdot 10^4}{77}} \simeq 18\ \small\frac{m}{s}$  
+
+## Problema 34  
+
+$L =  \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2 = \frac{1}{2}m(v_f^2 - v_i^2) = \dfrac{1400}{2} \cdot (30^2 - 10^2) = 56 \cdot 10^4\ J$  
+
+## Problema 35  
+
+$L = \frac{1}{2}m(v_f^2 - v_i^2) = \dfrac{700}{2} \cdot (12.5^2 - 15^2) \simeq -24 \cdot 10^3\ J$  
+
+## Problema 36  
+
+$L = \frac{1}{2}m(v_f^2 - v_i^2) = \dfrac{1400}{2} \cdot (22.22^2 - 16.66^2) \simeq 15 \cdot 10^4\ J$  
+
+## Problema 37  
+
+$E_{c1} = \frac{1}{2}mv^2 = \dfrac{300}{2} \cdot 25^2 = 93750\ J$  
+
+$E_{c2} = \frac{1}{2}mv^2 = \dfrac{300}{2} \cdot 35^2 = 183750\ J$  
+
+$L = \Delta E_c = E_{c2} - E_{c1} = 183750 - 93750 = 90000\ J$  
+
+## Problema 38  
+
+Il lavoro per fermarla e' lo stesso necessario ad accelerarla a tale velocita' partendo da ferma, per cui...  
+
+$L = \Delta E_c = \frac{1}{2}m(v_f^2 - v_i^2) = \dfrac{0.05}{2} \cdot (20^2 - 0^2) = 10\ J$  
+
+## Problema 39  
+
+$E_{cf} = \frac{1}{2}mv_i^2 + \Delta E_c$  
+
+$\frac{1}{2}mv_f^2 = \frac{1}{2}mv_i^2 + \Delta E_c$  
+
+$v_f = \sqrt{v_i^2 + \dfrac{2\Delta E_c}{m}} =\sqrt{20^2 + \dfrac{2 \cdot 25200}{800}} \simeq 21.52\ \small\frac{m}{s} = 77.472\ \small\frac{km}{h}$  
+
+## Problema 40  
+
+In realta' la massa non sembra essere necessaria per risolvere il problema, mi confonde il fatto che sia stata fornita.  
+
+$E_{cf} = \frac{1}{2}E_{ci} \implies v_f = \sqrt{\frac{1}{2}v_i^2} \simeq 3.54\ \small\frac{m}{s} = 12.744\ \small\frac{km}{h}$  
