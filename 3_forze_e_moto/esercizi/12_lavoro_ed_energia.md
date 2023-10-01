@@ -277,3 +277,50 @@ $m = \dfrac{E_{Pgf}}{g(h_i + \Delta h)} = \dfrac{1485}{9.81 \cdot (2.75 + 0.92)}
 ## Esercizio 52  
 
 $E_{Pg} = mgh \implies g = \dfrac{E_{Pg}}{mh} = \dfrac{1348.65}{45 \cdot 18.5} =1.62\ \small\frac{m}{s^2}$  
+
+## Problema 53  
+
+$g = \dfrac{E_{Pg}}{mh} = \dfrac{8 \cdot 10^5}{125 \cdot 2300} \simeq 2.78\ \small\frac{m}{s^2}$  
+
+## Problema 54  
+
+Dato che la variazione di lunghezza della molla e' direttamente proporzionale alla forza che ne e' la causa, ovvero:  
+
+$F_{est} = K \cdot \Delta L$  
+$F_{el} = -F_{est}$  
+
+Si ha allora che per ottenere un aumento di variazione della lunghezza della molla deve necessariamente aumentare la forza esterna applicata e di conseguenza aumenta la forza di reazione elastica. Infine comprimendo la molla la sua energia potenziale elastica aumenta.  
+
+## Esercizio 55  
+
+Sapendo che...  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 = \dfrac{35}{2} \cdot 0.072^2 = 9.072 \cdot 10^{-2}\ J$  
+
+## Esercizio 56  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 = \dfrac{130}{2} \cdot (0.386 - 0.322)^2 = 0.26624\ J$  
+
+## Esercizio 58  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 = \dfrac{20}{2}\cdot 0.04^2 = 0.016\ J$  
+
+Se l'allungamento raddoppia l'energia quadruplica...  
+
+$E_{Pel} = \frac{1}{2}K \cdot (2\Delta L)^2 = \dfrac{20}{2}\cdot (2 \cdot 0.04)^2 = 0.064\ J$  
+
+Se invece dimezza, l'energia diventa quattro volte piu' piccola in quanto siamo di fronte ad una proporzionalita' quadratica.  
+
+## Esercizio 59  
+
+Siamo di fronte ad una proporzionalita' quadratica per cui con $\Delta L = 2\ cm$ si hanno $8 \cdot 10^{-3}\ J$ mentre quando l'energia e' $18 \cdot 10^{-3}\ J$ si ha che $\Delta L = 3\ cm$  
+
+$K = \dfrac{2E_{Pel}}{\Delta L^2} = \dfrac{2 \cdot 8 \cdot 10^{-3}}{0.02^2}= 40\ \small\frac{N}{m}$  
+
+## Esercizio 60  
+
+$K = \dfrac{2E_{Pel}}{\Delta L^2} = \dfrac{2 \cdot 0.25}{(0.2 - 0.15)^2} = 200\ \small\frac{N}{m}$  
+
+## Esercizio 61  
+
+$K = \dfrac{2E_{Pel}}{(2\Delta L)^2} = \dfrac{2 \cdot 4}{(2 \cdot 0.08)^2} = 312.5\ \small\frac{N}{m}$  
