@@ -214,6 +214,8 @@ In realta' la massa non sembra essere necessaria per risolvere il problema, mi c
 
 $E_{cf} = \frac{1}{2}E_{ci} \implies v_f = \sqrt{\frac{1}{2}v_i^2} \simeq 3.54\ \small\frac{m}{s} = 12.744\ \small\frac{km}{h}$  
 
+![lavoro_ed_energia_ex_06](https://github.com/dennyb87/phoenomena/assets/7195133/b03c91e6-f84c-4ffc-965c-f70f01de8a09)  
+
 ## Problema 41  
 
 $E_{PgA} = m_Agh_A = 8 \cdot 9.81 \cdot 5 = 392.4\ J$  
