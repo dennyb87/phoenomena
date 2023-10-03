@@ -278,6 +278,8 @@ $m = \dfrac{E_{Pgf}}{g(h_i + \Delta h)} = \dfrac{1485}{9.81 \cdot (2.75 + 0.92)}
 
 $E_{Pg} = mgh \implies g = \dfrac{E_{Pg}}{mh} = \dfrac{1348.65}{45 \cdot 18.5} =1.62\ \small\frac{m}{s^2}$  
 
+![lavoro_ed_energia_ex_07](https://github.com/dennyb87/phoenomena/assets/7195133/60b9cfe2-7d3d-45e5-aab2-02c449ef6a84)  
+
 ## Problema 53  
 
 $g = \dfrac{E_{Pg}}{mh} = \dfrac{8 \cdot 10^5}{125 \cdot 2300} \simeq 2.78\ \small\frac{m}{s^2}$  
