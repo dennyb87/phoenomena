@@ -326,3 +326,28 @@ $K = \dfrac{2E_{Pel}}{\Delta L^2} = \dfrac{2 \cdot 0.25}{(0.2 - 0.15)^2} = 200\ 
 ## Esercizio 61  
 
 $K = \dfrac{2E_{Pel}}{(2\Delta L)^2} = \dfrac{2 \cdot 4}{(2 \cdot 0.08)^2} = 312.5\ \small\frac{N}{m}$  
+
+## Esercizio 62  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 \implies F_{el} = K \cdot \Delta L = \dfrac{2E_{Pel}}{\Delta L} = \dfrac{2 \cdot 0.125}{0.25 - 0.185} \simeq 3.85\ N$  
+
+## Esercizio 63  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 \implies \Delta L = \sqrt{\dfrac{2E_{Pel}}{K}} = \sqrt{\dfrac{2 \cdot 0.15}{40}} \simeq 0.0866\ m = 8.7\ cm$  
+
+$L = L_0 + \Delta L = 21 + 8.7 = 29.7\ cm$  
+
+## Esercizio 64  
+
+$K = \dfrac{F}{\Delta L} = \dfrac{10}{0.065} \simeq 153.85\ \small\frac{N}{m}$  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 = \dfrac{153.846}{2} \cdot 0.065^2 \simeq 0.325\ J$  
+
+## Problema 1  
+
+$P = \dfrac{L}{\Delta t} = \dfrac{F \cdot s}{\Delta t} = \dfrac{180 \cdot 10^4}{60 \cdot 12.5} = 2400\ W$  
+
+## Problema 2  
+
+$\Delta t = \dfrac{F \cdot s}{P} = \dfrac{5200 \cdot 6}{1000} = 31.2\ s$  
+
