@@ -351,3 +351,34 @@ $P = \dfrac{L}{\Delta t} = \dfrac{F \cdot s}{\Delta t} = \dfrac{180 \cdot 10^4}{
 
 $\Delta t = \dfrac{F \cdot s}{P} = \dfrac{5200 \cdot 6}{1000} = 31.2\ s$  
 
+## Problema 3  
+
+$P = \dfrac{F \cdot \cos\theta \cdot s}{\Delta t} \implies F = \dfrac{P \Delta t}{\cos\theta \cdot s} = \dfrac{40 \cdot 20}{\frac{1}{2}\sqrt{3} \cdot 7.27} \simeq 127\ N$  
+
+## Problema 4  
+
+$L = \Delta E_c = \frac{1}{2}m(v_f^2 - v_i^2) = \frac{1}{2}10(5.5^2 - 2^2) = 131.25\ J$  
+
+$P = \dfrac{L}{\Delta t} = \dfrac{131.25}{0.5} = 262.5\ W$  
+
+$F = \dfrac{L}{s} = \dfrac{131.25}{1.875} = 70\ N$  
+
+## Problema 5  
+
+$a = \sin(30^\circ) \cdot g = \frac{1}{2} \cdot 9.81 \simeq 4.905\ \small\frac{m}{s^2}$  
+
+$s = \frac{1}{2}vt \implies v = \sqrt{2sa} = \sqrt{2 \cdot 15 \cdot 4.905} \simeq 12.1305\ \small\frac{m}{s}$  
+
+$t = \dfrac{2s}{v} = \dfrac{2 \cdot 15}{12.1305} \simeq 2.47\ s$  
+
+$L = E_c = \frac{1}{2}mv^2 = \frac{1}{2}10 \cdot 12.1305^2 \simeq 735.75\ J$  
+
+$P = \dfrac{L}{\Delta t} = \dfrac{735.75}{2.47} \simeq 298\ W$  
+
+## Problema 6  
+
+$E_{Pgm} = mgh = 1.65 \cdot 9.81 \cdot 2.5 \simeq 40.5\ J$  
+
+$E_{Pgt} = E_{Pgm} - \Delta E_c = 40.5 - 28 = 12.5\ J$  
+
+$h_t = \dfrac{E_{Pgt}}{mg} = \dfrac{12.5}{1.65 \cdot 9.81} \simeq 0.77\ m = 77\ cm$  
