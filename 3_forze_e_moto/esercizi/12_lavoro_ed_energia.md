@@ -327,6 +327,8 @@ $K = \dfrac{2E_{Pel}}{\Delta L^2} = \dfrac{2 \cdot 0.25}{(0.2 - 0.15)^2} = 200\ 
 
 $K = \dfrac{2E_{Pel}}{(2\Delta L)^2} = \dfrac{2 \cdot 4}{(2 \cdot 0.08)^2} = 312.5\ \small\frac{N}{m}$  
 
+![lavoro_ed_energia_ex_08](https://github.com/dennyb87/phoenomena/assets/7195133/43b208c1-1fae-4832-93a6-6a22e8735fb9)  
+
 ## Esercizio 62  
 
 $E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 \implies F_{el} = K \cdot \Delta L = \dfrac{2E_{Pel}}{\Delta L} = \dfrac{2 \cdot 0.125}{0.25 - 0.185} \simeq 3.85\ N$  
@@ -382,3 +384,98 @@ $E_{Pgm} = mgh = 1.65 \cdot 9.81 \cdot 2.5 \simeq 40.5\ J$
 $E_{Pgt} = E_{Pgm} - \Delta E_c = 40.5 - 28 = 12.5\ J$  
 
 $h_t = \dfrac{E_{Pgt}}{mg} = \dfrac{12.5}{1.65 \cdot 9.81} \simeq 0.77\ m = 77\ cm$  
+
+## Problema 7  
+
+$F = mg = 0.5 \cdot 9.81 = 4.905\ N$  
+
+$\Delta L = \dfrac{F}{K} = \dfrac{4.905}{25} = 0.1962\ m$  
+
+$h = h_0 - \Delta L = 0.8 - 0.1962 = 0.6038\ m$  
+
+$E_{Pgf} = mgh = 0.5 \cdot 9.81 \cdot 0.6038 \simeq 2.96\ J$  
+
+L'energia potenziale gravitazionale e' quindi diminuita.  
+
+$E_{Pgi} = mgh_0 = 0.5 \cdot 9.81 \cdot 0.8 \simeq 3.92\ J$  
+
+$\Delta E_{Pg} = E_{Pgf} - E_{Pgi} = 2.96 - 3.92 = -0.96\ J$  
+
+Allo stesso tempo l'energia potenziale immagazzinata nella molla grazie alla forza gravitazionale e'...  
+
+$E_{Pmf} = \frac{1}{2}K \cdot \Delta L^2 = \dfrac{25}{2} \cdot 0.1962^2 \simeq 0.48\ J$  
+
+L'altra meta' e' forse stata spesa dalla forza elastica della molla in lavoro negativo agendo in modo dissipativo ?  
+
+## Problema 8  
+
+$v_f = \sqrt{2sa} = \sqrt{2 \cdot (15 - 9) \cdot 9.81} \simeq 10.85\ \small\frac{m}{s}$  
+
+$L = \Delta E_c = \frac{1}{2}m(v_f^2 - v_i^2) = \dfrac{50}{2} \cdot (10.85^2 - 0^2) \simeq 2943\ J$  
+
+$E_{Pgi} = mgh = 50 \cdot 9.81 \cdot 15 = 7357.5\ J$  
+
+$E_{Pgf} = E_{Pgi} - \Delta E_c = 7357.5 - 2943 = 4414.5\ J$  
+
+$\Delta E_{pg} = E_{Pgf} - E_{Pgi} = 4414.5 - 7357.5 = - 2943\ J$  
+
+$P = \dfrac{L}{\Delta t} = \dfrac{2943}{1.11} \simeq 2651\ W$  
+
+La variazione di energia potenziale gravitazionale equivale al lavoro compiuto per spostare il corpo nella nuova posizione, in questo caso a potenziale minore.  
+
+## Problema 9  
+
+$\Delta E_{Pg} = mg(h_f - h_i) \implies m = \dfrac{\Delta E_{Pg}}{g(h_f - h_i)} = \dfrac{893}{9.81 \cdot (3 - 1.25)} \simeq 52\ kg$  
+
+## Problema 10  
+
+$\overline{CB} = \overline{CA} \cdot \cos (30^\circ) = 0.7 \cdot \frac{1}{2}\sqrt{3} \simeq 0.6\ m$  
+
+$h = \overline{CA} - \overline{CB} + h_{os} = 0.7 - 0.6 + 0.4 = 0.5\ m$  
+
+$E_{Pg} = mgh = 0.35 \cdot 9.81 \cdot 0.5 \simeq 1.7\ J$  
+
+## Problema 11  
+
+$\Delta L = \dfrac{F}{K} = \dfrac{42}{400} = 0.105\ m$  
+
+$E_{Pel} = \frac{1}{2}K \cdot \Delta L^2 = 2.205\ J$  
+
+$F_a = P \cdot K_a = mg \cdot K_a = 6.5 \cdot 9.81 \cdot 0.8 = 51.012\ N$  
+
+La forza d'attrito massima e' maggiore della forza elastica uguale e contraria alla forza necessaria per comprimere la molla di $42\ N$ percio' il parallelepipedo restera' in stato di quiete.  
+
+## Problema 12  
+
+$a = g\dfrac{h}{l} = 9.81 \cdot \dfrac{0.312}{1.7} \simeq 1.8\ \small\frac{m}{s^2}$  
+
+$v_f = \sqrt{2as} = \sqrt{2 \cdot 1.8 \cdot 1.7} \simeq 2.47\ \small\frac{m}{s}$  
+
+$E_c = \frac{1}{2}mv_f^2 = \frac{1}{2}0.4 \cdot 2.47^2 \simeq 1.22\ J$  
+
+## Problema 13  
+
+$L = \Delta E_c = \frac{1}{2}mv^2 = \frac{1}{2}m(at)^2 = \frac{1}{2}1170 \cdot (3 \cdot 9.25)^2 \simeq 45 \cdot 10^4\ J$  
+
+$P = \dfrac{L}{\Delta t} = \dfrac{45 \cdot 10^4}{9.25} \simeq 49\ kW$  
+
+## Problema 14  
+
+$m = 60\pm 0.2\ kg$  
+$v = 13.4\pm 0.1\ \small\frac{m}{s}$  
+
+#
+$\varepsilon_r (v^2) = 2 \cdot \varepsilon_r (v) = 2 \cdot \dfrac{0.1}{13.4} \simeq 0.015$  
+
+$\Delta x (v^2) = \varepsilon_r (v^2) \cdot v_m^2 = 0.015 \cdot 13.4^2 = 2.6934 = 3\ \small\frac{m^2}{s^2}$  
+
+$v^2 = 180\pm 3\ \small\frac{m^2}{s^2}$  
+
+# 
+$E_{cm} = \frac{1}{2}mv^2 = \frac{1}{2}60 \cdot 180 = 5400 = 5.4\ kJ$  
+
+$\varepsilon_r (E_{cm}) = \varepsilon_r (m) + \varepsilon_r (v^2) = \dfrac{0.2}{60} + \dfrac{3}{180} = 0.02$  
+
+$\Delta x (E_c) = \varepsilon_r (E_{cm}) \cdot E_{cm} = 0.02 \cdot 5400 = 108 = 100\ J$  
+
+$E_c = 5.4\pm 0.1\ kJ$  
