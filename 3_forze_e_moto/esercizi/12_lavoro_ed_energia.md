@@ -427,6 +427,8 @@ La variazione di energia potenziale gravitazionale equivale al lavoro compiuto p
 
 $\Delta E_{Pg} = mg(h_f - h_i) \implies m = \dfrac{\Delta E_{Pg}}{g(h_f - h_i)} = \dfrac{893}{9.81 \cdot (3 - 1.25)} \simeq 52\ kg$  
 
+![lavoro_ed_energia_ex_09](https://github.com/dennyb87/phoenomena/assets/7195133/e8b22c5b-b447-4c6c-9ac9-fe03c1800d2e)  
+
 ## Problema 10  
 
 $\overline{CB} = \overline{CA} \cdot \cos (30^\circ) = 0.7 \cdot \frac{1}{2}\sqrt{3} \simeq 0.6\ m$  
@@ -479,3 +481,25 @@ $\varepsilon_r (E_{cm}) = \varepsilon_r (m) + \varepsilon_r (v^2) = \dfrac{0.2}{
 $\Delta x (E_c) = \varepsilon_r (E_{cm}) \cdot E_{cm} = 0.02 \cdot 5400 = 108 = 100\ J$  
 
 $E_c = 5.4\pm 0.1\ kJ$  
+
+## Problema 15  
+
+$m = 85.4\pm 0.2\ kg$  
+$h_i = 2.6\pm 0.05\ m$  
+$h_f = 6.85\pm 0.05\ m$  
+
+#
+$\Delta h_m = h_f - h_i = 6.85 - 2.6 = 4.25\ m$  
+$\Delta x (\Delta h_m) = \Delta x (h_f) + \Delta x (h_i) = 0.05 + 0.05 = 0.1\ m$  
+$\Delta h = 4.25\pm 0.1\ m$  
+
+#
+$\Delta E_{Pgm} = mg\Delta h = 85.4 \cdot 9.81 \cdot 4.25 \simeq 3560\ J$  
+
+$\varepsilon_r (\Delta E_{Pgm}) = \varepsilon_r (m) + \varepsilon_r (g) + \varepsilon_r (\Delta h) = \dfrac{0.2}{85.4} + \dfrac{0.01}{9.81} + \dfrac{0.1}{4.25} \simeq 0.027$  
+
+$\Delta x (\Delta E_{Pg}) = \varepsilon_r (\Delta E_{Pgm}) \cdot \Delta E_{Pgm} = 0.027 \cdot 3560 = 96.12 = 100\ J$  
+
+$\Delta E_{Pg} = 3.6\pm 0.1\ kJ$  
+
+L'incertezza e' in disaccordo con la soluzione del libro (?)  
