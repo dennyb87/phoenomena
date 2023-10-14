@@ -72,3 +72,39 @@ Come abbiamo visto la quantita' di moto si conserva in un qualunque sistema isol
 * **urti anelastici** se l'energia cinetica non si conserva
 
 Si dice **urto totalmente anelastico** se la velocita' finale e' $v_{f1} = v_{f2}$ in cui i corpo di incastrano procedendo uniti.  
+
+# Velocita' angolare  
+
+![angular_velocity](https://github.com/dennyb87/phoenomena/assets/7195133/505dca25-a286-4bca-ae49-4bf340bee5ed)  
+
+Mentre in un moto traslatorio si parla di velocita' lineare, in quello rotatorio si ha invece una **velocita' angolare**, che al contrario di quella tangenziale e' indipendente dal raggio.  
+
+$\Delta \theta = \dfrac{\Delta S_1}{r_1} = \dfrac{\Delta S_2}{r_2}$  
+
+Da cui la definizione di velocita' angolare:  
+
+$\omega = \dfrac{\Delta \theta}{\Delta t}$  
+
+La sua unita' di misura e' in radianti al secondo $\frac{rad}{s}$  
+
+# Momento di una forza  
+
+![momento](https://github.com/dennyb87/phoenomena/assets/7195133/3e74f2b1-d21c-4a53-8fc9-76f7a837c5f3)  
+
+Come la forza e' la causa di un moto traslatorio, il momento $\vec{M}$ di una forza $\vec{F}$ e' la causa del moto rotatorio, in quanto tiene conto della forza e del braccio, ed il suo modulo e':  
+
+$M = F \cdot b$  
+
+### Momento di inerzia  
+
+Come la massa inerziale esprime la resistenza di un corpo ad essere messo in moto lineare, il **momento di inerzia** esprime la resistenza di una massa $m$ distante $b$ dall'asse ad essere messo in rotazione.  
+
+$I =  m \cdot b^2$  
+
+E' in effetti poco intuitivo, ma se consideriamo una forza $F$ agente su una massa $m$ e braccio $b$ si ha un'**accelerazione angolare** $\frac{rad}{s^2}$ uguale a:  
+
+$a_1 = \dfrac{F\cancel{b}}{mb^{\cancel{2}}}$  
+
+Allora a parita' di forza, se il braccio raddoppia l'accelerazione si dimezza.  
+
+$a_2 = \dfrac{F\cancel{(2b)}}{m(2b)^{\cancel{2}}} = \dfrac{a_1}{2}$  
